@@ -1,0 +1,88 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+ASTR 61,"  First-Year Seminar: The Copernican Revolution",3,"
+This seminar explores the 2,000-year effort to understand the motion of the sun, moon, stars, and five visible planets. Earth-centered cosmos gives way to the conclusion that earth is just another body in space. Cultural changes accompany this revolution in thinking.",,"PL, NA, WB.",,"Letter gradeSame as: PHYS 61.
+"
+ASTR 63,"  First-Year Seminar: Catastrophe and Chaos: Unpredictable Physics",3,"
+Physics is often seen as the most precise and deterministic of sciences. Determinism can break down, however. This seminar explores the rich and diverse areas of modern physics in which "unpredictability" is the norm. Honors version available",,"PL, QI.",,"Letter gradeSame as: PHYS 63.
+"
+ASTR 89,"  First-Year Seminar: Special Topics",3,"
+Special topics course content will vary each semester.",,,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 2 total completions.","Letter grade.
+"
+ASTR 101,"  Introduction to Astronomy:  The Solar System",3,"
+Celestial motions of the earth, sun, moon, and planets; nature of light; ground and space-based telescopes; comparative planetology; the earth and the moon; terrestrial and gas planets and their moons; dwarf planets, asteroids, and comets; planetary system formation; extrasolar planets; the search for extraterrestrial intelligence (SETI). Honors version available",,"PX.",,"Letter grade.
+"
+ASTR 101L,"  Introduction to Astronomy Laboratory: Our Place in Space",1,"
+ Observing with robotic telescopes in Chile, Australia, and around the world: planets, dwarf planets, moons, asteroids, binary and variable stars, supernovae, star-forming regions, star clusters, and galaxies; the seasons, the Galilean revolution; the cosmic distance ladder; the Great Debate; dark matter; Hubble's Law; dark energy.","Pre- or corequisite, ASTR 101.",,,"Letter grade.
+"
+ASTR 102,"  Introduction to Astronomy:  Stars, Galaxies & Cosmology",3,"
+ The sun, stellar observables, star birth, evolution, and death, novae and supernovae, white dwarfs, neutron stars, black holes, the Milky Way galaxy, normal galaxies, active galaxies and quasars, dark matter, dark energy, cosmology, early universe. Honors version available","Prerequisite, ASTR 101, or pre- or co-requisite, PHYS 117 or 119; Permission of the instructor for students lacking the pre- or co-requisites.","PL.",,"Letter grade.
+"
+ASTR 105,"  Time, Tides, and the Measurement of the Cosmos",3,"
+This course is focused on medieval foundations of modern cosmology and is designed to take advantage of the opportunities available for enriched learning in England. The course is problem-based, e.g. How did people reckon calendars, time, and tides, both for navigation and daily life, before clocks and the printed word? Honors version available",,"PL, WB.",,"Letter grade.
+"
+ASTR 111L,"  Educational Research in Radio Astronomy",1,"
+Permission of the instructor. One-week field experience at the National Radio Astronomy Observatory in Green Bank, WV, for experiential education (EE) credit. Observing with radio telescopes and antennae: supernova remnants, star-forming regions, normal and active galaxies, quasars, solar system objects (sun, moon, Jupiter), radio spectroscopy.",,"EE- Field Work.",,"Letter grade.
+"
+ASTR 202,"  Introduction to Astrophysics",3,"
+ This introductory astrophysics course will focus on the use of classical mechanics, gravitational physics, and the physics of radiation to interpret and explain astronomical observations. Course covers stellar structure, stellar formation and evolution, galaxies, and cosmology with an emphasis on quantitative problem solving.","Pre- or corequisite, PHYS 119.",,,"Letter grade.
+"
+ASTR 205,"  The Medieval Foundations of Modern Cosmology",3,"
+This course will examine science as it emerged and developed in the West starting in the 13th century. We will use example problems from cosmology that are relevant today.",,"PL, WB.",,"Letter grade.
+"
+ASTR 301,"  Stars, Galaxies, and Cosmology",1,"
+ Stellar observables; galaxies; novae; cosmology; the early universe. This one-credit course can be taken with ASTR 102 for students who wish to major or minor in astrophysics.","Pre- or corequisites, ASTR 102, and PHYS 117 or 119; Permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+ASTR 390,"  Research and Special Topics for Juniors and Seniors",112,"
+Permission of the instructor. To be taken by honors candidates and other qualified juniors and seniors.",,"QI.","May be repeated for credit. 12 total credits. 4 total completions.","Letter grade.
+"
+ASTR 501,"  Astrophysics I (Stellar Astrophysics)",3,"
+ An introduction to the study of stellar structure and evolution. Topics covered include observational techniques, stellar structure and energy transport, nuclear energy sources, evolution off the main-sequence, and supernovae.","Prerequisites, ASTR 202 or ASTR 301, MATH 383, and PHYS 331; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+ASTR 502,"  Astrophysics II (Modern Research in Astrophysics)",3,"
+ An introduction to modern research in astrophysics based on scientific journal articles addressing a current topic of interest in galactic or extragalactic astrophysics, including training in computer modeling and statistical analysis, culminating in the completion of a research project.","Prerequisites, ASTR 202 or ASTR 301, and MATH 383; pre- or corequisite, PHYS 331.","EE- Mentored Research.",,"Letter grade.
+"
+ASTR 503,"  Structure and Evolution of Galaxies",3,"
+ Overview of the structure and evolution of galaxies, with emphasis on learning and applying modern research methods such as scientific literature review and computational astrostatistics. Includes galaxy morphology and dynamics, star formation, active galactic nuclei, galaxy interactions, large-scale clustering, environment-dependent physical processes, and the evolution of the galaxy population over cosmic time.","Prerequisites, ASTR 202 or ASTR 301, MATH 383, and PHYS 331.",,,"Letter grade.
+"
+ASTR 504,"  Cosmology",3,"
+ An introduction to modern cosmology: the study of the contents and evolution of the universe. Covers expanding spacetime, the thermal history of the early universe, including nucleosynthesis and the cosmic microwave background, the inflationary model for the origins of cosmic structure, and the growth of that structure through time.","Prerequisites, ASTR 202 or ASTR 301, and PHYS 401; pre- or corequisite, PHYS 421.",,,"Letter grade.
+"
+ASTR 505,"  Physics of Interstellar Gas",3,"
+ Surveys the physical processes governing the interstellar medium (ISM), which takes up the "refuse" of old stars while providing fuel for young stars forming. Covers the processes regulating the galactic gas budget and the corresponding observational diagnostics. Topics: radiative transfer, line formation mechanisms, continuum radiation, gas dynamics, star formation.","Prerequisites, ASTR 202 or ASTR 301, MATH 383, and PHYS 331.",,,"Letter grade.
+"
+ASTR 511,"  Atomic and Radiative Processes in Astrophysics",3,"
+ This course covers key topics in electromagnetism, radiative transport, and thermal and statistical mechanics in the context of astrophysics, such as stellar and planetary interiors and atmospheres, stellar evolution (including star formation and death), stellar populations, and the early universe.","Prerequisite, ASTR 202; Pre- or corequisite, PHYS 412.",,,"Letter grade.
+"
+ASTR 512,"  Astrophysical Dynamics",3,"
+ This course provides a broad overview of astrophysical principles underlying stellar and planetary dynamics; N-body dynamics of star clusters, galaxies, and dark matter; fluid dynamics of astrophysical plasmas; and dynamics of the Universe and spacetime.","Prerequisites, ASTR 202 and PHYS 401.",,,"Letter grade.
+"
+ASTR 519,"  Observational Astronomy",4,"
+ An introduction to modern techniques in observational astronomy with an emphasis on optical and near-infrared wavelengths.  Topics covered include celestial coordinates, practical python for astronomy, telescopes and CCDs, spectroscopy, astrostatistics, and mining large astronomical surveys. Three lecture and three laboratory hours a week.","Prerequisite, ASTR 102 or 202; Pre- or corequisite, PHYS 331; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+ASTR 701,"  Stellar Interiors, Evolution, and Populations",3,"
+Stellar structure and evolution, including equations of stellar structure, stellar models, star and planet formation, fusion and nucleosynthesis, stellar evolution, stellar remnants, and the comparison of theory to observations.",,,,"Letter grade.
+"
+ASTR 702,"  High Energy Astrophysics",3,"
+ White dwarfs and neutron stars: physical properties and observational manifestations. Extragalactic radio sources, relativistic jets, and supermassive black holes. Particle acceleration and radiative processes in hot plasmas. Accretion phenomena. X-ray and gamma-ray astrophysics.","Prerequisites, PHYS 711 and 721.",,,"Letter grade.
+"
+ASTR 703,"  Structure and Evolution of Galaxies",3,"
+Overview of the structure and evolution of galaxies, with emphasis on learning and applying modern research methods such as scientific literature review and computational astrostatistics. Includes galaxy morphology and dynamics, star formation, active galactic nuclei, galaxy interactions, large-scale clustering, environment-dependent physical processes, and the evolution of the galaxy population over cosmic time.",,,,"Letter grade.
+"
+ASTR 704,"  Cosmology",3,"
+ General relativity and cosmological world models; thermal history of the early universe, nucleosynthesis, and the cosmic microwave background; growth of structure through cosmic time.","Co-requisite, PHYS 701.",,,"Letter grade.
+"
+ASTR 705,"  Physics of Interstellar Gas",3,"
+ Surveys the physical processes governing the interstellar medium (ISM), which takes up the "refuse" of old stars while providing fuel for young stars forming. Covers the processes regulating the galactic gas budget and the corresponding observational diagnostics. Topics: radiative transfer, line formation mechanisms, continuum radiation, gas dynamics, star formation.","Prerequisites, PHYS 711 and 721.",,,"Letter grade.
+"
+ASTR 711,"  Atomic and Radiative Processes in Astrophysics",3,"
+This course covers key topics in electromagnetism, radiative transport, and thermal and statistical mechanics in the context of astrophysics, such as stellar and planetary interiors and atmospheres, stellar evolution (including star formation and death), stellar populations, and the early universe.",,,,"Letter grade.
+"
+ASTR 712,"  Astrophysical Dynamics",3,"
+ This course provides a broad overview of astrophysical principles underlying stellar and planetary dynamics; N-body dynamics of star clusters, galaxies, and dark matter; fluid dynamics of astrophysical plasmas; and dynamics of the Universe and spacetime.","Prerequisite, PHYS 701.",,,"Letter grade.
+"
+ASTR 719,"  Astronomical Data",4,"
+Required preparation, physics-based cosmology course or permission of the instructor. A course designed to familiarize the student with observational techniques in optical and radio astronomy, including application of photography, spectroscopy, photometry, and radio methods. Three lecture and three laboratory hours a week.",,,,"Letter grade.
+"
+ASTR 891,"  Seminar in Astrophysics",121,"
+Recent observational and theoretical developments in stellar, galactic, and extragalactic astrophysics.",,,,"Letter grade.
+"

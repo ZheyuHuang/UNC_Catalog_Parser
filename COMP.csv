@@ -1,0 +1,394 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+COMP 50,"  First-Year Seminar: Everyday Computing",3,"
+The goal of this first-year seminar is to understand the use of computing technology in our daily activities.  In this course, we will study various examples of how computing solves problems in different aspects in our daily life. Honors version available",,"QI.",,"Letter grade.
+"
+COMP 60,"  First-Year Seminar: Robotics with LEGO®",3,"
+This seminar explores the process of design and the nature of computers by designing, building, and programming LEGO robots.  Competitions to evaluate various robots are generally held at the middle and at the end of the semester.  Previous programming experience is not required. Honors version available",,"QI.",,"Letter grade.
+"
+COMP 65,"  First-Year Seminar: Folding, from Paper to Proteins",3,"
+Explore the art of origami, the science of protein, and the mathematics of robotics through lectures, discussions, and projects involving artistic folding, mathematical puzzles, scientific exploration, and research. Honors version available",,"PL.",,"Letter grade.
+"
+COMP 80,"  First-Year Seminar: Enabling Technology--Computers Helping People",3,"
+Service-learning course exploring issues around computers and people with disabilities. Students work with users and experts to develop ideas and content for new technologies. No previous computer experience required. Honors version available",,"EE- Service Learning, US.",,"Letter grade.
+"
+COMP 85,"  First-Year Seminar: The Business of Games",3,"
+This seminar will study the concepts associated with video gaming by having small teams design a game, build a prototype, and put together a business proposal for the game. Honors version available",,,,"Letter grade.
+"
+COMP 89,"  First -Year Seminar: Special Topics",3,"
+Special topics course.  Content will vary each semester. Honors version available",,,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 2 total completions.","Letter grade.
+"
+COMP 101,"  Fluency in Information Technology",3,"
+ The nature of computers, their capabilities, and limitations. How computers work, popular applications, problem-solving skills, algorithms and programming. Lectures and laboratory assignments. Students may not receive credit for this course after receiving credit for COMP 110 or higher.","Prerequisite, MATH 110 with a grade of C or better or MATH 130.","QR.",,"Letter grade.
+"
+COMP 110,"  Introduction to Programming",3,"
+ An introduction to programming. Fundamental programming skills, typically using Java or JavaScript. Problem analysis and algorithm design. Students may not receive credit for both COMP 110 and COMP 116. Students may not receive credit for this course after receiving credit for COMP 116 or higher. Honors version available","Prerequisite, COMP 101 or Pre- or corequisite, MATH 231.","QR.",,"Letter grade.
+"
+COMP 116,"  Introduction to Scientific Programming",3,"
+ An introduction to programming for computationally oriented scientists. Fundamental programming skills, typically using MATLAB or Python. Problem analysis and algorithm design with examples drawn from simple numerical and discrete problems. Students can receive credit for only one of COMP 110 and 116.","Prerequisite, MATH 231 or 241; a grade of C or better is required.","QR.",,"Letter grade.
+"
+COMP 126,"  Practical Web Design and Development for Everyone",3,"
+A ground-up introduction to current principles, standards, and best practice in website design, usability, accessibility, development, and management through project-based skills development in HTML5, CSS, and basic JavaScript. Intended for nonmajors.",,,,"Letter grade.
+"
+COMP 180,"  Enabling Technologies",3,"
+We will investigate ways computer technology can be used to mitigate the effects of disabilities and the sometimes surprising response of those we intended to help. Honors version available",,"EE- Service Learning.",,"Letter grade.
+"
+COMP 185,"  Serious Games",3,"
+Concepts of computer game development and their application beyond entertainment to fields such as education, health, and business. Course includes team development of a game. Excludes COMP majors. Honors version available",,"EE- Field Work.",,"Letter grade.
+"
+COMP 190,"  Topics in Computing",3,"
+Permission of the instructor. Special topics in computing targeted primarily for students with no computer science background. This course has variable content and may be taken multiple times for credit. As the content will vary with each offering, there are no set prerequisites, but permission of the instructor is required.",,,"May be repeated for credit; may be repeated in the same term for different topics; 12 total credits. 4 total completions.","Letter grade.
+"
+COMP 210,"  Data Structures and Analysis",3,"
+ This course will teach you how to organize the data used in computer programs so that manipulation of that data can be done efficiently on large problems and large data instances.  Rather than learning to use the data structures found in the libraries of programming languages, you will be learning how those libraries are constructed, and why the items that are included in them are there (and why some are excluded).","Prerequisites, COMP 110 and MATH 231; Pre- or corequisite, COMP 283 or MATH 381.",,,"Letter grade.
+"
+COMP 211,"  Systems Fundamentals",3,"
+ This is the first course in the introductory systems sequence. Students enter the course having taken an introductory programming course in a high-level programming language (COMP 110) and a course in discrete structures. The overarching goal is to bridge the gap between a students' knowledge of a high-level programming language (COMP 110) and computer organization (COMP 311).","Prerequisites, COMP 210; COMP 283 or MATH 381; a grade of C or better is required in both prerequisite courses.",,,"Letter grade.
+"
+COMP 222,"  ACM Programming Competition Practice",1,"
+Structured practice to develop and refine programming skills in preparation for the ACM programming competition.",,,,"Letter grade.
+"
+COMP 227,"  Effective Peer Teaching in Computer Science",3,"
+ Fundamentals of computer science pedagogy and instructional practice with primary focus on training undergraduate learning assistants for computer science courses. Emphasis on awareness of social identity in learning, active learning in the computer science classroom, and effective mentorship. All students must be granted a computer science learning assistantship or obtain prior approval to substitute relevant practicum experience prior to enrollment.","Prerequisite, COMP 401; a grade of C or better is required.","EE- Field Work.",,"Letter grade.
+"
+COMP 283,"  Discrete Structures",3,"
+ Introduces discrete structures (sets, tuples, relations, functions, graphs, trees) and the formal mathematics (logic, proof, induction) used to establish their properties and those of algorithms that work with them. Develops problem-solving skills through puzzles and applications central to computer science. Honors version available","Prerequisite, MATH 231 or MATH 241; a grade of C or better is required.",,,"Letter grade.
+"
+COMP 290,"  Special Topics in Computer Science",1,"
+Non-technical topics in computer science for computer science majors. May not be used to satisfy any degree requirements for a computer science major. This course has variable content and may be taken multiple times for credit.",,,"May be repeated for credit. 4 total credits. 4 total completions.","Letter grade.
+"
+COMP 293,"  Internship in Computer Science",3,"
+ Permission of instructor and  director of undergraduate studies required. Computer science majors only. A signed learning contract is required before a student may register. Work experience in non-elementary computer science.","Prerequisites, MATH 231 or 241; COMP 401, 410, and 411; a grade of C or better is required in COMP 401, 410, and 411.","EE- Academic Internship.",,"Pass/Fail.
+"
+COMP 301,"  Foundations of Programming",3,"
+ Students will learn how to reason about how their code is structured, identify whether a given structure is effective in a given context, and look at ways of organizing units of code that support larger programs. In a nutshell, the primary goal of the course is to equip students with tools and techniques that will help them not only in later courses in the major but also in their careers afterwards.","Prerequisites, COMP 210; COMP 283 or MATH 381; a grade of C or better is required in both prerequisite courses.",,,"Letter grade.
+"
+COMP 311,"  Computer Organization",3,"
+ Introduction to computer organization and design. Students will be introduced to the conceptual design of a basic microprocessor, along with assembly programming.  The course includes fundamental concepts such as binary numbers, binary arithmetic, and representing information as well as instructions. Students learn to program in assembly (i.e., machine) language.  The course covers the fundamentals of computer hardware design,  transistors and logic gates, progressing through basic combinational and sequential components, culminating in the conceptual design CPU.","Prerequisite, COMP 211; a grade of C or better is required.",,,"Letter grade.
+"
+COMP 325,"  How to Build a Software Startup",3,"
+Explores real-world skills for successfully developing and launching a software startup in an experiential learning environment.  Customer outreach and feedback, market analysis, business model development, agile product development, with mentors from the entrepreneurship community.",,"EE- Field Work.",,"Letter grade.
+"
+COMP 380,"  Introduction to Digital Culture",3,"
+An introduction to digital technology and computer science issues in society. Topics may include Internet history, privacy, security, usability, graphics, games, computers in the media, development, economics, social media, AI, IP, computer and Internet ethics, global ethics, current legal issues, etc. Honors version available",,"PH.",,"Letter grade.
+"
+COMP 388,"  Advanced Cyberculture Studies",3,"
+ Explores Internet history and cyberphilosophy; online identify construction, community, communication, creativity; bodies/cyborgs; intelligence and AI. Students perform independent research into and analyze virtual worlds, social media, anonymous bulletin boards, mobile media, and more, and create digital art and literature. Seminar-style; students collaborate on designing and leading class.","Prerequisite, COMP 380; a grade of C or better is required; permission of the instructor for students lacking the prerequisite.","PH.",,"Letter grade.
+"
+COMP 390,"  Computer Science Elective Topics",3,"
+Elective topics in computer science for computer science majors. May not be used to satisfy any degree requirements for a computer science major. This course has variable content and may be taken multiple times for credit.",,,"May be repeated for credit; may be repeated in the same term for different topics; 12 total credits. 4 total completions.","Letter grade.
+"
+COMP 393,"  Software Engineering Practicum",13,"
+ Students develop a software program for a real client under the supervision of a faculty member. Projects may be proposed by the student but must have real users. Course is intended for students desiring practical experiences in software engineering but lacking the experience required for external opportunities. Majors only.","Prerequisites, COMP 401, 410, 411; a grade of C or better is required in COMP 401, 410, and 411.","EE- Field Work.","May be repeated for credit. 6 total credits. 6 total completions.","Letter grade.
+"
+COMP 401,"  Foundation of Programming",4,"
+ Required preparation, a first formal course in computer programming (e.g., COMP 110, COMP 116). Advanced programming: object-oriented design, classes, interfaces, packages, inheritance, delegation, observers, MVC (model view controller), exceptions, assertions. Students may not receive credit for this course after receiving credit for COMP 301. Honors version available","Prerequisite, MATH 231 or MATH 241; a grade of C or better is required.","QR.",,"Letter grade.
+"
+COMP 410,"  Data Structures",3,"
+The analysis of data structures and their associated algorithms. Abstract data types, lists, stacks, queues, trees, and graphs. Sorting, searching, hashing. Students may not receive credit for this course after receiving credit for COMP 210.","Prerequisites, MATH 231 or 241, and COMP 401; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 411,"  Computer Organization",4,"
+ Digital logic, circuit components. Data representation, computer architecture and implementation, assembly language programming. Students may not receive credit for this course after receiving credit for COMP 311.","Prerequisite, MATH 231 or 241,and COMP 401; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 426,"  Modern Web Programming",3,"
+ Developing applications for the World Wide Web including both client-side and server-side programming. Emphasis on Model-View-Controller architecture, AJAX, RESTful Web services, and database interaction.","Prerequisites, COMP 211 and 301; or COMP 401 and 410; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 431,"  Internet Services and Protocols",3,"
+ Application-level protocols HTTP, SMTP, FTP, transport protocols TCP and UDP, and the network-level protocol IP. Internet architecture, naming, addressing, routing, and DNS. Sockets programming. Physical-layer technologies. Ethernet, ATM, and wireless.","Prerequisites, COMP 210, 211, and 301; or COMP 401, 410, and 411; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 433,"  Mobile Computing Systems",3,"
+ Principles of mobile applications, mobile OS, mobile networks, and embedded sensor systems. Coursework includes programming assignments, reading from recent research literature, and a semester long project on a mobile computing platform (e.g., Android, Arduino, iOS, etc.).","Prerequisites, COMP 210, 211, and 301; or COMP 401, 410, and 411; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 435,"  Computer Security Concepts",3,"
+ Introduction to topics in computer security including confidentiality, integrity, availability, authentication policies, basic cryptography and cryptographic protocols, ethics, and privacy. A student may not receive credit for this course after receiving credit for COMP 535.","Prerequisites, COMP 210, 211, and 301; or COMP 401, 410, and 411; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 447,"  Quantum Computing",3,"
+ Recommended preparation, some knowledge of basic linear algebra. An introduction to quantum computing. Basic math and quantum mechanics necessary to understand the operation of quantum bits. Quantum gates, circuits, and algorithms, including Shor's algorithm for factoring and Grover's search algorithm. Entanglement and error correction. Quantum encryption, annealing, and simulation. Brief discussion of technologies.","Prerequisites, MATH 232, and PHYS 116 or 118.",,,"Letter gradeSame as: PHYS 447.
+"
+COMP 455,"  Models of Languages and Computation",3,"
+ Introduction to the theory of computation. Finite automata, regular languages, pushdown automata, context-free languages, and Turing machines. Undecidable problems.","Prerequisites, COMP 110, 166, or 401; and COMP 283 or MATH 381; a grade of C or better in both courses is required.",,,"Letter grade.
+"
+COMP 475,"  2D Computer Graphics",3,"
+ Fundamentals of modern software 2D graphics; geometric primitives, scan conversion, clipping, transformations, compositing, texture sampling. Advanced topics may include gradients, antialiasing, filtering, parametric curves, and geometric stroking.","Prerequisites, COMP 210, 211, and 301; or COMP 401, 410, and 411; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 486,"  Applications of Natural Language Processing",3,"
+ Students with graduate standing in SILS may take the course without the prerequisite. Explores current and future uses of natural language technologies. Topics vary and may include translation, generation, deception, health informatics, ethics and evaluation, and student-selected areas of interest.","Prerequisite, COMP 110, 116, or 410.",,,"Letter gradeSame as: INLS 512.
+"
+COMP 487,"  Information Retrieval",3,"
+Study of information retrieval and question answering techniques, including document classification, retrieval and evaluation techniques, handling of large data collections, and the use of feedback.",,,,"Letter gradeSame as: INLS 509.
+"
+COMP 488,"  Data Science in the Business World",3,"
+Students will acquire hands-on data science skills enabling them to solve real-world business problems. Since data science is an interdisciplinary field, business and computer science students learn and work together in this course. Leveraging each other's skills and knowledge, students create data-driven business insights using modern analytics.",,,,"Letter gradeSame as: BUSI 488.
+"
+COMP 495,"  Mentored Research in Computer Science",3,"
+Independent research conducted under the direct mentorship of a computer science faculty member. This course cannot be counted toward the completion of the major or minor. For computer science majors only. Permission of instructor required.",,"EE- Mentored Research.","May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+COMP 496,"  Independent Study in Computer Science",3,"
+Permission of the department. Computer science majors only. For advanced majors in computer science who wish to conduct an independent study or research project with a faculty supervisor. May be taken repeatedly for up to a total of six credit hours.",,,"May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+COMP 520,"  Compilers",3,"
+ Design and construction of compilers. Theory and pragmatics of lexical, syntactic, and semantic analysis. Interpretation. Code generation for a modern architecture.  Run-time environments. Includes a large compiler implementation project.","Prerequisites, COMP 210, 211, 301, 311, and 455; or COMP 401, 410, 411, and 455; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 521,"  Files and Databases",3,"
+ Placement of data on secondary storage. File organization. Database history, practice, major models, system structure and design.","Prerequisites, COMP 210, 211, and 301; or COMP 401, 410, and 411; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 523,"  Software Engineering Laboratory",4,"
+ Organization and scheduling of software engineering projects, structured programming, and design. Each team designs, codes, and debugs program components and synthesizes them into a tested, documented program product.","Prerequisites, COMP 210, 211, 301, and 311; or COMP 401, 410, and 411; as well as at least two chosen from COMP 426, 431, 433, 520, 521, 530, 535, 575, 580; a grade of C or better in COMP 210, 211, 301, and 311 or COMP 401, 410, and 411 is required.","CI, EE- Mentored Research.",,"Letter grade.
+"
+COMP 524,"  Programming Language Concepts",3,"
+ Concepts of high-level programming and their realization in specific languages. Data types, scope, control structures, procedural abstraction, classes, concurrency. Run-time implementation.","Prerequisites, COMP 210, 211, 301, 311, and 455; or COMP 401, 410, 411, and 455; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 530,"  Operating Systems",3,"
+ Types of operating systems. Concurrent programming. Management of storage, processes, devices. Scheduling, protection. Case study. Course includes a programming laboratory. Honors version available","Prerequisites, COMP 210, 211, 301, and 311; or COMP 401, 410, and 411; a grade of C or better in all prerequisites is required.",,,"Letter grade.
+"
+COMP 533,"  Distributed Systems",3,"
+ Distributed systems and their goals; resource naming, synchronization of distributed processes; consistency and replication; fault tolerance; security and trust; distributed object-based systems; distributed file systems; distributed Web-based systems; and peer-to-peer systems.","Prerequisite, COMP 431, 524, or 530; a grade of C or better is required; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+COMP 535,"  Introduction to Computer Security",3,"
+ Principles of securing the creation, storage, and transmission of data and ensuring its integrity, confidentiality and availability. Topics include access control, cryptography and cryptographic protocols, network security, and online privacy.","Prerequisites, COMP 210, 211, 301, and 311; or COMP 401, 410, and 411; as well as COMP 550, and COMP 283 or MATH 381; a grade of C or better is required in all prerequisites.",,,"Letter grade.
+"
+COMP 541,"  Digital Logic and Computer Design",4,"
+ This course is an introduction to digital logic as well as the structure and electronic design of modern processors. Students will implement a working computer during the laboratory sessions.","Prerequisites, COMP 210, 211, 301, and 311; or COMP 401, 410, and 411; a grade of C or better in all prerequisites is required.",,,"Letter grade.
+"
+COMP 550,"  Algorithms and Analysis",3,"
+ Formal specification and verification of programs. Techniques of algorithm analysis. Problem-solving paradigms. Survey of selected algorithms.","Prerequisites, COMP 210, 211, and 301; or 410; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 555,"  Bioalgorithms",3,"
+ Bioinformatics algorithms. Topics include DNA restriction mapping, finding regulatory motifs, genome rearrangements, sequence alignments, gene prediction, graph algorithms, DNA sequencing, protein sequencing, combinatorial pattern matching, approximate pattern matching, clustering and evolution, tree construction, Hidden Markov Models, randomized algorithms.","Prerequisites, COMP 401, 410, and MATH 231 or 241; or BIOL 452; or MATH 553; or BIOL 525; a grade of C or better is required in all prerequisite courses.",,,"Letter gradeSame as: BCB 555.
+"
+COMP 560,"  Artificial Intelligence",3,"
+ Introduction to techniques and applications of modern artificial intelligence. Combinatorial search, probabilistic models and reasoning, and applications to natural language understanding, robotics, and computer vision.","Prerequisites, COMP 210, 211, and 301; or COMP 401 and 410; as well as MATH 231; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 562,"  Introduction to Machine Learning",3,"
+ Machine learning as applied to speech recognition, tracking, collaborative filtering and recommendation systems. Classification, regression, support vector machines, hidden Markov models, principal component analysis, and deep learning.","Prerequisites, COMP 401, 410, MATH 233, 347, and STOR 435; a grade of C or better is required in all prerequisite courses; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+COMP 572,"  Computational Photography",3,"
+ The course provides a hands on introduction to techniques in computational photography--the process of digitally recording light and then performing computational manipulations on those measurements to produce an image or other representation. The course includes an introduction to relevant concepts in computer vision and computer graphics.","Prerequisites, COMP 401, 410, and MATH 547 or 577; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 575,"  Introduction to Computer Graphics",3,"
+ Hardware, software, and algorithms for computer graphics. Scan conversion, 2-D and 3-D transformations, object hierarchies. Hidden surface removal, clipping, shading, and antialiasing. Not for graduate computer science credit.","Prerequisites, COMP 401, 410, 411, and MATH 547 or MATH 577; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 576,"  Mathematics for Image Computing",3,"
+ Mathematics relevant to image processing and analysis using real image computing objectives and provided by computer implementations.","Prerequisites, COMP 116 or 210 or 401, and MATH 233; a grade of C or better is required in all prerequisites.",,,"Letter gradeSame as: BMME 576.
+"
+COMP 580,"  Enabling Technologies",3,"
+ We will investigate ways computer technology can be used to mitigate the effects of disabilities and the sometimes surprising response of those we intended to help.","Prerequisites, COMP 210, 211, and 301; or COMP 401 and 410; a grade of C or better is required in all prerequisites.","EE- Service Learning.",,"Letter grade.
+"
+COMP 581,"  Introduction to Robotics",3,"
+ Hands-on introduction to robotics with a focus on the computational aspects. Students will build and program mobile robots. Topics include kinematics, actuation, sensing, configuration spaces, control, and motion planning. Applications include industrial, mobile, personal, and medical robots. Honors version available","Prerequisites, COMP 210, 211, 301, and 311; or COMP 401, 410, and 411; a grade of C or better is required in all prerequisite courses.",,,"Letter grade.
+"
+COMP 585,"  Serious Games",3,"
+ Concepts of computer game development and their application beyond entertainment to fields such as education, health, and business. Course includes team development of a game. Honors version available","Prerequisites, COMP 210, 211, 301, and 311; or COMP 401, 410, and 411, and at least two chosen from COMP 426, 431, 433, 520, 521, 523, 530, 535, 575; a grade of C or better in all prerequisite courses.","EE- Field Work.",,"Letter grade.
+"
+COMP 590,"  Topics in Computer Science",3,"
+Permission of the instructor. This course has variable content and may be taken multiple times for credit. Different sections may be taken in the same semester. Honors version available",,,"May be repeated for credit; may be repeated in the same term for different topics; 12 total credits. 4 total completions.","Letter grade.
+"
+COMP 630,"  Operating System Implementation",3,"
+ Students will learn how to write OS kernel code in C and a small amount of assembly. Students will implement major components of the OS kernel, such as page tables, scheduling, and program loading.","Prerequisite, COMP 530; a grade of B+ or better is required; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+COMP 631,"  Computer Networks",3,"
+Required preparation, a first course in operating systems, a first course in networking (e.g., COMP 431 and 530), and knowledge of probability and statistics. Topics in computer networks, including link layer protocols, switching, IP, TCP, and congestion control. Additional topics may include peer-to-peer infrastructures, network security, and multimedia applications.",,,,"Letter grade.
+"
+COMP 633,"  Parallel and Distributed Computing",3,"
+Required preparation, a first course in operating systems and a first course in algorithms (e.g., COMP 530 and 550). Principles and practices of parallel and distributed computing. Models of computation. Concurrent programming languages and systems. Architectures. Algorithms and applications. Practicum.",,,,"Letter grade.
+"
+COMP 635,"  Wireless and Mobile Communications",3,"
+ This course builds an understanding of the core issues encountered in the design of wireless (vs. wired) networks. It also exposes students to fairly recent paradigms in wireless communication.","Prerequisite, COMP 431.",,,"Letter grade.
+"
+COMP 636,"  Distributed Collaborative Systems",3,"
+ Design and implementation of distributed collaborative systems. Collaborative architectures, consistency of replicated objects, collaborative user-interfaces, application and system taxonomies, application-level multicast, performance, causality, operation transformation, and concurrency and access control.","Prerequisite, COMP 431 or 530; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+COMP 651,"  Computational Geometry",3,"
+Required preparation, a first course in algorithms (e.g., COMP 550). Design and analysis of algorithms and data structures for geometric problems. Applications in graphics, CAD/CAM, robotics, GIS, and molecular biology.",,,,"Letter grade.
+"
+COMP 655,"  Cryptography",3,"
+ Introduction to design and analysis of cryptographic algorithms. Topics include basis of abstract algebra and number theory, symmetric and asymmetric encryption algorithms, cryptographic hash functions, message authentication codes, digital signature schemes, elliptic curve algorithms, side-channel attacks, selected advanced topics","Prerequisites, COMP 455 and STOR 435; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+COMP 662,"  Scientific Computation II",3,"
+ Theory and practical issues arising in linear algebra problems derived from physical applications, e.g., discretization of ODEs and PDEs. Linear systems, linear least squares, eigenvalue problems, singular value decomposition.","Prerequisite, MATH 661.",,,"Letter gradeSame as: MATH 662, ENVR 662.
+"
+COMP 665,"  Images, Graphics, and Vision",3,"
+Required preparation, a first course in data structures and a first course in discrete mathematics (e.g., COMP 410 and MATH 383). Display devices and procedures. Scan conversion. Matrix algebra supporting viewing transformations in computer graphics. Basic differential geometry. Coordinate systems, Fourier analysis, FDFT algorithm. Human visual system, psychophysics, scale in vision.",,"QI.",,"Letter grade.
+"
+COMP 672,"  Simulation Modeling and Analysis",3,"
+ Introduces students to modeling, programming, and statistical analysis applicable to computer simulations. Emphasizes statistical analysis of simulation output for decision-making. Focuses on discrete-event simulations and discusses other simulation methodologies such as Monte Carlo and agent-based simulations. Students model, program, and run simulations using specialized software. Familiarity with computer programming recommended.","Prerequisites, STOR 555 and 641.",,,"Letter gradeSame as: STOR 672.
+"
+COMP 690,"  Special Topics in Computer Science",14,"
+This course has variable content and may be taken multiple times for credit.  COMP 690 courses do not count toward the major or minor.",,,"May be repeated for credit; may be repeated in the same term for different topics; 8 total credits. 2 total completions.","Letter grade.
+"
+COMP 691H,"  Honors Thesis in Computer Science",3,"
+For computer science majors only and by permission of the department. Individual student research for students pursuing an honors thesis in computer science under the supervision of a departmental faculty adviser.",,"EE- Mentored Research.",,"Letter grade.
+"
+COMP 692H,"  Honors Thesis in Computer Science",3,"
+Permission of the department.  Required of all students in the honors program in computer science.  The construction of a written honors thesis and an oral public presentation of the thesis are required.",,"EE- Mentored Research.",,"Letter grade.
+"
+COMP 715,"  Visualization in the Sciences",3,"
+Computational visualization applied in the natural sciences. For both computer science and natural science students. Available techniques and their characteristics, based on human perception, using software visualization toolkits. Project course.",,,,"Letter gradeSame as: MTSC 715, PHYS 715.
+"
+COMP 720,"  Compilers",3,"
+ Tools and techniques of compiler construction. Lexical, syntactic, and semantic analysis. Emphasis on code generation and optimization.","Prerequisites, COMP 455, 520, and 524.",,,"Letter grade.
+"
+COMP 721,"  Database Management Systems",3,"
+ Database management systems, implementation, and theory. Query languages, query optimization, security, advanced physical storage methods and their analysis.","Prerequisites, COMP 521 and 550.",,,"Letter grade.
+"
+COMP 722,"  Data Mining",3,"
+ Data mining is the process of automatic discovery of patterns, changes, associations, and anomalies in massive databases. This course provides a survey of the main topics (including and not limited to classification, regression, clustering, association rules, feature selection, data cleaning, privacy, and security issues) and a wide spectrum of applications.","Prerequisites, COMP 550 and STOR 435.",,,"Letter grade.
+"
+COMP 723,"  Software Design and Implementation",3,"
+ Principles and practices of software engineering. Object-oriented and functional approaches. Formal specification, implementation, verification, and testing. Software design patterns. Practicum.","Prerequisites, COMP 524 and 550.",,,"Letter grade.
+"
+COMP 724,"  Programming Languages",3,"
+ Selected topics in the design and implementation of modern programming languages. Formal semantics. Type theory. Inheritance. Design of virtual machines. Garbage collection. Principles of restructuring compilers.","Prerequisites, COMP 455, 520, and 524.",,,"Letter grade.
+"
+COMP 730,"  Operating Systems",3,"
+ Theory, structuring, and design of operating systems. Sequential and cooperating processes. Single processor, multiprocessor, and distributed operating systems.","Prerequisite, COMP 530.",,,"Letter grade.
+"
+COMP 734,"  Distributed Systems",3,"
+ Design and implementation of distributed computing systems and services. Inter-process communication and protocols, naming and name resolution, security and authentication, scalability, high availability, replication, transactions, group communications, distributed storage systems.","Prerequisite, COMP 431; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+COMP 735,"  Distributed and Concurrent Algorithms",3,"
+ Verification of concurrent systems. Synchronization; mutual exclusion and related problems, barriers, rendezvous, nonblocking algorithms. Fault tolerance: consensus, Byzantine agreement, self-stabilization. Broadcast algorithms. Termination and deadlock detection. Clock synchronization.","Prerequisites, COMP 530 and 550.",,,"Letter grade.
+"
+COMP 737,"  Real-Time Systems",3,"
+ Taxonomy and evolution of real-time systems. Timing constraints. Design, implementation, and analysis of real-time systems. Theory of deterministic scheduling and resource allocation. Case studies and project.","Prerequisite, COMP 530.",,,"Letter grade.
+"
+COMP 740,"  Computer Architecture and Implementation",3,"
+ Architecture and implementation of modern single-processor computer systems. Performance measurement. Instruction set design. Pipelining. Instruction-level parallelism. Memory hierarchy. I/O system. Floating-point arithmetic. Case studies. Practicum.","Prerequisites, COMP 411 and PHYS 352.",,,"Letter grade.
+"
+COMP 741,"  Elements of Hardware Systems",3,"
+ Issues and practice of information processing hardware systems for computer scientists with little or no previous hardware background. System thinking, evaluating technology alternatives, basics of electronics, signals, sensors, noise, and measurements.","Prerequisite, COMP 411.",,,"Letter grade.
+"
+COMP 744,"  VLSI Systems Design",3,"
+ Required preparation, knowledge of digital logic techniques. Introduction to the design, implementation, and realization of very large-scale integrated systems. Each student designs a complete digital circuit that will be fabricated and returned for testing and use.","Prerequisite, COMP 740.",,,"Letter grade.
+"
+COMP 750,"  Algorithm Analysis",3,"
+ Algorithm complexity. Lower bounds. The classes P, NP, PSPACE, and co-NP; hard and complete problems. Pseudo-polynomial time algorithms. Advanced data structures. Graph-theoretic, number-theoretic, probabilistic, and approximation algorithms.","Prerequisites, COMP 455 and 550.",,,"Letter grade.
+"
+COMP 752,"  Mechanized Mathematical Inference",3,"
+ Propositional calculus. Semantic tableaux. Davis-Putnam algorithm. Natural deduction. First-order logic. Completeness. Resolution. Problem representation. Abstraction. Equational systems and term rewriting. Specialized decision procedures. Nonresolution methods.","Prerequisite, COMP 825.",,,"Letter grade.
+"
+COMP 755,"  Machine Learning",3,"
+  Machine Learning methods are aimed at developing systems that learn from data.  The course covers data representations suitable for learning, mathematical underpinnings of the learning methods and practical considerations in their implementations.","Prerequisite,  COMP 410 and MATH 233.",,,"Letter grade.
+"
+COMP 761,"  Introductory Computer Graphics",1,"
+A computer graphics module course with one credit hour of specific COMP 665 content.",,,,"Letter grade.
+"
+COMP 763,"  Semantics and Program Correctness",3,"
+ Formal characterization of programs. Denotational semantics and fixed-point theories. Proof of program correctness and termination. Algebraic theories of abstract data types. Selected topics in the formalization of concurrent computation.","Prerequisite, COMP 724.",,,"Letter grade.
+"
+COMP 764,"  Monte Carlo Method",3,"
+ Relevant probability and statistics. General history. Variance reduction for sums and integrals. Solving linear and nonlinear equations. Random, pseudorandom generators; random trees. Sequential methods. Applications.","Prerequisites, COMP 110, MATH 233, 418, and STOR 435; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+COMP 766,"  Visual Solid Shape",3,"
+ 3D differential geometry; local and global shape properties; visual aspects of surface shape. Taught largely through models and figures. Applicable to graphics, computer vision, human vision, and biology.","Prerequisites, MATH 233.",,,"Letter grade.
+"
+COMP 767,"  Geometric and Solid Modeling",3,"
+ Curve and surface representations. Solid models. Constructive solid geometry and boundary representations. Robust and error-free geometric computations. Modeling with algebraic constraints. Applications to graphics, vision, and robotics.","Prerequisites, COMP 575 or 770, and MATH 661.",,,"Letter grade.
+"
+COMP 768,"  Physically Based Modeling and Simulation",3,"
+ Geometric algorithms, computational methods, simulation techniques for modeling based on mechanics and its applications.","Prerequisite, COMP 665; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+COMP 770,"  Computer Graphics",3,"
+ Study of graphics hardware, software, and applications. Data structures, graphics, languages, curve surface and solid representations, mapping, ray tracing and radiosity.","Prerequisites, COMP 665 and 761.",,,"Letter grade.
+"
+COMP 775,"  Image Processing and Analysis",3,"
+ Approaches to analysis of digital images. Scale geometry, statistical pattern recognition, optimization. Segmentation, registration, shape analysis. Applications, software tools.","Prerequisites, COMP 665, MATH 547, and STOR 435.",,,"Letter gradeSame as: BMME 775.
+"
+COMP 776,"  Computer Vision in our 3D World",3,"
+ Fundamental problems of computer vision. Projective geometry. Camera models, camera calibration. Shape from stereo, epipolar geometry. Photometric stereo. Optical flow, tracking, motion. Range finders, structured light. Object recognition.","Prerequisites, MATH 566, COMP 550, 665, and 775; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+COMP 777,"  Optimal Estimation in Image Analysis",3,"
+ Formulation and numerical solution of optimization problems in image analysis.","Prerequisite, MATH 233, MATH 547, and MATH 535 or STOR 435.",,,"Letter grade.
+"
+COMP 781,"  Robotics",3,"
+ Introduction to the design, programming, and control of robotic systems. Topics include kinematics, dynamics, sensing, actuation, control, robot learning, tele-operation, and motion planning. Applications will be discussed including industrial, mobile, assistive, personal, and medical robots.","Prerequisites, COMP 550 and MATH 547; Permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+COMP 782,"  Motion Planning in Physical and Virtual Worlds",3,"
+ Topics include path planning for autonomous agents, sensor-based planning, localization and mapping, navigation, learning from demonstration, motion planning with dynamic constraints, and planning motion of deformable bodies. Applications to robots and characters in physical and virtual worlds will be discussed.","Prerequisite, COMP 550; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+COMP 786,"  Natural Language Processing",3,"
+ Artificial intelligence and machine learning field to build automatic models that can analyze, understand, and generate text. Topics include syntactic parsing, co-reference resolution, semantic parsing, question answering, document summarization, machine translation, dialogue models, and multi-modality.","Prerequisite, COMP 562.",,,"Letter grade.
+"
+COMP 787,"  Visual Perception",3,"
+ Surveys form, motion, depth, scale, color, brightness, texture and shape perception. Includes computational modeling of vision, experimental methods in visual psychophysics and neurobiology, recent research and open questions.","Prerequisites, COMP 665.",,,"Letter grade.
+"
+COMP 788,"  Expert Systems",3,"
+ Languages for knowledge engineering. Rules, semantic nets, and frames. Knowledge acquisition. Default logics. Uncertainties. Neural networks.","Prerequisite, COMP 750.",,,"Letter grade.
+"
+COMP 790,"  Topics in Computer Science",121,"
+Permission of the instructor. This course has variable content and may be taken multiple times for credit.",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+COMP 822,"  Topics in Discrete Optimization",3,"
+ Topics may include polynomial algorithms, computational complexity, matching and matroid problems, and the traveling salesman problem.","Prerequisite, STOR 712; Permission of the instructor for students lacking the prerequisite.",,,"Letter gradeSame as: STOR 822.
+"
+COMP 824,"  Functional Programming",3,"
+ Programming with functional or applicative languages. Lambda calculus; combinators; higher-order functions; infinite objects. Least fixed points, semantics, evaluation orders. Sequential and parallel execution models.","Prerequisite, COMP 524.",,,"Letter grade.
+"
+COMP 825,"  Logic Programming",3,"
+ Propositional calculus, Horn clauses, first-order logic, resolution. Prolog: operational semantics, relationship to resolution, denotational semantics, and non-logical features. Programming and applications. Selected advanced topics.","Prerequisite, COMP 524.",,,"Letter grade.
+"
+COMP 831,"  Internet Architecture and Performance",3,"
+ Internet structure and architecture; traffic characterization and analysis; errors and error recovery; congestion and congestion control; services and their implementations; unicast and multicast routing.","Prerequisite, COMP 431; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+COMP 832,"  Multimedia Networking",3,"
+ Audio/video coding and compression techniques and standards. Media streaming and adaptation. Multicast routing, congestion, and error control. Internet protocols RSVP, RTP/RTCP. Integrated and differentiated services architecture for the Internet.","Prerequisites, COMP 431 and 530.",,,"Letter grade.
+"
+COMP 841,"  Advanced Computer Architecture",3,"
+ Concepts and evolution of computer architecture, machine language syntax and semantics; data representation; naming and addressing; arithmetic; control structures; concurrency; input-output systems and devices. Milestone architectures.","Prerequisite, COMP 740.",,,"Letter grade.
+"
+COMP 842,"  Advanced Computer Implementation",3,"
+ Required preparation, knowledge of digital logic techniques. The application of digital logic to the design of computer hardware. Storage and switching technologies. Mechanisms for addressing, arithmetic, logic, input/output and storage. Microprogrammed and hardwired control.","Prerequisite, COMP 740.",,,"Letter grade.
+"
+COMP 844,"  Advanced Design of VLSI Systems",3,"
+ Advanced topics in the design of digital MOS systems. Students design, implement, and test a large custom integrated circuit. Projects emphasize the use of advanced computer-aided design tools.","Prerequisite, COMP 744.",,,"Letter grade.
+"
+COMP 850,"  Advanced Analysis of Algorithms",3,"
+ Design and analysis of computer algorithms. Time and space complexity; absolute and asymptotic optimality. Algorithms for searching, sorting, sets, graphs, and pattern-matching. NP-complete problems and provably intractable problems.","Prerequisite, COMP 750.",,,"Letter grade.
+"
+COMP 870,"  Advanced Image Synthesis",3,"
+ Advanced topics in rendering, including global illumination, surface models, shadings, graphics hardware, image-based rendering, and antialiasing techniques. Topics from the current research literature.","Prerequisite, COMP 770.",,,"Letter grade.
+"
+COMP 872,"  Exploring Virtual Worlds",3,"
+ Project course, lecture, and seminar on real-time interactive 3D graphics systems in which the user is 'immersed' in and interacts with a simulated 3D environment. Hardware, modeling, applications, multi-user systems.","Prerequisite, COMP 870.",,,"Letter grade.
+"
+COMP 875,"  Recent Advances in Image Analysis",3,"
+ Lecture and seminar on recent advances in image segmentation, registration, pattern recognition, display, restoration, and enhancement.","Prerequisite, COMP 775.",,,"Letter grade.
+"
+COMP 892,"  Practicum",0,"
+Permission of the instructor. Work experience in an area of computer science relevant to the student's research interests and pre-approved by the instructor. The grade, pass or fail only, will depend on a written report by the student and on a written evaluation by the employer.",,,"May be repeated for credit. ","Letter grade.
+"
+COMP 910,"  Computer Science Module",0,"
+A variable-credit module course that can be used to configure a registration for a portion of a class.",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+COMP 911,"  Professional Writing in Computer Science",3,"
+Graduate computer science majors only. Analysis of good and bad writing. Exercises in organization and composition. Each student also writes a thesis-quality short technical report on a previously approved project.",,,,"Letter grade.
+"
+COMP 915,"  Technical Communication in Computer Science",1,"
+Graduate computer science majors or permission of the instructor. Seminar on teaching, short oral presentations, and writing in computer science.",,,,"Letter grade.
+"
+COMP 916,"  Seminar in Professional Practice",1,"
+Required preparation, satisfaction of M.S. computer science program product requirement. The role and responsibilities of the computer scientist in a corporate environment, as an entrepreneur, and as a consultant. Professional ethics.",,,,"Letter grade.
+"
+COMP 917,"  Seminar in Research",1,"
+Graduate computer science majors only. The purposes, strategies, and techniques for conducting research in computer science and related disciplines.",,,,"Letter grade.
+"
+COMP 918,"  Research Administration for Scientists",3,"
+Graduate standing required. Introduction to grantsmanship, research grants and contracts, intellectual property, technology transfer, conflict of interest policies. Course project: grant application in NSF FastLane.",,,,"Letter grade.
+"
+COMP 980,"  Computers and Society",1,"
+Graduate computer science majors only. Seminar on social and economic effects of computers on such matters as privacy, employment, power shifts, rigidity, dehumanization, dependence, quality of life.",,,,"Letter grade.
+"
+COMP 990,"  Research Seminar in Computer Science",121,"
+Permission of the instructor. Seminars in various topics offered by members of the faculty.",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+COMP 991,"  Reading and Research",121,"
+Permission of the instructor. Directed reading and research in selected advanced topics.",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+COMP 992,"  Master's (Non-Thesis)",3,"
+Permission of the department.",,,"May be repeated for credit; may be repeated in the same term for different topics.
+",
+COMP 993,"  Master's Research and Thesis",3,"
+Permission of the department.",,,"May be repeated for credit. 
+",
+COMP 994,"  Doctoral Research and Dissertation",3,"
+Permission of the department.",,,"May be repeated for credit. 
+",

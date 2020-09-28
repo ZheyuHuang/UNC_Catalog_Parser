@@ -1,0 +1,296 @@
+link, name, code
+/courses/,"Courses",N/
+/courses/,"Courses A-Z",N/
+/courses/course-numbering/,"Guide to Course Numbering",N/
+/courses/aero/,"AEROSPACE STUDIES ",AERO
+/courses/aaad/,"AFRICAN, AFRICAN-AMERICAN, DIASPORA STUDIES ",AAAD
+/courses/amst/,"AMERICAN STUDIES ",AMST
+/courses/anth/,"ANTHROPOLOGY ",ANTH
+/courses/appl/,"APPLIED SCIENCES ",APPL
+/courses/arab/,"ARABIC ",ARAB
+/courses/arch/,"ARCHAEOLOGY ",ARCH
+/courses/army/,"ARMY ",ARMY
+/courses/arth/,"ART HISTORY ",ARTH
+/courses/asia/,"ASIAN STUDIES ",ASIA
+/courses/astr/,"ASTRONOMY ",ASTR
+/courses/bioc/,"BIOCHEMISTRY ",BIOC
+/courses/bcb/,"BIOINFORMATICS AND COMPUTATIONAL BIOLOGY ",BCB
+/courses/bbsp/,"BIOLOGICAL AND BIOMEDICAL SCIENCES ",BBSP
+/courses/biol/,"BIOLOGY ",BIOL
+/courses/bmme/,"BIOMEDICAL ENGINEERING ",BMME
+/courses/bios/,"BIOSTATISTICS ",BIOS
+/courses/bcs/,"BOSNIAN-CROATIAN-SERBIAN ",BCS
+/courses/busi/,"BUSINESS ADMINISTRATION ",BUSI
+/courses/cata/,"CATALAN ",CATA
+/courses/cbio/,"CELL AND DEVELOPMENT BIOLOGY ",CBIO
+/courses/cbph/,"CELL BIOLOGY AND PHYSIOLOGY ",CBPH
+/courses/cbmc/,"CHEMICAL BIOLOGY AND MEDICINAL CHEMISTRY ",CBMC
+/courses/chem/,"CHEMISTRY ",CHEM
+/courses/cher/,"CHEROKEE ",CHER
+/courses/chwa/,"CHICHEWA ",CHWA
+/courses/chin/,"CHINESE ",CHIN
+/courses/plan/,"CITY AND REGIONAL PLANNING ",PLAN
+/courses/clar/,"CLASSICAL ARCHAEOLOGY ",CLAR
+/courses/clas/,"CLASSICS ",CLAS
+/courses/clsc/,"CLINICAL LABORATORY SCIENCE ",CLSC
+/courses/crmh/,"CLINICAL REHABILITATION AND MENTAL HEALTH COUNSELING ",CRMH
+/courses/comm/,"COMMUNICATION STUDIES ",COMM
+/courses/cmpl/,"COMPARATIVE LITERATURE ",CMPL
+/courses/comp/,"COMPUTER SCIENCE ",COMP
+/courses/euro/,"CONTEMPORARY EUROPEAN STUDIES ",EURO
+/courses/czch/,"CZECH ",CZCH
+/courses/deng/,"DENTAL GRADUATE COURSE ",DENG
+/courses/dhyg/,"DENTAL HYGIENE ",DHYG
+/courses/dhed/,"DENTAL HYGIENE EDUCATION ",DHED
+/courses/dram/,"DRAMATIC ART ",DRAM
+/courses/dtch/,"DUTCH ",DTCH
+/courses/econ/,"ECONOMICS ",ECON
+/courses/educ/,"EDUCATION ",EDUC
+/courses/endo/,"ENDODONTICS ",ENDO
+/courses/engl/,"ENGLISH ",ENGL
+/courses/enec/,"ENVIRONMENT AND ECOLOGY ",ENEC
+/courses/envr/,"ENVIRONMENT SCIENCES ",ENVR
+/courses/epid/,"EPIDEMIOLOGY ",EPID
+/courses/exss/,"EXERCISE AND SPORT SCIENCE ",EXSS
+/courses/edmx/,"EXPERIENCED TEACHER EDUCATION ",EDMX
+/courses/spcl/,"EXPERIENTIAL AND SPECIAL STUDIES ",SPCL
+/courses/dpet/,"EXPERIMENTAL THERAPEUTICS ",DPET
+/courses/folk/,"FOLKLORE ",FOLK
+/courses/fren/,"FRENCH ",FREN
+/courses/gnet/,"GENETICS AND MOLECULAR BIOLOGY ",GNET
+/courses/geog/,"GEOGRAPHY ",GEOG
+/courses/geol/,"GEOLOGICAL SCIENCES ",GEOL
+/courses/germ/,"GERMAN ",GERM
+/courses/gsll/,"GERMANIC AND SLAVIC LANGUAGES AND LITERATURES ",GSLL
+/courses/glbl/,"GLOBAL STUDIES ",GLBL
+/courses/govt/,"GOVERNMENT ",GOVT
+/courses/grad/,"GRADUATE STUDIES ",GRAD
+/courses/grek/,"GREEK ",GREK
+/courses/hbeh/,"HEALTH BEHAVIOR ",HBEH
+/courses/hpm/,"HEALTH POLICY AND MANAGEMENT ",HPM
+/courses/hebr/,"HEBREW ",HEBR
+/courses/hnur/,"HINDI-URDU ",HNUR
+/courses/hist/,"HISTORY ",HIST
+/courses/hung/,"HUNGARIAN ",HUNG
+/courses/inls/,"INFORMATION AND LIBRARY SCIENCE ",INLS
+/courses/idst/,"INTERDISCIPLINARY STUDIES ",IDST
+/courses/ital/,"ITALIAN ",ITAL
+/courses/japn/,"JAPANESE ",JAPN
+/courses/jwst/,"JEWISH STUDIES ",JWST
+/courses/swah/,"KISWAHILI ",SWAH
+/courses/kor/,"KOREAN ",KOR
+/courses/ltam/,"LATIN AMERICAN STUDIES ",LTAM
+/courses/latn/,"LATIN ",LATN
+/courses/lfit/,"LIFETIME FITNESS ",LFIT
+/courses/lgla/,"LINGALA LANGUAGE ",LGLA
+/courses/ling/,"LINGUISTICS ",LING
+/courses/macd/,"MACEDONIAN ",MACD
+/courses/mngt/,"MANAGEMENT AND SOCIETY ",MNGT
+/courses/masc/,"MARINE SCIENCE ",MASC
+/courses/mtsc/,"MATERIAL SCIENCE ",MTSC
+/courses/mhch/,"MATERNAL AND CHILD HEALTH ",MHCH
+/courses/math/,"MATHEMATICS ",MATH
+/courses/mejo/,"MEDIA AND JOURNALISM ",MEJO
+/courses/mcro/,"MICROBIOLOGY ",MCRO
+/courses/musc/,"MUSIC ",MUSC
+/courses/navs/,"NAVAL SCIENCE ",NAVS
+/courses/nbio/,"NEUROSCIENCE ",NBIO
+/courses/nsci/,"NEUROSCIENCE ",NSCI
+/courses/nurs/,"NURSING ",NURS
+/courses/nutr/,"NUTRITION ",NUTR
+/courses/ocsc/,"OCCUPATIONAL SCIENCE ",OCSC
+/courses/occt/,"OCCUPATIONAL THERAPY ",OCCT
+/courses/oper/,"OPERATIVE DENTISTRY ",OPER
+/courses/orpa/,"ORAL PATHOLOGY ",ORPA
+/courses/orad/,"ORAL RADIOLOGY ",ORAD
+/courses/orth/,"ORTHODONTICS ",ORTH
+/courses/path/,"PATHOLOGY ",PATH
+/courses/pwad/,"PEACE, WAR, AND DEFENSE ",PWAD
+/courses/pedo/,"PEDIATRIC DENTISTRY ",PEDO
+/courses/peri/,"PERIODONTOLOGY ",PERI
+/courses/prsn/,"PERSIAN ",PRSN
+/courses/phrs/,"PHARMACEUTICAL SCIENCES ",PHRS
+/courses/dpmp/,"PHARMACOENGINEERING AND MOLECULAR PHARMACEUTICS ",DPMP
+/courses/phco/,"PHARMACOLOGY ",PHCO
+/courses/phcy/,"PHARMACY  ",NON-DEPARTMENTAL)
+/courses/dpop/,"PHARMACY OUTCOMES AND POLICY ",DPOP
+/courses/dppe/,"PHARMACY PRACTICE AND EXPERIENTIAL EDUCATION ",DPPE
+/courses/phil/,"PHILOSOPHY ",PHIL
+/courses/phya/,"PHYSICAL ACTIVITIES ",PHYA
+/courses/phys/,"PHYSICS ",PHYS
+/courses/phyi/,"PHYSIOLOGY ",PHYI
+/courses/plsh/,"POLISH ",PLSH
+/courses/poli/,"POLITICAL SCIENCE ",POLI
+/courses/port/,"PORTUGUESE ",PORT
+/courses/pace/,"PRACTICE ADVANCEMENT AND CLINICAL EDUCATION ",PACE
+/courses/pros/,"PROSTHODONTICS ",PROS
+/courses/psyc/,"PSYCHOLOGY ",PSYC
+/courses/puba/,"PUBLIC ADMINISTRATION ",PUBA
+/courses/pubh/,"PUBLIC HEALTH ",PUBH
+/courses/plcy/,"PUBLIC POLICY ",PLCY
+/courses/radi/,"RADIOLOGIC SCIENCE ",RADI
+/courses/recr/,"RECREATION AND LEISURE STUDIES ",RECR
+/courses/reli/,"RELIGIOUS STUDIES ",RELI
+/courses/roml/,"ROMANCE LANGUAGES ",ROML
+/courses/russ/,"RUSSIAN ",RUSS
+/courses/sphg/,"SCHOOL OF PUBLIC HEALTH GENERAL ",SPHG
+/courses/slav/,"SLAVIC LANGUAGES ",SLAV
+/courses/sowo/,"SOCIAL WORK ",SOWO
+/courses/soci/,"SOCIOLOGY ",SOCI
+/courses/span/,"SPANISH ",SPAN
+/courses/sphs/,"SPEECH AND HEARING SCIENCES ",SPHS
+/courses/stor/,"STATISTICS AND OPERATIONS RESEARCH ",STOR
+/courses/arts/,"STUDIO ART ",ARTS
+/courses/toxc/,"TOXICOLOGY ",TOXC
+/courses/turk/,"TURKISH ",TURK
+/courses/ukrn/,"UKRAINIAN ",UKRN
+/courses/wolo/,"WOLOF LANGUAGE ",WOLO
+/courses/wgst/,"WOMEN'S AND GENDER STUDIES ",WGST
+/courses/maya/,"YUCATEC MAYA LANGUAGE ",MAYA
+/courses/,"Courses",N/
+/courses/aero/,"AEROSPACE STUDIES ",AERO
+/courses/aaad/,"AFRICAN, AFRICAN-​AMERICAN, DIASPORA STUDIES ",AAAD
+/courses/amst/,"AMERICAN STUDIES ",AMST
+/courses/anth/,"ANTHROPOLOGY ",ANTH
+/courses/appl/,"APPLIED SCIENCES ",APPL
+/courses/arab/,"ARABIC ",ARAB
+/courses/arch/,"ARCHAEOLOGY ",ARCH
+/courses/army/,"ARMY ",ARMY
+/courses/arth/,"ART HISTORY ",ARTH
+/courses/asia/,"ASIAN STUDIES ",ASIA
+/courses/astr/,"ASTRONOMY ",ASTR
+/courses/bioc/,"BIOCHEMISTRY ",BIOC
+/courses/bcb/,"BIOINFORMATICS AND COMPUTATIONAL BIOLOGY ",BCB
+/courses/bbsp/,"BIOLOGICAL AND BIOMEDICAL SCIENCES ",BBSP
+/courses/biol/,"BIOLOGY ",BIOL
+/courses/bmme/,"BIOMEDICAL ENGINEERING ",BMME
+/courses/bios/,"BIOSTATISTICS ",BIOS
+/courses/bcs/,"BOSNIAN-​CROATIAN-​SERBIAN ",BCS
+/courses/busi/,"BUSINESS ADMINISTRATION ",BUSI
+/courses/cata/,"CATALAN ",CATA
+/courses/cbph/,"CELL BIOLOGY AND PHYSIOLOGY ",CBPH
+/courses/cbio/,"CELL AND DEVELOPMENT BIOLOGY ",CBIO
+/courses/cbmc/,"CHEMICAL BIOLOGY AND MEDICINAL CHEMISTRY ",CBMC
+/courses/chem/,"CHEMISTRY ",CHEM
+/courses/cher/,"CHEROKEE ",CHER
+/courses/chwa/,"CHICHEWA ",CHWA
+/courses/chin/,"CHINESE ",CHIN
+/courses/plan/,"CITY AND REGIONAL PLANNING ",PLAN
+/courses/clar/,"CLASSICAL ARCHAEOLOGY ",CLAR
+/courses/clas/,"CLASSICS ",CLAS
+/courses/clsc/,"CLINICAL LABORATORY SCIENCE ",CLSC
+/courses/crmh/,"CLINICAL REHABILITATION AND MENTAL HEALTH COUNSEL ",CRMH
+/courses/comm/,"COMMUNICATION STUDIES ",COMM
+/courses/cmpl/,"COMPARATIVE LITERATURE ",CMPL
+/courses/comp/,"COMPUTER SCIENCE ",COMP
+/courses/euro/,"CONTEMPORARY EUROPEAN STUDIES ",EURO
+/courses/czch/,"CZECH ",CZCH
+/courses/deng/,"DENTAL GRADUATE COURSE ",DENG
+/courses/dhyg/,"DENTAL HYGIENE ",DHYG
+/courses/dhed/,"DENTAL HYGIENE EDUCATION ",DHED
+/courses/dram/,"DRAMATIC ART ",DRAM
+/courses/dtch/,"DUTCH ",DTCH
+/courses/econ/,"ECONOMICS ",ECON
+/courses/educ/,"EDUCATION ",EDUC
+/courses/endo/,"ENDODONTICS ",ENDO
+/courses/engl/,"ENGLISH ",ENGL
+/courses/enec/,"ENVIRONMENT AND ECOLOGY ",ENEC
+/courses/envr/,"ENVIRONMENT SCIENCES ",ENVR
+/courses/epid/,"EPIDEMIOLOGY ",EPID
+/courses/exss/,"EXERCISE AND SPORT SCIENCE ",EXSS
+/courses/edmx/,"EXPERIENCED TEACHER EDUCATION ",EDMX
+/courses/spcl/,"EXPERIENTIAL AND SPECIAL STUDIES ",SPCL
+/courses/dpet/,"EXPERIMENTAL THERAPEUTICS ",DPET
+/courses/folk/,"FOLKLORE ",FOLK
+/courses/fren/,"FRENCH ",FREN
+/courses/gnet/,"GENETICS AND MOLECULAR BIOLOGY ",GNET
+/courses/geog/,"GEOGRAPHY ",GEOG
+/courses/geol/,"GEOLOGICAL SCIENCES ",GEOL
+/courses/germ/,"GERMAN ",GERM
+/courses/gsll/,"GERMANIC AND SLAVIC LANGUAGES AND LITERATURES ",GSLL
+/courses/glbl/,"GLOBAL STUDIES ",GLBL
+/courses/govt/,"GOVERNMENT ",GOVT
+/courses/grad/,"GRADUATE STUDIES ",GRAD
+/courses/grek/,"GREEK ",GREK
+/courses/hbeh/,"HEALTH BEHAVIOR ",HBEH
+/courses/hpm/,"HEALTH POLICY AND MANAGEMENT ",HPM
+/courses/hebr/,"HEBREW ",HEBR
+/courses/hnur/,"HINDI-​URDU ",HNUR
+/courses/hist/,"HISTORY ",HIST
+/courses/hung/,"HUNGARIAN ",HUNG
+/courses/inls/,"INFORMATION AND LIBRARY SCIENCE ",INLS
+/courses/idst/,"INTERDISCIPLINARY STUDIES ",IDST
+/courses/ital/,"ITALIAN ",ITAL
+/courses/japn/,"JAPANESE ",JAPN
+/courses/jwst/,"JEWISH STUDIES ",JWST
+/courses/kor/,"KOREAN ",KOR
+/courses/latn/,"LATIN ",LATN
+/courses/ltam/,"LATIN AMERICAN STUDIES ",LTAM
+/courses/lfit/,"LIFETIME FITNESS ",LFIT
+/courses/lgla/,"LINGALA LANGUAGE ",LGLA
+/courses/ling/,"LINGUISTICS ",LING
+/courses/macd/,"MACEDONIAN ",MACD
+/courses/mngt/,"MANAGEMENT AND SOCIETY ",MNGT
+/courses/masc/,"MARINE SCIENCE ",MASC
+/courses/mtsc/,"MATERIAL SCIENCE ",MTSC
+/courses/mhch/,"MATERNAL AND CHILD HEALTH ",MHCH
+/courses/math/,"MATHEMATICS ",MATH
+/courses/mejo/,"MEDIA AND JOURNALISM ",MEJO
+/courses/mcro/,"MICROBIOLOGY ",MCRO
+/courses/musc/,"MUSIC ",MUSC
+/courses/navs/,"NAVAL SCIENCE ",NAVS
+/courses/nbio/,"NEUROBIOLOGY ",NBIO
+/courses/nsci/,"NEUROSCIENCE ",NSCI
+/courses/nurs/,"NURSING ",NURS
+/courses/nutr/,"NUTRITION ",NUTR
+/courses/ocsc/,"OCCUPATIONAL SCIENCE ",OCSC
+/courses/occt/,"OCCUPATIONAL THERAPY ",OCCT
+/courses/oper/,"OPERATIVE DENTISTRY ",OPER
+/courses/orpa/,"ORAL PATHOLOGY ",ORPA
+/courses/orad/,"ORAL RADIOLOGY ",ORAD
+/courses/orth/,"ORTHODONTICS ",ORTH
+/courses/path/,"PATHOLOGY ",PATH
+/courses/pwad/,"PEACE, WAR, AND DEFENSE ",PWAD
+/courses/pedo/,"PEDIATRIC DENTISTRY ",PEDO
+/courses/peri/,"PERIODONTOLOGY ",PERI
+/courses/prsn/,"PERSIAN ",PRSN
+/courses/phrs/,"PHARMACEUTICAL SCIENCES ",PHRS
+\courses\dpmp/,"PHARMACOENGINEERING AND MOLECULAR PHARMACEUTICS ",DPMP
+/courses/phco/,"PHARMACOLOGY ",PHCO
+/courses/phcy/,"PHARMACY  ",NON-​DEPARTMENTAL)
+/courses/dpop/,"PHARMACY OUTCOMES AND POLICY ",DPOP
+/courses/dppe/,"PHARMACY PRACTICE AND EXPERIENTIAL EDUCATION ",DPPE
+/courses/phil/,"PHILOSOPHY ",PHIL
+/courses/phya/,"PHYSICAL ACTIVITIES ",PHYA
+/courses/phys/,"PHYSICS ",PHYS
+/courses/phyi/,"PHYSIOLOGY ",PHYI
+/courses/plsh/,"POLISH ",PLSH
+/courses/poli/,"POLITICAL SCIENCE ",POLI
+/courses/port/,"PORTUGUESE ",PORT
+/courses/pace/,"PRACTICE ADVANCEMENT AND CLINICAL EDUCATION ",PACE
+/courses/pros/,"PROSTHODONTICS ",PROS
+/courses/psyc/,"PSYCHOLOGY ",PSYC
+/courses/puba/,"PUBLIC ADMINISTRATION ",PUBA
+/courses/pubh/,"PUBLIC HEALTH ",PUBH
+/courses/plcy/,"PUBLIC POLICY ",PLCY
+/courses/radi/,"RADIOLOGIC SCIENCE ",RADI
+/courses/recr/,"RECREATION AND LEISURE STUDIES ",RECR
+/courses/reli/,"RELIGIOUS STUDIES ",RELI
+/courses/roml/,"ROMANCE LANGUAGES ",ROML
+/courses/russ/,"RUSSIAN ",RUSS
+/courses/sphg/,"SCHOOL OF PUBLIC HEALTH GENERAL ",SPHG
+/courses/slav/,"SLAVIC LANGUAGES ",SLAV
+/courses/sowo/,"SOCIAL WORK ",SOWO
+/courses/soci/,"SOCIOLOGY ",SOCI
+/courses/span/,"SPANISH ",SPAN
+/courses/sphs/,"SPEECH AND HEARING SCIENCES ",SPHS
+/courses/stor/,"STATISTICS AND OPERATIONS RESEARCH ",STOR
+/courses/arts/,"STUDIO ART ",ARTS
+/courses/swah/,"SWAHILI ",SWAH
+/courses/toxc/,"TOXICOLOGY ",TOXC
+/courses/turk/,"TURKISH ",TURK
+/courses/ukrn/,"UKRAINIAN ",UKRN
+/courses/wgst/,"WOMEN'S AND GENDER STUDIES ",WGST
+/courses/wolo/,"WOLOF LANGUAGE ",WOLO
+/courses/maya/,"YUCATEC MAYA LANGUAGE ",MAYA
+courses.pdf,"Download PDF of this page",N/

@@ -1,0 +1,106 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+APPL 101,"  Exploring Engineering",3,"
+ This course will explore fundamental engineering skills and the implications of engineering solutions. You will "learn how to learn" because technology changes rapidly and today's tools may soon be obsolete. The course will help you develop an entrepreneurial mindset to understand the larger context of solutions. A lot of class time is working time. For example, we will write computer programs to simulate real world systems. We will debate ethical issues associated with engineering innovations.","Prerequisites, COMP 110, 116, or other programming experience.",,,"Letter grade.
+"
+APPL 110,"  Introduction to Design and Making: Developing Your Personal Design Potential",3,"
+Students work in flexible, interdisciplinary teams to assess opportunities, brainstorm, and prototype solutions. Design thinking and physical prototyping skills are developed through fast-paced, iterative exercises in a variety of contexts and environments.",,"VP.",,"Letter grade.
+"
+APPL 190,"  Special Topics in Applied Physical Sciences",3,"
+Specialty topics in applied physical sciences for undergraduates.",,,"May be repeated for credit. 12 total credits. 1 total completions.","Letter grade.
+"
+APPL 240,"  Developing Your Sixth Sense: Designing Sensors and Electrical Circuits to Make Measurements",3,"
+ Learn how to analyze, design, and build systems. Model and understand how physical and environmental parameters of sensors work and interact with electrical circuits.  Learn the basics of circuit design and analysis to amplify and "clean up" the signals with filters. Learn how to acquire these signals to a computer through data acquisition hardware and LabView software.  Develop an entrepreneurial mindset to understand the economic, environmental, and ethical issues that affect your system design.","Prerequisite, PHYS 105, 115, 117, or 119.",,,"Letter grade.
+"
+APPL 260,"  Materials Science and Engineering: Living in a Material World",3,"
+ This course will be an introduction to topics in materials science and with a strong focus on materials, processing and engineering and how design plays a pivotal role in materials selection. A central theme will be in-class demonstrations and hands-on experiments so you will experience first-hand why materials do what they do and how to select the appropriate material for the right application. It's a materials world after all!","Prerequisites, CHEM 102, and PHYS 116 or PHYS 118; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+APPL 280,"  Fluid Relationships:  An Intuition Building Approach to Fluid Mechanics",4,"
+ Immersive treatment of the concepts and methods of fluid mechanics - the study of fluids behavior at rest and in motion. This course will provide a solid grounding in the fundamentals and applications of fluid mechanics through extensive hands-on exercises. Topics include pressure, pressurized flow, gravity flow, viscous flow, boundary layers, system losses, microfluidics, and measurement techniques.  Also includes exposure to standard fluid appurtenances such as pumps, blowers, gauges, valves, ducts, pipes, and fittings.","Prerequisites, APPL 110 and PHYS 118.",,,"Letter grade.
+"
+APPL 290,"  Special Topics in Applied Physical Sciences",3,"
+Specialty topics in applied physical sciences for undergraduates.",,,"May be repeated for credit. 12 total credits. 4 total completions.","Letter grade.
+"
+APPL 390,"  Special Topics in Applied Physical Sciences",3,"
+Permission of the instructor. Advanced specialty topics in applied physical sciences for undergraduates.",,,"May be repeated for credit; may be repeated in the same term for different topics; 12 total credits. 4 total completions.","Letter grade.
+"
+APPL 405,"  Convergent Engineering: Team-Science Approaches to Discovery and Innovation",3,"
+Students will participate in activities, group discussion, and problem-solving coaching to understand how chemistry, physics, materials science, and biology are applied to engineering. Topics are introduced through discussing relevant scientific literature, and guest lecturers and faculty discuss expertise in fields like mathematical modeling, mechanical engineering, or circuit design. Guest lecturers can provide new perspective on the problems so students gain an interdisciplinary view of the subject.",,,,"Letter grade.
+"
+APPL 411,"  Practical Electronics for Everyone",1,"
+Design and fabrication for practical electronics circuits, including interfacing with sensors and actuators.",,,,"Pass/Fail.
+"
+APPL 412,"  Turning Your Entrepreneurial Ideas Into Reality",3,"
+ Students will work in groups on a semester project to turn their entrepreneurial ideas into reality.","Prerequisite, APPL 110; permission of the instructor for students lacking the prerequisite.","EE- Field Work.",,"Letter grade.
+"
+APPL 413,"  LabView for Data Acquisition",1,"
+The basics of data acquisition and hardware interfacing using LabVIEW graphical programming.",,,,"Pass/Fail.
+"
+APPL 414,"  Electronics for Measurement, Control, and the Internet of Things",1,"
+ This class builds on APPL 411. Students will acquire signals from sensors and send them to an Arduino or other microcontroller. Students will also learn how to develop circuits that are part of the "Internet of Things" so that they can transmit sensor readings on the Internet. Most of the class time will be hands-on activities.","Prerequisite, APPL 411; permission from the instructor for students lacking the prerequisite.",,,"Pass/Fail.
+"
+APPL 418,"  3D Printing Technology and Practice",1,"
+3D Printing, or additive manufacturing (AM), is used broadly from manufacturing to medical research.  AM will play an increasingly large role in virtually all areas of research, industry, and commerce with new technologies and significant improvements occurring continually.  The course will delve deeply into the major existing and developing technologies.  We will explore the elements of design for AM, motion control and imaging technologies, materials performance and selection, and the physics of parts production.",,,,"Pass/Fail.
+"
+APPL 420,"  Introduction to Polymers",3,"
+ Chemical structure and nomenclature of macromolecules, synthesis of polymers, characteristic polymer properties.","Prerequisite, CHEM 261 or 261H; pre- or corequisites, CHEM 262 or 262H, and 262L or 263L.",,,"Letter gradeSame as: CHEM 420.
+"
+APPL 421,"  Synthesis of Polymers",3,"
+ Synthesis and reactions of polymers; various polymerization techniques.","Prerequisites, CHEM 251 and 262 or 262H.",,,"Letter gradeSame as: CHEM 421.
+"
+APPL 422,"  Physical Chemistry of Polymers",3,"
+ Polymerization and characterization of macromolecules in solution.","Prerequisites, CHEM 420 and 481.",,,"Letter gradeSame as: CHEM 422.
+"
+APPL 423,"  Intermediate Polymer Chemistry",3,"
+ Polymer dynamics, networks and gels.","Prerequisite, CHEM 422.",,,"Letter gradeSame as: CHEM 423.
+"
+APPL 430,"  Optical Instrumentation for Scientists and Engineers",3,"
+ This is an introduction to methods of automatic computation of specific relevance to biomedical problems. Sampling theory, analog-to-digital conversion, and digital filtering will be explored in depth. Previously offered as APPL 460.","Prerequisite, MATH 383.",,,"Letter grade.
+"
+APPL 435,"  Nanophotonics",3,"
+ This course introduces the principles of nanophotonics - an emerging frontier at the nexus of nanotechnology and photonics that deals with light-matter interactions at the nanometer scale. The course will cover the theoretical foundations of nanoscale materials and optics, fabrication and characterization of optical nanostructures, plasmonics, nanomanipulation by optical tweezers, electrodynamic simulations, nanoscale light emitters, and applications of nanophotonics.","Prerequisites, PHYS 117 and CHEM 251.",,,"Letter grade.
+"
+APPL 465,"  Sponge Bob Square Pants and Other Soft Materials",3,"
+What kind of material is Sponge Bob made of? What about the slime of his pet snail, Gary? We are taught that there are three states of matter: solid, gas, and liquid. However, in our daily lives we encounter materials that challenge this simple description such as foams, pastes, gels, soap, and rubber. These are Soft Materials and in this course we will learn about their special properties.",,,,"Letter grade.
+"
+APPL 470,"  Fundamentals of Materials Science",3,"
+  Crystal geometry, diffusion in solids, mechanical properties of solids, electrical conduction in solids, thermal properties of materials, phase equilibria.","Prerequisite, CHEM 482 or PHYS 128. Pre- or corequisite, PHYS 441.",,,"Letter gradeSame as: CHEM 470.
+"
+APPL 472,"  Chemistry and Physics of Electronic Materials Processing",3,"
+ Permission of the instructor. A survey of materials processing and characterization used in fabricating microelectronic devices. Crystal growth, thin film deposition and etching, and microlithography.","Prerequisite, CHEM 482 or PHYS 117 or 119.",,,"Letter gradeSame as: PHYS 472, CHEM 472.
+"
+APPL 473,"  Chemistry and Physics of Surfaces",3,"
+ The structural and energetic nature of surface states and sites, experimental surface measurements, reactions on surfaces including bonding to surfaces and adsorption, interfaces.","Prerequisite, CHEM 470.",,,"Letter gradeSame as: CHEM 473.
+"
+APPL 475,"  Design and Fabrication of Fluids Monitoring Devices",1,"
+Review of fluid mechanics including the fundamentals of pressure/flow relationships, fluid properties, and flow regimes. Students will design and create physical prototypes that demonstrate specific concepts and measure defined parameters. Students will use the BeAM makerspace network extensively to make things that illustrate fluid device design. Class time will include exercises to reinforce concepts and a guided design activity to create a physical device. Required preparation: BeAM orientation, laser training, and 3D-printer training.",,,,"Letter grade.
+"
+APPL 490,"  Special Topics",13,"
+Topics vary from semester to semester.",,,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 9 total completions.","Letter grade.
+"
+APPL 491L,"  Materials Laboratory I",2,"
+ Structure determination and measurement of the optical, electrical, and magnetic properties of solids.","Prerequisites, APPL 470 and PHYS 351.",,,"Letter gradeSame as: PHYS 491L.
+"
+APPL 492L,"  Materials Laboratory II",2,"
+ Continuation of PHYS 491L with emphasis on low- and high-temperature behavior, the physical and chemical behavior of lattice imperfections and amorphous materials, and the nature of radiation damage.","Prerequisite, APPL 491L or PHYS 491L.",,,"Letter gradeSame as: PHYS 492L.
+"
+APPL 493,"  Internship in Applied Physical Sciences",3,"
+An ideal internship provides students with practical experience in an organization outside of UNC, doing work that is relevant to their UNC education. The internship should develop and enhance the students' professional skill sets and involve experiences that allow students to have responsibility for results that are of value to the organization.",,"EE- Academic Internship.",,"Letter grade.
+"
+APPL 495,"  Mentored Research in Applied Physical Sciences",3,"
+Students undertake independent research with a faculty mentor. In order to register for this class, students must submit a learning contract and research proposal for approval. At the end of the semester, students submit a final report that describes their research. Students are encouraged to present their work either internally at UNC or externally at a conference or symposium.",,"EE- Mentored Research.",,"Letter grade.
+"
+APPL 520L,"  Polymer Chemistry Laboratory",2,"
+ Various polymerization techniques and characterization methods. One four-hour laboratory each week.","Pre- or corequisite, CHEM 420 or 421 or 425.","EE- Mentored Research.",,"Letter gradeSame as: CHEM 520L.
+"
+APPL 573,"  Introductory Solid State Physics",3,"
+ Crystal symmetry, types of crystalline solids; electron and mechanical waves in crystals, electrical and magnetic properties of solids, semiconductors; low temperature phenomena; imperfections in nearly perfect crystals.","Prerequisite, PHYS 421; permission of the instructor for students lacking the prerequisite.",,,"Letter gradeSame as: PHYS 573.
+"
+APPL 590,"  Special Topics in Applied Physical Sciences",3,"
+Advanced specialty topics in applied physical sciences for undergraduates and graduates.",,,"May be repeated for credit. 12 total credits. 4 total completions.","Letter grade.
+"
+APPL 690,"  Special Topics in Applied Physical Sciences",3,"
+Advanced specialty topics in applied physical sciences for undergraduate and graduates.",,,"May be repeated for credit. 12 total credits. 4 total completions.","Letter grade.
+"
+APPL 760L,"  Nanofabrication/micro-electromechanical systems (MEMS) Laboratory",2,"
+Permission of the instructor. A laboratory course covering fabrication technologies for building materials and structures in biomedical devices, electronics, MEMS, and nanomedicine. The course includes lectures on thin film deposition, etching, and photolithography and hands-on laboratories to apply knowledge and practice skills covered in the lectures.",,,,"Letter grade.
+"

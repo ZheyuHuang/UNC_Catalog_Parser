@@ -1,0 +1,90 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+DPET 800,"  PHAR PRAC GER PAT",3,"
+",,,,
+DPET 801,"  Introduction to Hospital Pharmacy",3,"
+",,,,
+DPET 802,"  TOP ACUTE CARE PHPR",3,"
+",,,,
+DPET 803,"  AMB CARE PHAR PRAC",3,"
+",,,,
+DPET 804,"  Pediatric Pharmacotherapy",3,"
+",,,,
+DPET 805,"  Rural Health",23,"
+",,,,
+DPET 806,"  INTRO RES PHAR PRAC",13,"
+",,,,
+DPET 807,"  ID ELECTIVE-THERAPY",2,"
+",,,,
+DPET 808,"  Critical Care",3,"
+",,,,
+DPET 809,"  Hubbard Program",3,"
+This interdisciplinary course for health professions students trains students to practice collaboratively in the care of their older patients.",,,"May be repeated for credit. ","Letter grade.
+"
+DPET 810,"  THERAP HIV INFEC",2,"
+",,,,
+DPET 811,"  Infectious Disease",2,"
+ Course consists of infectious disease case presentations by small groups of students. Discussion of a specific infectious disease, its drug therapy, and specific antibiotics are evaluated extensively at each session.","Prerequisite, PHCY 449.",,,"Letter grade.
+"
+DPET 814,"  ENTREPRENEUR PHAR",3,"
+",,,,
+DPET 815,"  Interdisciplinary Teamwork in Geriatrics",3,"
+Course emphasizes the acquisition of skills and competencies necessary to provide effective interdisciplinary geriatrics care and leadership in a variety of settings, including rural and/or underserved communities.",,,,"Letter grade.
+"
+DPET 818,"  Foundations in Exercise Prescription",2,"
+This course is designed to introduce basic concepts and selected therapeutic applications of exercise testing and prescription.",,,,"Letter grade.
+"
+DPET 819,"  The Package Insert: Drug Development for Clinicians",2,"
+This course reviews the components of the package insert, provides an understanding of the key studies required to support each component, and provides insight into the strategic thinking required for planning these studies. Students will learn the drug development process and ways in which clinicians scientifically contribute to this effort.",,,,"Letter grade.
+"
+DPET 820,"  MAN THE PRACT PHARM",3,"
+",,,,
+DPET 821,"  Principles of Pharmacy Practice",3,"
+ Students discuss the modern role of the hospital pharmacist and how the role integrates progressive management with innovative services. The problems with implementing these programs are evaluated. Three lecture hours a week.","Prerequisite, PHPR 249.",,,"Letter grade.
+"
+DPET 822,"  Advanced Clinical Pharmacy",1,"
+Discussions, workshops, and lectures to develop the student's skills and abilities to make therapeutic recommendations, utilize drug literature, educate patients and health professionals, and record observations, plans, and actions in a problem-oriented record.",,,"May be repeated for credit. 3 total credits. 3 total completions.","Letter grade.
+"
+DPET 831,"  Quantitative Methods in Clinical Research",3,"
+Required preparation, introductory biostatistics or general statistics. Graduate standing or permission of the instructor. This course reviews statistical concepts and discusses the most commonly used statistical methods for analysis of data from clinical studies or research experiments. Students will analyze problem datasets using SAS.",,,,"Letter grade.
+"
+DPET 832,"  Pharmacogenomics",2,"
+",,,,
+DPET 833,"  Experimental Design Considerations in Clinical Research",2,"
+Course provides an overview of clinical trials methodology, focusing primarily on designs of (and common flaws in) clinical drug trials and nonclinical research experiments intended to answer clinical questions.",,,,"Letter grade.
+"
+DPET 834,"  Methods in Quantitative Systems Pharmacology",3,"
+ Open to graduate student and PY3 students. This course utilizes hands on experiences to introduce the student to the principles and practices of contemporary quantitative systems pharmacology.","Prerequisites, DPET 855 and 856.",,,"Letter grade.
+"
+DPET 836,"  Elements of Scientific Writing and Communication",2,"
+This course is designed to help students develop strategies for presenting research ideas and results in written and oral form and for participating effectively in the peer review process.",,,,"Letter grade.
+"
+DPET 838,"  Methods in Pharmacogenomics",2,"
+ The goals of this course are to provide graduate students with an understanding of major genomic discovery methodologies and their application for solving translational research problems.","Prerequisite, DPET 832; Permission of the instructor for student lacking the prerequisite.",,,"Letter grade.
+"
+DPET 840,"  Advanced Pharmacotherapy",3,"
+A modular approach to advanced level pharmacotherapy. Coursework using the Pharmacotherapy Self Assessment Program (PSAP) aimed at improving clinical skills and reviewing standards of practice.",,,,"Letter grade.
+"
+DPET 841,"  Science and Methods in Drug Development",2,"
+Provides working knowledge of commonly-used processes, techniques, and methods involved in drug development processes, emphasizing pre-clinical aspects. Lectures and in-class case-based interactive discussion. Students will develop problem-solving skills, writing and presentation skills, and will be exposed to analytical and pharmaceutical methods and gain experience interpreting data for regulatory approval.",,,,"Letter grade.
+"
+DPET 853,"  PK Module 1: Pharmacokinetic Concepts and Applications",1,"
+Required preparation, elementary calculus; students without prior coursework in pharmacology/pharmacokinetics are encouraged to discuss their backgrounds with the module coordinator for recommendations of introductory work. Module is an introduction to pharmacokinetic theory, mathematical model development, and data analysis. Assumes basic knowledge of human physiology, drug administration and action, and calculus.",,,,"Letter grade.
+"
+DPET 854,"  PK: Module 2: Pharmacodynamic Concepts and Applications",1,"
+ This course is an introduction to pharmacodynamics from a modeling and simulation perspective. Students will build upon the material introduced in Module 1 and apply data analysis techniques to dynamics data.","Pre- or corequisite, DPET 853.",,,"Letter grade.
+"
+DPET 856,"  Advanced Pharmacokinetics and Pharmacodynamics",4,"
+ Advanced treatment of contemporary pharmacokinetic theory and application, with emphasis on model development, analytical approaches to parameter estimation, and experimental design/data analysis.","Prerequisite, MOPH 855; Permission of the instructor.",,,"Letter grade.
+"
+DPET 857,"  PK Module 3: Population PK/PD Analysis",2,"
+ This course is an introduction to population pharmacokinetic and pharmacodyanmic modeling techniques, including theory and application.","Prerequisite, DPET 854.",,,"Letter grade.
+"
+DPET 858,"  PK Module 4: Advanced PK/PD Modeling",2,"
+ This course covers a series of advanced pharmacokinetics/pharmacodynamics (PK/PD) modeling concepts and techniques, fundamental elements towards systems pharmacology, and methodology of developing mechanism-based PK/PD models in drug development.","Pre- or corequisite, DPET 857.",,,"Letter grade.
+"
+DPET 873,"  Precision Therapeutics Through Genomics",3,"
+Evidence-based medicine and the use of clinical practice guidelines is evolving to include application of genomic information to target drug therapies for patients. This course reviews the principles and applications of genomics to therapeutics and studies examples where this field is impacting therapeutic decisions in a variety of disease states.",,,,"Letter grade.
+"
+DPET 900,"  Introduction to DPET Research: Translational Science Journal Club",1,"
+This one credit hour course is offered jointly with the Universities of Minnesota and Pittsburgh. Students participate in journal club discussions by video teleconferencing on articles emphasizing methods which allow the translation from preclinical to clinical investigation in different therapeutic areas with emphasis on pharmacometrics, pharmacogenomics, and biomarker validation.",,,"May be repeated for credit. ","Letter grade.
+"

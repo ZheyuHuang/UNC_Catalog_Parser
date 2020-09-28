@@ -1,0 +1,144 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+CLSC 150,"  Current Topics in Clinical Laboratory Medicine",1,"
+A survey of topics in laboratory medicine including transfusions, forensic science, infectious diseases, and hematologic diseases.",,,,"Pass/Fail.
+"
+CLSC 410,"  Laboratory Mathematics",1,"
+Permission of the instructor for nonmajors. Basic mathematical principles, calculations, quality assurance, and method validation relevant to the clinical laboratory.",,,,"Letter grade.
+"
+CLSC 410L,"  Basic and Molecular Laboratory Methods",2,"
+Majors only. Basic skills associated with the clinical laboratory including pipetting, spectrophotometry, standard curves, dilutions, and immunoassays. Molecular methods include small volume pipetting, microwell plating, nucleic acid extraction, and PCR techniques.",,,,"Letter grade.
+"
+CLSC 420,"  Urinalysis and Body Fluids",1,"
+Permission of the instructor for nonmajors. The physical, chemical, and microscopic analysis of body fluids in the clinical laboratory with an emphasis on correlation of laboratory data.",,,,"Letter grade.
+"
+CLSC 420L,"  Urinalysis Laboratory",1,"
+For clinical laboratory science majors only. The physical, chemical, and microscopic examination of urine with an emphasis on the correlation of laboratory data.",,,,"Letter grade.
+"
+CLSC 430,"  Biochemistry",3,"
+Permission of the instructor for nonmajors. Physiological biochemistry of the metabolic pathways and alterations in selected diseases. Also includes principles and applications of molecular techniques in the clinical laboratory.",,,,"Letter grade.
+"
+CLSC 440,"  Hematology I",2,"
+Permission of the instructor for nonmajors. Introduction to normal hematopoiesis, blood cell function and identification, hematologic tests, principles of hemostasis, and hemostasis disorders.",,,,"Letter grade.
+"
+CLSC 440L,"  Hematology I Laboratory",1,"
+Permission of the instructor for nonmajors. Basic clinical assays for identification and evaluation of erythrocytes, leukocytes, and platelets with an emphasis on microscopy. Also includes coagulation testing.",,,,"Letter grade.
+"
+CLSC 442,"  Hematology II",3,"
+Majors only. Hematologic disorders involving erythrocytes and leukocytes, with an emphasis on the analysis and interpretation of laboratory data.",,,,"Letter grade.
+"
+CLSC 442L,"  Hematology II Laboratory",1,"
+Majors only. Microscopic identification and evaluation of abnormal erythrocyte and leukocyte morphology, correlation with other laboratory data, and clinical interpretation.",,,,"Letter grade.
+"
+CLSC 450,"  Immunology",3,"
+Permission of the instructor for nonmajors. Basic immunology and serology. Innate and immune body defenses. The development and properties of cellular and humoral elements and their alterations in pathological and other conditions.",,,,"Letter grade.
+"
+CLSC 460,"  Special Pathogens",2,"
+Permission of the instructor for nonmajors. Study of clinically significant fungi, parasites, and atypical or unusual bacteria. Correlation of disease, disease transmission, mechanisms of pathogenicity, and diagnostic testing.",,,,"Letter grade.
+"
+CLSC 460L,"  Parasitology and Mycology Laboratory",1,"
+Permission of the instructor for nonmajors. Clinical laboratory diagnostic methods for human parasitic and fungal infections. Microscopic morphology of fungal organisms and parasites, including their various life cycle forms.",,,,"Letter grade.
+"
+CLSC 462,"  Clinical Bacteriology",3,"
+Majors only. Principles and practice of clinical bacteriology. Study of medically significant bacteria with correlation of human disease, mechanisms of bacterial pathogenicity, and laboratory diagnostics.",,,,"Letter grade.
+"
+CLSC 462L,"  Clinical Bacteriology Laboratory",2,"
+Majors only. A comprehensive course describing bacteria that infect humans. Correlation of diseases and pathological mechanisms of bacteria.",,,,"Letter grade.
+"
+CLSC 470,"  Clinical Chemistry",3,"
+Majors only. An introduction to the methods of analysis used in the clinical chemistry laboratory. Emphasis on the correlation of chemistry laboratory values with disease states.",,,,"Letter grade.
+"
+CLSC 470L,"  Clinical Chemistry Laboratory",2,"
+Majors only. Performance of clinical laboratory assays for significant biochemical molecules. Principles of analysis, quality control, method evaluation, and basic laboratory instrumentation are presented.",,,,"Letter grade.
+"
+CLSC 480,"  Immunohematology",3,"
+Majors only. Introduction to blood group serology with an emphasis on the major blood group systems, pretransfusion testing, and antibody identification.",,,,"Letter grade.
+"
+CLSC 480L,"  Immunohematology Laboratory",2,"
+Majors only. Laboratory techniques for red cell typing, antibody identification, and pretransfusion testing.",,,,"Letter grade.
+"
+CLSC 540L,"  Clinical Hematology Laboratory",4,"
+ Majors only. Laboratory rotation in clinical hematology.","Prerequisite, CLSC 440.","EE- Field Work.",,"Letter grade.
+"
+CLSC 542L,"  Clinical Hemostasis Laboratory",2,"
+ Majors only. Laboratory rotation in clinical coagulation.","Prerequisite, CLSC 440.",,,"Letter grade.
+"
+CLSC 550L,"  Clinical Immunology Laboratory",1,"
+ Majors only. Laboratory rotation in clinical immunology.","Prerequisite, CLSC 450.",,,"Letter grade.
+"
+CLSC 560L,"  Clinical Microbiology Laboratory",4,"
+ Majors only. Laboratory rotation in clinical microbiology.","Prerequisite, CLSC 462.",,,"Letter grade.
+"
+CLSC 570L,"  Clinical Chemistry Laboratory Rotation",4,"
+ Majors only. Laboratory rotation in clinical chemistry.","Prerequisite, CLSC 470.",,,"Letter grade.
+"
+CLSC 580L,"  Clinical Immunohematology Laboratory",4,"
+ Majors only. Laboratory rotation in clinical immunohematology.","Prerequisite, CLSC 480.","EE- Field Work.",,"Letter grade.
+"
+CLSC 582L,"  Clinical Transplantation Medicine Laboratory",1,"
+ Majors only. Clinical rotation in histocompatibility, flow cytometry, and hematopoietic progenitor cell laboratories.","Prerequisite, CLSC 480.",,,"Letter grade.
+"
+CLSC 620,"  Clinical Laboratory Management",2,"
+Majors only. Foundation in the technical and nontechnical aspects of supervision and management of clinical laboratory testing.",,,,"Letter grade.
+"
+CLSC 630,"  Research Methods in Clinical Laboratory Science",2,"
+Majors only. An overview of the knowledge of research design and methods commonly used in the clinical laboratory research arena, providing the basis for the critical examination of professional literature.",,"CI.",,"Letter grade.
+"
+CLSC 670,"  Clinical Laboratory Science Educational Methods",2,"
+Majors only. Introduction to the basic principles of clinical laboratory education, including objectives, learning formats, test development, and clinical teaching.",,,"May be repeated for credit. 2 total credits. 1 total completions.","Letter grade.
+"
+CLSC 695,"  Undergraduate Research in Clinical Laboratory Science",3,"
+ This mentored and self-directed course provides students with research experience in the clinical laboratory field. Students will apply knowledge of research methods to generate results and communicate results to others. This is a clinical laboratory science elective course. Seniors only.","Prerequisite, CLSC 630 or CLSC 730.",,,"Pass/Fail.
+"
+CLSC 705L,"  Clinical Laboratory Methods",2,"
+This course consists of online laboratory mathematics and one week of an on-campus laboratory experience. This course covers topics in laboratory mathematics such as dilutions, conversions, and calibration. The laboratory sessions cover basic skills required in the clinical laboratory such as pipetting, spectrophotometry, calibration, and preparation of solutions.",,,,"Letter grade.
+"
+CLSC 708,"  Biostatistics for Laboratory Professionals",3,"
+This course prepares MCLS students to be critical consumers of scientific publications describing clinical research. Topics include organization and quality of data, types of research studies, frequency distributions, summary statistics, random and discrete variables, probability distributions, statistical inference, hypothesis testing, confidence intervals, parametric vs. non-parametric tests, descriptive statistics, drawing inferences from and comparing means, correlation and regression analysis, and the analysis of proportions. Majors only.",,,,"Letter grade.
+"
+CLSC 710,"  MDS PRINCIPLES",3,"
+",,,,
+CLSC 720,"  Molecular Genetics and Diseases",3,"
+ This course offers an overview of molecular genetics in relation to human variation and disease. Basics of disease are discussed, and diagnosis and treatment explored. Molecular techniques are addressed in context of different areas of the laboratory that use molecular technology: inherited disease, oncology, infectious disease, and identity testing. By the end of the course, students will better understand molecular causes of many diseases and disorders that are investigated using molecular diagnostics. MCLS majors only.","Prerequisite, CLSC 710.",,,"Letter grade.
+"
+CLSC 722,"  Molecular Diagnostic Science Applications",3,"
+ This course covers the performance of basic and advanced techniques used in molecular testing, to include nucleic acid extraction, quantitation, hybridization, amplification, and analysis. Interpretation and quality control techniques are emphasized throughout the course. Students will learn about the different applications of molecular diagnostic testing in the clinical laboratory setting and understand how this testing is used to help patients. Previously offered as CLSC 720L. MCLS majors only.","Prerequisite, CLSC 710.",,,"Letter grade.
+"
+CLSC 722L,"  Molecular Diagnostic Science Applications Laboratory",2,"
+ This course covers the performance of basic laboratory techniques used in molecular diagnostic testing, to include nucleic acid extraction, quantitation, hybridization, amplification, and electrophoresis. Students will apply the knowledge learned in their Molecular Diagnostic Science Applications didactic course (CLSC 722) to laboratory exercises that they will perform in the student teaching laboratory. Students will practice various molecular methods and techniques, interpretation of test results, quality control techniques, and troubleshooting. MCLS majors only.","Prerequisites, CLSC 710 and 722.",,,"Letter grade.
+"
+CLSC 730,"  Research Methods",3,"
+An overview of research design and methods used in clinical laboratory research.  The course covers methodological and ethical considerations influencing research design and prepares student to critically examine professional literature.",,,,"Letter grade.
+"
+CLSC 735,"  Method Evaluation",3,"
+ This course covers the knowledge and skills needed to determine the clinical value, diagnostic accuracy, and cost of establishing a new assay in a molecular diagnostic laboratory.","Prerequisite, CLSC 730 or 772.",,,"Letter grade.
+"
+CLSC 740L,"  Molecular Diagnostic Science Clinical Laboratory Rotation",7,"
+Majors only. Rotation in a clinical molecular laboratory in which the student will perform molecular assays, apply quality control, interpret results, and correlate results with the clinical condition.",,,,"Letter grade.
+"
+CLSC 741L,"  Clinical Molecular Diagnostic Techniques I",2,"
+Clinical rotation in a molecular oncology, molecular genetics, or molecular infectious disease laboratory.",,,,"Letter grade.
+"
+CLSC 742L,"  Clinical Molecular Diagnostic Techniques II",2,"
+Second clinical rotation in a molecular oncology, molecular genetics, or molecular infectious disease laboratory.",,,,"Letter grade.
+"
+CLSC 743L,"  Clinical Molecular Diagnostic Techniques III",3,"
+Third clinical rotation in a molecular oncology, molecular genetics, or molecular infectious disease laboratory. Includes a research project.",,,,"Letter grade.
+"
+CLSC 750,"  Clinical Laboratory Science Laboratory Administration",3,"
+This course provides a foundation in the technical and non-technical aspects of supervising and managing clinical laboratory testing services within the current health care delivery system. Topics include: regulation of clinical laboratories, accreditation of laboratories, financial management, information systems management, management of the quality of clinical laboratory testing, personnel management, leadership and communication skills, and ethics in the clinical laboratory testing environment. Previously offered as CLSC 650. MCLS majors only.",,,,"Letter grade.
+"
+CLSC 760,"  Molecular Diagnostics in the Corporate Setting",3,"
+This course covers the development of in vitro diagnostic molecular methods with clinical applications.  Topics include the research and development process, technical documentation, product commercialization , and IVD regulatory issues.",,,,"Letter grade.
+"
+CLSC 770,"  Educational Methods and Applications",3,"
+This course provides an overview of educational methods to prepare students for future roles as educators in clinical laboratories, educational programs and in corporate settings.  Topics include continuing education, competency assurance, certification and accreditation.",,,,"Letter grade.
+"
+CLSC 772,"  Education and Research in Clinical Laboratory Science",3,"
+This is a required course in the Master's of Clinical Laboratory Science for students who have graduated from the UNC-CLS program in the past 10 years. This course builds on the content of the UNC CLS undergraduate courses in education and research and prepares students for future roles as educators and researchers in the clinical laboratory profession. Majors only.",,,,"Letter grade.
+"
+CLSC 775,"  Education Practicum",3,"
+ This course prepares MCLS-MLS students for future roles as educators and includes course design, writing goals and objectives, presenting lectures, preparing student laboratory exercises, and evaluating instruction. Students will work closely with a CLS faculty advisor in the design, delivery and evaluation of an instructional unit. Majors only.","Pre- or corequisite, CLSC 770 or 772.",,,"Letter grade.
+"
+CLSC 780,"  Capstone",3,"
+ This course represents the culmination of the MCLS-MLS program. Students will use the information from all their courses to address a problem or important issue in the clinical laboratory profession. Students will design and complete a project in laboratory education, laboratory operations, or advanced laboratory practice. Majors only.","Prerequisites, CLSC 730, 750 and 770, or CLSC 772.",,,"Letter grade.
+"

@@ -1,0 +1,373 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+ENVR 89,"  First-Year Seminar: Special Topics",3,"
+Special topics course. Content will vary each semester.",,,,"Letter grade.
+"
+ENVR 190,"  Selected Topics in Undergraduate Studies",13,"
+Permission of the instructor. Current topics of interest in environmental science and their application to understanding environmental issues are directed towards undergraduates. Topics and instructors will change. One to three lecture hours per week.",,,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 2 total completions.","Letter grade.
+"
+ENVR 205,"  Engineering Tools for Environmental Problem Solving",3,"
+ Introduction to mass, energy, and momentum transport applied to environmental problem solving. Students ask and answer policy-oriented questions (define systems, document assumptions, explain the value and limitations of quantitative answers).  They will apply these tools to the design of engineered solutions and characterization of natural and perturbed systems.","Prerequisite, MATH 231.","PL, CI, QI.",,"Letter grade.
+"
+ENVR 230,"  Environmental Health Issues",3,"
+Examines key events that have shaped our understanding of the impacts of environmental agents on human health and uses them to introduce basic concepts in environmental health.",,,,"Letter grade.
+"
+ENVR 240,"  Undergraduate Research Opportunities Program (UROP) Training",1,"
+The purpose of this course is to provide structured research training among undergraduate students participating in the Undergraduate Research Opportunities Program (UROP). Formal acceptance into Undergraduate Research Opportunities Program (UROP) required.",,,,"Letter grade.
+"
+ENVR 295,"  Undergraduate Research",3,"
+Directed readings or laboratory study. Written reports are required. May be taken more than once for credit. Six to nine hours per week.",,,"May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+ENVR 296,"  Readings in Environmental Sciences and Engineering",19,"
+",,,,
+ENVR 400,"  Seminar Series",1,"
+Presents the results of ongoing research projects in the Department of Environmental Sciences and Engineering. Topics and presenters are selected from among the departmental graduate students and faculty.",,,,"Letter grade.
+"
+ENVR 403,"  Environmental Chemistry Processes",3,"
+Required preparation, a background in chemistry and mathematics, including ordinary differential equations. Chemical processes occurring in natural and engineered systems: chemical cycles; transport and transformation processes of chemicals in air, water, and multimedia environments; chemical dynamics; thermodynamics; structure/activity relationships.",,,,"Letter gradeSame as: ENEC 403.
+"
+ENVR 404,"  Life Cycle Assessment: Energy and the Environment",3,"
+A systems approach to dealing with environmental pollution problems is highlighted and Life Cycle Assessment (LCA) is introduced as an assessment tool. Topics include basic environmental interactions; biogeochemical cycles and environmental impacts  (global, regional, and local); and application of LCA to waste management and energy conversion systems; are addressed.",,,,"Letter grade.
+"
+ENVR 411,"  Laboratory Techniques and Field Measurements",3,"
+Students learn laboratory, field, and analytical skills. Provides a solid introduction to experimental research in environmental sciences and engineering. Students are provided with applications in limnology, aquatic chemistry, and industrial hygiene.",,,,"Letter grade.
+"
+ENVR 412,"  Ecological Microbiology",3,"
+Required preparation, one course in general microbiology. A description of microbial populations and communities, the environmental processes they influence, and how they can be controlled to the benefit of humankind.",,,,"Letter grade.
+"
+ENVR 413,"  Limnology",3,"
+Required preparation, introductory biology, chemistry, and physics. Basic aspects of freshwater ecosystem function. Emphasis on trophic-level interactions and integration of physical, chemical, and biological principles for a holistic view of lake ecosystem dynamics.",,,,"Letter grade.
+"
+ENVR 416,"  Aerosol Physics and Chemistry",4,"
+Permission of the instructor for nonmajors. Physical and chemical principles underlying behavior of particles suspended in air. Topics include rectilinear and curvilinear motion of the particles in a force field, diffusion, evaporation, and condensation, electrical and optical properties, and particle coagulation. Three lecture hours a week and two laboratory sessions.",,,,"Letter grade.
+"
+ENVR 417,"  Oceanography",3,"
+Required preparation, major in a natural science or two courses in natural sciences. Studies origin of ocean basins, seawater chemistry and dynamics, biological communities, sedimentary record, and oceanographic history. Term paper. Students lacking science background should see MASC 101. Students may not receive credit for both MASC 101 and MASC 401.",,,,"Letter gradeSame as: MASC 401, BIOL 350, GEOL 403.
+"
+ENVR 419,"  Chemical Equilibria in Natural Waters",3,"
+Principles and applications of chemical equilibria to natural waters. Acid-base, solubility, complex formation, and redox reactions are discussed. This course uses a problem-solving approach to illustrate chemical speciation and environmental implications. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 421,"  Environmental Health Microbiology",3,"
+Required preparation, introductory course in microbiology or permission of the instructor. Presentation of the microbes of public health importance in water, food, and air, including their detection, occurrence, transport, and survival in the environment; epidemiology and risks from environmental exposure. Two lecture and two laboratory hours per week.",,,,"Letter grade.
+"
+ENVR 423,"  Industrial Toxicology",3,"
+Toxicological assessment of and a case presentation of related exposure is given. A conceptual approach is utilized to design appropriate programs to prevent worker ill health due to toxicant exposure",,,,"Letter grade.
+"
+ENVR 425,"  Introduction to Health Physics: Radiation and Radiation Protection",3,"
+This course concentrates on fundamentals of radiation and protection, including types of radiation, radioactive decay, interaction with matter, biological effects, detection and measurement, protection methods/techniques, external and internal dose, etc. Lectures include hazards in categories of environmental radiation, nuclear energy, medical applications, industrial uses, etc.",,,,"Letter grade.
+"
+ENVR 430,"  Health Effects of Environmental Agents",3,"
+Required preparation, basic biology, chemistry through organic, calculus. Permission of the instructor for students lacking this preparation. Interactions of environmental agents (chemicals, infectious organisms, radiation) with biological systems including humans, with attention to routes of entry, distribution, metabolism, elimination, and mechanisms of adverse effects. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 431,"  Techniques in Environmental Health Sciences",2,"
+Required preparation, basic biology, chemistry through organic, math through calculus; permission of the instructor for students lacking this preparation. A practical introduction to the measurement of biological end-points, emphasizing adverse effects of environmental agents, using laboratory and field techniques. Two laboratory hours per week.",,,,"Letter grade.
+"
+ENVR 432,"  Occupational Safety and Ergonomics",3,"
+Fundamentals of occupational safety and ergonomics with emphasis on legislation and organization of industrial safety and ergonomic programs, including hazard recognition, analysis, control, and motivational factors pertaining to industrial accident and cumulative trauma disorder prevention.",,,,"Letter grade.
+"
+ENVR 433,"  Health Hazards of Industrial Operation",3,"
+An introduction to the health hazards associated with the various unit operations of industry. Field trips to local industries planned.",,,,"Letter grade.
+"
+ENVR 442,"  Biochemical Toxicology",3,"
+ Required preparation, one course in biochemistry. Biochemical actions of toxicants and assessment of cellular damage by biochemical measurements. Three lecture hours per week.","Prerequisite, CHEM 430; permission of the instructor for students lacking the prerequisites.",,,"Letter gradeSame as: BIOC 442, TOXC 442.
+"
+ENVR 451,"  Elements of Chemical Reactor Engineering",3,"
+Focuses on chemical reaction rates and reaction mechanisms. Covers mole balances, rate laws, chemical kinetics, and reactor design. Principles are applied to any environmental system where chemical transformations must be described. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 452,"  Fluid Dynamics",3,"
+ The physical properties of fluids, kinematics, governing equations, viscous incompressible flow, vorticity dynamics, boundary layers, irrotational incompressible flow.","Prerequisite, PHYS 401; permission of the instructor for students lacking the prerequisite.",,,"Letter gradeSame as: MASC 560, GEOL 560, PHYS 660.
+"
+ENVR 453,"  Groundwater Hydrology",3,"
+Required preparation, math through differential equations and some familiarity with fluid mechanics. Conservation principles for mass, momentum, and energy developed and applied to groundwater systems. Scope includes the movement of water, gas, and organic liquid phases, the transport and reaction of contaminants. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 468,"  Temporal GIS and Space/Time Geostatistics for the Environment and Public Health",3,"
+ Reviews geographical information systems (GIS). Covers geostatistics theory for the interpolation of environmental and health monitoring data across space and time. Uses publicly available water and air quality monitoring data to create maps used for environmental assessment, regulatory compliance analysis, exposure science, and risk analysis.","Prerequisite, MATH 232; permission of the instructor for students lacking the prerequisite.",,,"Letter gradeSame as: ENEC 468.
+"
+ENVR 470,"  Environmental Risk Assessment",3,"
+Required preparation, one course in probability and statistics. Use of mathematical models and computer simulation tools to estimate the human health impacts of exposure to environmental pollutants. Three lecture hours per week.",,,,"Letter gradeSame as: ENEC 470.
+"
+ENVR 472,"  Quantitative Risk Assessment in Environmental Health Microbiology",3,"
+Recommended preparation, microbiology, epidemiology, and infectious diseases. Survey of alternative approaches, frameworks, and decision-making tools for quantitative risk assessment of microbial pathogens that infect humans and cause disease by the exposure routes of water, food, air, and other vehicles.",,,,"Letter grade.
+"
+ENVR 475,"  Global Climate Change: Interdisciplinary Perspectives",1,"
+This class addresses the complexity and importance of global climate change from several disciplines. A top expert will lecture each week, addressing several themes including the science of human influences on climate, impacts and adaptation, global energy and technology, communication, and economics and international solutions. Pass/Fail only.",,,,"Pass/Fail.
+"
+ENVR 480,"  Modeling of Marine and Earth Systems",13,"
+ Mathematical modeling of dynamic systems, linear and nonlinear. The fundamental budget equation. Case studies in modeling transport, biogeochemical processes, population dynamics. Analytical and numerical techniques; chaos theory; fractal geometry.","Prerequisite, MATH 232; permission of the instructor for students lacking the prerequisite.",,,"Letter gradeSame as: MASC 480, GEOL 480.
+"
+ENVR 500,"  Environmental Processes, Exposure, and Risk Assessment",3,"
+ Environmental chemical and biological transport and transformation, exposure to environmental contaminants, and environmental risk assessment.","Prerequisite, CHEM 261.",,,"Letter grade.
+"
+ENVR 505,"  Chemical Oceanography",4,"
+Graduate students only; undergraduates must have permission of the instructor. Overview of chemical processes in the ocean. Topics include physical chemistry of seawater, major element cycles, hydrothermal vents, geochemical tracers, air-sea gas exchange, particle transport, sedimentary processes, and marine organic geochemistry. Three lecture and two recitation hours per week.",,"PL.",,"Letter gradeSame as: MASC 505, GEOL 505.
+"
+ENVR 514,"  Measurement of NOx, O3, and Volatile Organic Compounds",3,"
+This course is intended to develop a student's ability to operate the primary instruments for measuring these important pollutants, collect and process samples where necessary, record data, and process instrument data into final air concentration data.",,,,"Letter grade.
+"
+ENVR 520,"  Biological Oceanography",4,"
+For graduate students; undergraduates need permission of the instructor. Marine ecosystem processes pertaining to the structure, function, and ecological interactions of biological communities; management of biological resources; taxonomy and natural history of pelagic and benthic marine organisms. Three lecture and one recitation hours per week. Two mandatory weekend fieldtrips.",,"PL.",,"Letter gradeSame as: MASC 504, BIOL 657.
+"
+ENVR 522,"  Environmental Change and Human Health",3,"
+ The course will provide students with a multidisciplinary perspective of environmental changes to encompass both human health and ecological health.","Prerequisite, ENEC 201 or 202.",,,"Letter gradeSame as: ENEC 522.
+"
+ENVR 525,"  Water, Sanitation, Hygiene, and Global Health",3,"
+Builds on an understanding of infectious and toxic hazards, disease causation, and environmental transmission. Deals with hazard and disease classification; safety, risk, and vulnerability; interventions and their health impact; approaches in different settings; distal factors (e.g., water scarcity, climate change); and approaches to studying unsafe water, sanitation, and hygiene. Previously offered as ENVR 682.",,,,"Letter grade.
+"
+ENVR 552,"  Organic Geochemistry",3,"
+Recommended preparation, CHEM 261 or MASC 505, and one additional ENVR, GEOL, or MASC course above 400. Sources, transformations, and fate of natural organic matter in marine environments. Emphasis on interplay of chemical, biological, and physical processes that affect organic matter composition, distribution, and turnover.",,"PL.",,"Letter gradeSame as: MASC 552, GEOL 552.
+"
+ENVR 570,"  Methods of Environmental Decision Analysis",3,"
+Required preparation, one course in probability and statistics. Use of quantitative tools for balancing conflicting priorities (such as costs versus human health protection) and evaluating uncertainties when making environmental decisions.",,,,"Letter grade.
+"
+ENVR 575,"  Global Climate Change: Science, Impacts, Solutions",3,"
+This class addresses the importance of climate change in its entirety. The first half of the course addresses climate science, followed by climate change impacts, energy and mitigation technologies, economics, and international politics. Improving communication and quantitative skills is emphasized through homework, in-class presentations, and a research paper.",,,,"Letter grade.
+"
+ENVR 580,"  Policy Design for Environmental Health Solutions",3,"
+Students will be introduced to the types of policy instruments that can be used to solve environmental health problems. The course provides a framework for understanding the tasks involved, the main institutions responsible, and an in-depth description of the policy instruments used to tackle environmental health problems.",,,,"Letter grade.
+"
+ENVR 582,"  Sanitation for Development",3,"
+Over a million children die yearly from diarrhea, in part because 2.0 billion humans do not have access to a basic toilet. This course presents the problems and context of inadequate sanitation in the developing world, and, more importantly, the types of solutions and approaches available to reduce these problems.",,"PL, GL.",,"Letter grade.
+"
+ENVR 585,"  American Environmental Policy",3,"
+Intensive introduction to environmental management and policy, including environmental and health risks; policy institutions, processes, and instruments; policy analysis; and major elements of American environmental policy. Lectures and case studies. Three lecture hours per week.",,"HS, NA.",,"Letter gradeSame as: ENEC 585, PLAN 585, PLCY 585.
+"
+ENVR 593,"  Undergraduate Practicum in Environmental Health Sciences",13,"
+A practical experience in a setting relevant to environmental health.",,"EE- Academic Internship.","May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+ENVR 600,"  Environmental Health",3,"
+This course examines the relationship between environmental quality, human health and welfare, with particular attention to contamination in human environment; physical, biological, and social factors; trade-offs regarding prevention and remediation measures. Satisfies core School of Public Health requirement. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 601,"  Epidemiology for Environmental Scientists",3,"
+An introduction to relevant epidemiologic concepts that inform environmental science research. Learning objectives include discussing basic epidemiologic concepts and measures of disease occurrence in populations, explaining epidemiological study designs for studying associations between risk factors or exposures in populations, evaluating epidemiologic evidence, and comprehending basic ethical principles.",,,,"Letter grade.
+"
+ENVR 610,"  Global Perspectives on Environmental Health Inequalities",3,"
+Students will learn about how social, economic, and political factors impact environmental health outcomes and will be introduced to theories and methods for incorporating social determinants frameworks into environmental health research, as well as the role of environmental justice movements.",,,,"Letter grade.
+"
+ENVR 630,"  Systems Biology in Environmental Health",3,"
+Required preparation, one year of biology. Environmental systems biology examines how environmental stressors influence the components of a biological system, and how the interactions between these components result in changes in the function and behavior of that system.",,,,"Letter grade.
+"
+ENVR 640,"  Environmental Exposure Assessment",3,"
+Permission of the instructor for nonmajors. The course material introduces the general concepts of assessing environmental exposures to chemicals in human populations. This includes the design of ecologic and personal monitoring studies, the techniques and equipment used for sampling and analysis, and interpretation of data.",,,,"Letter grade.
+"
+ENVR 650,"  Principles of Chemical Carcinogenesis",2,"
+Required preparation, organic chemistry. Bioactivation of carcinogens, interaction of activated metabolites with DNA, and their effects on DNA structure, replication, repair, and the control of these processes during development of chemically induced carcinogenesis. Two lecture hours per week.",,,,"Letter grade.
+"
+ENVR 661,"  Scientific Computation I",3,"
+Requires some programming experience and basic numerical analysis. Error in computation, solutions of nonlinear equations, interpolation, approximation of functions, Fourier methods, numerical integration and differentiation, introduction to numerical solution of ODEs, Gaussian elimination.",,,,"Letter gradeSame as: MATH 661.
+"
+ENVR 662,"  Scientific Computation II",3,"
+ Theory and practical issues arising in linear algebra problems derived from physical applications, e.g., discretization of ODEs and PDEs. Linear systems, linear least squares, eigenvalue problems, singular value decomposition.","Prerequisite, MATH 661.",,,"Letter gradeSame as: MATH 662, COMP 662.
+"
+ENVR 666,"  Numerical Methods",3,"
+ Numerical methods for solving problems arising in sciences and engineering. Solution of linear equations using direct and iterative approaches, solution of nonlinear systems of algebraic equations, solution of ordinary differential equations including single and multistep methods, and methods for stiff systems of ODEs and collocation methods for linear and nonlinear PDEs.","Prerequisites, COMP 116 and MATH 383.",,,"Letter grade.
+"
+ENVR 668,"  Methods of Applied Mathematics I",3,"
+Requires an undergraduate course in differential equations. Contour integration, asymptotic expansions, steepest descent/stationary phase methods, special functions arising in physical applications, elliptic and theta functions, elementary bifurcation theory.",,,,"Letter gradeSame as: MATH 668.
+"
+ENVR 669,"  Methods of Applied Mathematics II",3,"
+ Perturbation methods for ODEs and PDEs, WKBJ method, averaging and modulation theory for linear and nonlinear wave equations, long-time asymptotics of Fourier integral representations of PDEs, Green's functions, dynamical systems tools.","Prerequisite, MATH 668.",,,"Letter gradeSame as: MATH 669.
+"
+ENVR 671,"  Environmental Physics I",3,"
+A first graduate-level course in physical principles relevant to environmental systems. Topics include dimensional analysis, tensor calculus, conservation of mass and momentum. Applications are considered from natural and engineered systems and across all relevant media. Focus is on the development of mechanistic representation of environmental systems.",,,,"Letter grade.
+"
+ENVR 672,"  Environmental Physics II",3,"
+ Second part of a graduate-level sequence in physical principles relevant to environmental systems. Topics include turbulence, conservation of energy, multiscale methods, and thermodynamics. Applications are considered from natural and engineered systems and across all relevant media. Focus is on development of mechanistic representation of environmental systems.","Prerequisite, ENVR 671.",,,"Letter grade.
+"
+ENVR 673,"  Hydraulics for Environmental Engineering",3,"
+ Permission of the instructor for undergraduates. This course teaches practical basics of how to solve environmental engineering problems in the hydraulics of pipes, pumps, networks, and open channels. The course is a mix of classroom lectures, problem-solving sessions, and laboratory sessions.","Prerequisites, MATH 231 and PHYS 114.",,,"Letter grade.
+"
+ENVR 675,"  Air Pollution, Chemistry, and Physics",3,"
+This class is designed for graduate students planning for research in air pollution, emphasizing chemical kinetics and engineering approaches to problem solving in addition to atmospheric structure, meteorology, and modeling. We address problems of stratospheric and tropospheric ozone, particulate matter, and acid rain. We emphasize quantitative problem solving in homework.",,,,"Letter grade.
+"
+ENVR 683,"  Water-Health Research I",2,"
+Permission of the instructor for undergraduates and nonmajors. Introduces students to methods for research conception, design, planning, and implementation in fields related to water and its impacts on health. Students study approaches and tools that may be applied in water-related research and are coached in developing their own research design.",,,,"Letter grade.
+"
+ENVR 684,"  Water-Health Research II",2,"
+Permission of the instructor for undergraduates and nonmajors. Familiarizes students with the principles of scientific communication with an emphasis on scientific writing and oral presentations. Using their own water and health research, students learn how to communicate effectively in informal settings and how to prepare for interviews with the media.",,,,"Letter grade.
+"
+ENVR 685,"  Water and Sanitation Planning and Policy in Less Developed Countries",3,"
+Permission of the instructor. Seminar on policy and planning approaches for providing improved community water and sanitation services in developed countries. Topics include the choice of appropriate technology and level of service, pricing, metering, and connection charges; cost recovery and targeting subsidies to the poor; water venting; community participation in the management and operation of water systems; and rent-seeking behavior in the provision of water supplies.",,,,"Letter gradeSame as: PLAN 685.
+"
+ENVR 686,"  Policy Instruments for Environmental Management",3,"
+ Design of public policy instruments as incentives for sustainable management of environmental resources and ecosystems, and comparison of the effects and effectiveness of alternative policies.","Prerequisite, ECON 410 or PLAN 710.","SS.",,"Letter gradeSame as: PLCY 686, ENEC 686, PLAN 686.
+"
+ENVR 687,"  Writing for Journal Publication on Water and Sanitation Hygiene, Health, and Development",2,"
+This course familiarizes students with scientific paper writing and coaches students towards journal manuscript submission. Students should have a data set of results. Sessions begin with student presentations and discussion, followed by a brief preparatory lecture on the next assignment. Substantive preparation is required between sessions.",,,,"Letter grade.
+"
+ENVR 691H,"  Honors Research",3,"
+Permission of the instructor. Directed readings or laboratory study of a selected topic. A written report is required in the form of an honors thesis (ENVR 692H).",,"EE- Mentored Research.","May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+ENVR 692H,"  Honors Thesis",3,"
+Students complete honors research projects.",,"EE- Mentored Research.",,"Letter grade.
+"
+ENVR 695,"  Undergraduate Research",13,"
+Directed readings or laboratory study. Written reports are required. May be taken more than once for credit. Three to nine hours per week.",,"EE- Mentored Research.","May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+ENVR 698,"  Senior Capstone Course",3,"
+This capstone course covers a range of issues in public health ethics, particularly focused on environmental health. Students will work on a team-based project over the course of the semester. The projects will be focused on topics that have ethical relevance and will integrate students' knowledge in environmental health.",,"EE- Mentored Research.",,"Letter grade.
+"
+ENVR 701,"  Ecology of Aquatic Plants and Wetland Ecosystems",3,"
+ Adaptations of aquatic plants and microorganisms of land-water interface regions of lakes and rivers, their nutrition, growth, population dynamics, competition, herbivory, productivity, physiological control measures. Wetlands functions, values to humans. Three lecture hours per week.","Prerequisites, BIOL 101, CHEM 101, 102; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+ENVR 703,"  Proposal Writing for Environmental Research",3,"
+This course is intended for PhD students to become familiar with the methods for writing a research proposal, grant application or response to a request for proposal/application (RFP/RFA). The course will provide orientation in conception, planning and implementation of writing a grant.",,,,"Letter grade.
+"
+ENVR 704,"  Critical Analysis of Environmental Research",1,"
+This 1 credit course is intended for PhD students. Students will learn how to conduct formal peer reviews for environmental health, science and engineering journals. In so doing, they will develop skills needed to critically evaluate environmental research.",,,"May be repeated for credit. 2 total credits. 2 total completions.","Letter grade.
+"
+ENVR 705,"  One Health: Philosophy to Practical Integration",13,"
+This course explores the intersection of human, animal, and environmental health and facilitates the understanding of health as an inexorably linked system requiring multidisciplinary collaborative efforts. The One Health concept demonstrates the importance of a holistic approach to disease prevention and the maintenance of human, animal, and environmental health.",,,,"Letter gradeSame as: PUBH 705.
+"
+ENVR 707,"  Advanced Toxicology",3,"
+ Cellular and physiological basis of toxicity of environmental chemicals, with emphasis on inhalation toxicology, developmental toxicology, immunotoxicology, radiation toxicology, renal toxicology, and neurotoxicology. Three lecture hours per week.","Prerequisite, PHCO 702; permission of the instructor for students lacking the prerequisite.",,,"Letter gradeSame as: TOXC 707, PHCO 707.
+"
+ENVR 710,"  Environmental Process Biotechnology",3,"
+Required preparation, a previous or concurrent course in microbiology. Theory and practice of biological processes used to remove contaminants from environmental media, including water, wastewater, soil, and air.",,,,"Letter grade.
+"
+ENVR 722,"  Toxicology Seminar III",1,"
+Presentations by outside invited speakers, local faculty, advanced graduate students, and postdoctoral trainees. Topics will cover all areas of research in toxicology. One hour per week.",,,,"Letter gradeSame as: TOXC 722.
+"
+ENVR 724,"  Current Topics in Environmental Analytical Chemistry",1,"
+Students will select, critically review, and discuss current research papers for content, relevance, innovation, and clarity. Papers can be from any aspect of the environmental sciences. Two lecture hours per week, every other week.",,,,"Letter grade.
+"
+ENVR 725,"  Environmental Physical-Organic Chemistry",3,"
+The physical chemistry of the partitioning, exchange, and chemical transformation of organic contaminants in the water, air, and soil environments.",,,,"Letter grade.
+"
+ENVR 726,"  Instrumental Methods for the Chemical Analysis of Environmental Samples",3,"
+Required preparation, basic or general chemistry. Emphasis on acquiring laboratory skills and hands-on experience with instrumentation including chromatography and mass spectrometry; sample handling and preparation; quality assurance and control. Three lecture hours or one lecture hour and four laboratory hours per week.",,,,"Letter grade.
+"
+ENVR 732,"  Health Effects of Outdoor and Indoor Air Pollution",3,"
+Required preparation, knowledge of basic human physiology and biochemistry helpful. Assessing health effects of air pollutants on normal and diseased human populations, including children. Physiology, cellular and molecular biology, immunology, genetics, dosimetry will be integrated. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 742,"  Theory and Practice of Evaluating Human Health Risks of Chemicals",2,"
+ ENVR/TOXC 707 and ENVR 470 are highly recommended. This course will provide students who already have good knowledge of the basic principles of toxicology and environmental health with real-life examples of how the information is integrated for the purpose of judging what chemical exposures may pose risk to human health.","Prerequisites, ENVR/TOXC/BIOC 442 or ENVR 430.",,,"Letter grade.
+"
+ENVR 754,"  Air Pollution Control",3,"
+Engineering control of air pollution control systems and discussion of air pollution regulation and standards. Spring. (Odd-numbered years.)",,,,"Letter grade.
+"
+ENVR 755,"  Analysis of Water Resource Systems",3,"
+Permission of the instructor for nonmajors. Use of mathematical models to design and evaluate regional water supply and treatment systems. Engineering and economic methods are incorporated into quantitative analyses of regional scenarios. Social and political aspects also discussed. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 756,"  Physical/Chemical Treatment Processes",3,"
+ Principles of disinfection, oxidation, coagulation, precipitation, sedimentation, filtration, adsorption, ion exchange, and membrane processes; applications to water and wastewater treatment. Three lecture hours per week.","Prerequisites, ENVR 419 and 451.",,,"Letter grade.
+"
+ENVR 757,"  Water and Wastewater Treatment Plant Design",3,"
+ The application of the theory of water and wastewater treatment to the design of municipal facilities. The course includes the principles of design and modern design practices. Design and analysis of design of specific works for water and wastewater treatment.","Prerequisites, ENVR 710 and 756.",,,"Letter grade.
+"
+ENVR 758,"  Environmental Engineering Project",3,"
+Permission of the instructor. Ad hoc project designed for a student team in addressing a current problem in environmental engineering. Projects may include laboratory or pilot-scale studies, collection and analysis of data from full-scale systems, or comprehensive analysis of relevant problems in environmental engineering practice. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 759,"  Multiphase Transport Phenomena",3,"
+ Continuum mechanical approach to formulating mass, momentum, energy, and entropy equations to describe multiphase transport phenomena. Three lecture hours per week.","Prerequisite, ENVR 453.",,,"Letter grade.
+"
+ENVR 760,"  Uncertainty Quantification for Environmental Systems",3,"
+Quantitative assessment of how uncertainty in mechanistic models (subsurface, ocean, atmosphere, global climate), parameters, and auxiliary conditions of a model is manifest in uncertainty in model predictions. Topics include: model formulations, statistical tools, Monte Carlo methods, moment methods, estimation methods, statistical simulation methods, reduced order models, and data assimilation approaches.",,,,"Letter grade.
+"
+ENVR 761,"  Numerical ODE/PDE, I",3,"
+ Single, multistep methods for ODEs: stability regions, the root condition; stiff systems, backward difference formulas; two-point BVPs; stability theory; finite difference methods for linear advection diffusion equations.","Prerequisites, MATH 661 and 662.",,,"Letter gradeSame as: MATH 761, MASC 781.
+"
+ENVR 762,"  Numerical ODE/PDE, II",3,"
+ Elliptic equation methods (finite differences, elements, integral equations); hyperbolic conservation law methods (Lax-Fiedrich, characteristics, entropy condition, shock tracking/capturing); spectral, pseudo-spectral methods; particle methods, fast summation, fast multipole/vortex methods.","Prerequisite, MATH 761.",,,"Letter gradeSame as: MATH 762, MASC 782.
+"
+ENVR 763,"  Mathematical Modeling I",3,"
+ Nondimensionalization and identification of leading order physical effects with respect to relevant scales and phenomena; derivation of classical models of fluid mechanics (lubrication, slender filament, thin films, Stokes flow); derivation of weakly nonlinear envelope equations. Fall.","Prerequisites, MATH 661, 662, 668, and 669.",,,"Letter gradeSame as: MATH 768, MASC 783.
+"
+ENVR 764,"  Mathematical Modeling II",3,"
+ Current models in science and technology: topics ranging from material science applications (e.g., flow of polymers and LCPs); geophysical applications (e.g., ocean circulation, quasi-geostrophic models, atmospheric vortices).","Prerequisites, MATH 661, 662, 668, and 669.",,,"Letter gradeSame as: MATH 769, MASC 784.
+"
+ENVR 765,"  Space Time Exposure Mapping and Risk Assessment",3,"
+Theory and MATLAB numerical implementation of linear geostatistics (simple/ordinary/universal kriging) and modern geostatistics (Bayesian Maximum Entropy) to map environmental and health processes varying across space and time. Applications in exposure assessment, environmental epidemiology, medical geography, and risk assessment.",,,,"Letter grade.
+"
+ENVR 766,"  Stochastic Environmental Health Modeling",3,"
+Required preparation, statistics. A holistic/stochastic perspective, spatiotemporal random field modeling of environmental exposure and biological variabilities. Uncertainty in environmental exposure. Biomarkers and population damage indicators for epidemiological analysis. Cell-based stochastic differential equations. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 767,"  Modeling for Environmental Risk Analysis",3,"
+ Mathematical methods for development of advanced models in environmental risk assessment, including exposure assessment and exposure-response assessment, are developed and applied. Three lecture hours per week.","Prerequisite, ENVR 470.",,,"Letter grade.
+"
+ENVR 768,"  Microenvironmental Air Flow Modeling",3,"
+Required preparation, fluid mechanics.  Permission of the instructor. Applications of finite element and vortex methods for modeling air flows of significance in industrial hygiene applications. Three lecture hours per week.",,,,"Letter grade.
+"
+ENVR 769,"  Quantitative Methods for Exposure Science",3,"
+ SAS regression and statistics, two ENVR courses (e.g. 430, 470, 707, 740, 770, 890), or permission of the instructor. Mathematical approaches for assessing environmental and/or occupational exposures to chemicals in human populations using stochastic (group) statistics, regression analysis and modeling, and pharmacokinetic modeling; focus on human biomarker data.","Prerequisite, BIOS 511.",,,"Letter grade.
+"
+ENVR 770,"  Biological Monitoring",3,"
+ This course provides both practical and theoretical information on biological monitoring of chemical exposures and how to evaluate and interpret exposure data. Three lecture hours per week and a term paper (three credit hours).","Prerequisite, ENVR 430.",,,"Letter grade.
+"
+ENVR 771,"  Exposure Analysis",3,"
+This course is intended for students interested in research involving exposure to environmental contaminants. The course focuses on the integration of engineering principles, with statistical tools to enhance inference. Statistical models based on the Johnson system of distributions are explored for the analysis data including exposure-biomarker relationships.",,,,"Letter grade.
+"
+ENVR 773,"  Modeling Atmospheric Chemistry",3,"
+Air pollution is formed through thousands of chemical reactions. Computer models are used to simulate this complex chemistry and used to make policy. Current computational restraints force a simplified representation of atmospheric chemistry in these models, and the focus of this course is the implications of this on predictions.",,,,"Letter grade.
+"
+ENVR 775,"  Global Climate Change: Interdisciplinary Perspectives",1,"
+This class addresses the complexity and importance of global climate change from several disciplines. A top expert will lecture each week, addressing these themes: the science of human influences on climate; impacts and adaptation; global energy and technology; communication; and economics and international solutions.",,,,"Letter grade.
+"
+ENVR 777,"  Air Quality and Atmospheric Sciences Seminar",1,"
+This course gives students practice organizing a scientific presentation and speaking in front of an audience and promoting interdisciplinary interaction. Students will research topics and organize presentations for faculty and other students. The topics may be any aspect of air quality and atmospheric sciences.",,,"May be repeated for credit. 3 total credits. 3 total completions.","Letter grade.
+"
+ENVR 780,"  Urban Water Services Planning and Design",3,"
+ This course helps students learn and apply principles of water supply sewerage and drainage planning and design, work collaboratively on real-world problems with insufficient data, and present technical findings in a clear and convincing way.","Prerequisite, ENVR 673; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+ENVR 781,"  Water Resources Planning and Policy Analysis",3,"
+Water resources planning and management. Federal and state water resources policies. Analytical skills to identify environmental problems associated with urban water resources development.",,,,"Letter gradeSame as: PLAN 781.
+"
+ENVR 782,"  Occupational Health Nursing II: Occupational Health Programming",3,"
+ Continuation of ENVR 791. Role components of occupational health nursing with emphasis on designing, implementing, and evaluating occupational health programs. Emphasis on analysis of factors influencing the delivery of health care at the worksite.","Prerequisite, ENVR 791; Permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+ENVR 783,"  Setting Environmental Priorities",3,"
+This course is intended to develop a student's ability to estimate the relative merits of research and policy actions in several broad environmental areas, with attention to the associated uncertainty. Criteria to be included are both quantitative and qualitative, with an emphasis on public health, environmental, and economic metrics.",,,,"Letter grade.
+"
+ENVR 784,"  Community-Driven Research and Environmental Justice",2,"
+In this course, students will learn from community residents who challenge public health scientists to conduct research on environmental and occupational hazards that impact their health.",,,,"Letter grade.
+"
+ENVR 785,"  Public Investment Theory",3,"
+ Basic theory, process, and techniques of public investment planning and decision making, involving synthesis of economic, political, and technologic aspects. Theory underlying benefit-cost analysis, adaptation to a descriptive and normative model for planning public projects and programs.","Prerequisite, PLAN 710.",,,"Letter gradeSame as: PLAN 785.
+"
+ENVR 786,"  Environmental Quality Management",3,"
+Planning and analysis of regional environmental system with a focus on management of mass flows that affect the quality of the regional environment.",,,,"Letter gradeSame as: PLAN 786.
+"
+ENVR 787,"  Applied Environmental Finance: How to Pay for Environmental Services",3,"
+How can governments, communities, organizations, and businesses fund environmental services? This applied course reviews the diverse tools and strategies that environmental service providers use to pay for programs. The course will focus on environmental services related to: drinking Water, wastewater, storm-water, watershed protection, energy efficiency, renewable energy, sustainability, and wetlands.",,,,"Letter gradeSame as: PUBA 787, PLAN 787.
+"
+ENVR 788,"  Managing Environmental Financial Risk",3,"
+As society's exposure to environmental risks grows, it has become increasingly important to find innovative tools for mitigating these risks. This course is designed to introduce students to the fundamentals of financial risk management within an environmental context, with an emphasis on developing coupled environmental-financial systems models.",,,,"Letter grade.
+"
+ENVR 789,"  International Field Research",2,"
+Course offers theoretical foundations in cultural sensitivity, personal security, communication, organization and research along with guided practical exercises in conducting international field research. The result is the development of cross-cultural and applied research skills that prepare the student to conduct successful field research.",,,,"Letter grade.
+"
+ENVR 791,"  Occupational Health Nursing I: Occupational Health Assessment",3,"
+Occupational Health Nursing I: Occupational Health Assessment.",,,,"Letter grade.
+"
+ENVR 793,"  Writing Scientific Papers for WaSH Peer-Reviewed Journal Publication",2,"
+A two-credit, fall course open to graduate students with a complete data set with results to communicate to other scientists as a scientific paper or manuscript submission to peer-reviewed journals on an aspect of water and health. Undergraduate honors students admissible at discretion of the instructor.",,,,"Letter grade.
+"
+ENVR 795,"  Critical issues in work, worker and workplace health",3,"
+This course prepares students to contribute as members of an interdisciplinary team to protect and promote workers' health. Students will learn that work is a social determinant of health and explore the context in which worker health protection/promotion practitioners work. Students will be able to summarize key regulations and policies that impact work and worker health.",,,,"Letter gradeSame as: HBEH 785.
+"
+ENVR 797,"  Fundamentals of Industrial Hygiene",2,"
+Provides broad understanding of industrial hygiene. Major emphasis is recognition of hazards in the workplace, evaluation of measurement of those hazards, and application of control strategies.",,,,"Letter grade.
+"
+ENVR 850,"  Systems Analysis in Environmental Planning",3,"
+Required preparation, calculus. Applications of systems analysis techniques to the management of environmental quality.",,,,"Letter grade.
+"
+ENVR 890,"  Problems in Environmental Sciences and Engineering",121,"
+Permission of the department. For students outside the department who wish to undertake individual study of a specific problem in environmental sciences and engineering. The subject and requirements of the project are arranged with the faculty in each individual instance. One or more hours per week.",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+ENVR 981,"  Environmental Sciences Practicum",19,"
+A practical experience in public health/environmental health sciences.",,,"May be repeated for credit. ","Letter grade.
+"
+ENVR 989,"  Environmental Crisis Management",3,"
+This course will focus on practical solutions to public health related disasters where students extend, critique, and apply knowledge gained in the classroom. This experience-based course will have flexibility to allow for substantive contributions from students of all backgrounds enrolled in the Gillings School of Global Public Health.",,,,"Letter grade.
+"
+ENVR 990,"  Environmental Engineering Brief",1,"
+Students in ENVR 990 will work in concert with their advisor to identify and define an engineering problem, describe a solution to the problem, and develop a plan for implementation. These briefs serve as a foundation for the student's master's technical report.",,,"May be repeated for credit. 15 total credits. 5 total completions.","Letter grade.
+"
+ENVR 991,"  Research in Environmental Sciences and Engineering",19,"
+Consultation with the faculty and approval of subject and proposed program required. Permission of the instructor. May be repeated. Hours and credits to be arranged.",,,"May be repeated for credit. ","Letter grade.
+"
+ENVR 992,"  Master's Technical Report",3,"
+The technical report requirement for M.S.P.H., M.P.H., and M.S.E.E. candidates is satisfied by the extensive study of a problem in environmental sciences and engineering.",,,"May be repeated for credit. 
+",
+ENVR 993,"  Master's Research and Thesis",3,"
+",,,,
+ENVR 994,"  Doctoral Research and Dissertation",3,"
+",,,,

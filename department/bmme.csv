@@ -1,0 +1,191 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+BMME 89,"  First Year Seminar: Special Topics",3,"
+Special topics course. Content will vary each semester.",,,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 2 total completions.","Letter grade.
+"
+BMME 101,"  Frontiers of Biomedical Engineering",1,"
+Restricted to first-year students only. An introduction to the groundbreaking tools and topics of biomedical engineering, including medical imaging, medical robotics, rehabilitative engineering, regenerative medicine, and medical device design.",,,,"Letter grade.
+"
+BMME 150,"  Introduction to Materials Science",3,"
+ Focus on the materials science and processing of electronic, metallic, polymeric, ceramic, and composite materials. The electronic, optical, magnetic, and structural properties of materials are related to their applications. Majors only.","Prerequisites, CHEM 102; co-requisites, MATH 383 and PHYS 117 or 119.",,,"Letter grade.
+"
+BMME 160,"  Statics",3,"
+ Course restricted to admitted majors only. Course covers rigid body mechanics of bodies at equilibrium or at rest (statics), and an introduction to rigid body mechanics of bodies in motion (dynamics). A foundation in engineering concepts and practices required to design and analyze many types of structural members is presented. Provides a foundation for more advanced courses.","Prerequisites, MATH 232, and PHYS 116 or 118.",,,"Letter grade.
+"
+BMME 190,"  Special Topics in Biomedical Engineering",13,"
+A study in the special fields under the direction of the faculty. Offered as needed for presenting material not normally available in regular BMME courses. Honors version available",,,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 3 total completions.","Letter grade.
+"
+BMME 201,"  Computer Methods in Biomedical Engineering",3,"
+This course introduces students to problem-solving techniques using the MATLAB programming language. Fundamental computer science basics are taught as they relate to problems encountered in biomedical engineering and other scientific disciplines. Programming activities will incorporate actual data (e.g., stress/strain data and microscopy images) for relevant, real-world examples. Course restricted to admitted majors only.",,,,"Letter grade.
+"
+BMME 205,"  Biomedical Mechanics",4,"
+Study of the state of rest or motion of bodies subjected to the action of forces. Properties of force systems, free body diagrams, concepts of equilibrium, kinematics of particles, Newton's laws, conservational principles of energy of momentum in mechanics, mechanical vibrations, and their applications in biomedical systems. Biomedical Engineering majors only.",,,,"Letter grade.
+"
+BMME 207,"  Biomedical Electronics",4,"
+ Fundamentals of analog and digital circuit analysis and design as applied to biomedical instrumentation and measurement of biological potentials. Passive circuit components, node and mesh analysis, transient behavior, operational amplifiers, frequency response, analog filter design, diode, transistors, biological signal acquisition, binary math and logical operators, digital circuit design, circuit simulation tools and techniques. Laboratory exercises supplement the topics presented in class lectures. Previously offered as BMME 350. Majors only.","Prerequisite, PHYS 117 or 119.",,,"Letter grade.
+"
+BMME 209,"  Materials Science of Biomaterials",4,"
+ Focus on the materials science and processing of electronic, metallic, polymeric, ceramic, and composite materials. The electronic, optical, magnetic, and structural properties of materials are related to their applications. Lab component focused on integrating biological engineering and materials engineering principles by exploring key topics in materials science. Topics include biomaterial fabrication, evaluation of their physical properties and interpretation of results. Majors only.","Pre- or Corequisite, PHYS 117 or 119.",,,"Letter grade.
+"
+BMME 215L,"  Biomedical Mechanics Lab",1,"
+ Statics and dynamics subjects will be studied with experimental techniques, including strain gauges and accelerometers, and computational methods, including finite-element analysis and motion capture.","Prerequisite, BMME 160; Pre- or corequisite, BMME 201 or COMP 116.",,,"Letter grade.
+"
+BMME 217L,"  Biomedical Electronics Laboratory",1,"
+ This laboratory course is a corequisite to BMME 207 and complements it with relevant labs and  examples. Laboratory in analog and digital circuit analysis. Electrical safety, exercises in resistor networks, capacitors and inductors, steady-state and dynamic circuit behavior, active circuits, amplifiers, logic gates, combinatorial and sequential circuits, elementary digital system design, A/D conversion, and biomedical applications. Biomedical and health sciences engineering majors only.","Prerequisite, PHYS 117 or 119.",,,"Letter grade.
+"
+BMME 219L,"  Materials Science of Biomaterials Lab",1,"
+ Introductory laboratory experience focused on integrating biological engineering and materials engineering principles by exploring key topics in materials science. Topics include biomaterial fabrication, evaluation of their physical properties and interpretation of results.","Prerequisite, BMME 150.",,,"Letter grade.
+"
+BMME 295,"  Research in Biomedical Engineering for Undergraduates",13,"
+Permission of the director of undergraduate studies. At least three hours per credit hour of independent work a week. Research with a faculty mentor. Approved learning contract required. Research proposal and final research paper also required. Previously offered as BMME 395.",,"EE- Mentored Research.",,"Letter grade.
+"
+BMME 298,"  Biomedical Engineering Design and Manufacturing I",2,"
+ Students will learn: use of design software (SolidWorks and support/analysis programs); basic techniques for directly measuring solid objects; electronic assembly techniques; and how to design simple electronic circuits. Note: BME Toolkit purchase is required for this course. Previously offered as BMME 210. Majors only.","Pre- or corequisite, PHYS 117 or 119.",,,"Letter grade.
+"
+BMME 301,"  Human Physiology : Electrical Analysis",4,"
+ This course includes an electrical analysis approach to human physiology from the biomedical engineering perspective with an emphasis on neural, sensory, and cardiac physiology. Autonomic and somatic motor control will be discussed. Engineering applications, including neural stimulator, functional imaging, cochlear implants, artificial noses, vestibular implants, visual implants, artificial larynges, pacemakers and defibrillators will be discussed. Assignments include computer-based exercises using MATLAB. Majors only.","Prerequisite, BIOL 101L, (BMME 207 or BMME 350), (BMME 201 or COMP 116).",,,"Letter grade.
+"
+BMME 302,"  Human Physiology: Mechanical Analysis",4,"
+ Explores a quantitative approach to human physiology from the biomedical engineering perspective with an emphasis on systems physiology described using mechanical properties. Topics include the physiological and mechanical behavior of the blood vessels, lungs, kidney, and muscles. In lab exercises, students investigate mechanical properties of fluids, electrolyte exchange in dialysis, spirometry, and blood pressure measurement among other topics. Culminates with the design of a novel laboratory experiment.","Prerequisites, BIOL 101, BMME 160 or BMME 205, and BMME 150 or BMME 209.",,,"Letter grade.
+"
+BMME 315,"  Biotransport",3,"
+ This course serves as introduction for engineers pursuing transport phenomena and for future pharmaco-engineers requiring predictive models of mass transfer or pharmacodynamic models. Material is designed to address heat and mass transfer issues in nanotechnology, microfabrication, mems, cell therapies, bioartificial organs, as well as pharmacodynamic modeling of dynamic "omics" datasets. Previously offered as BMME 475","Prerequisites, BIOL 101, BMME 205 or BMME 160, and MATH 383.",,,"Letter grade.
+"
+BMME 325,"  Biochemistry for Biomedical Engineers",3,"
+ An overview of how alterations in bioenergetics, enzyme catalysis, protein and membrane structure, carbohydrate, lipid and nucleic acid metabolism affect human health. Topics include: biological thermodynamics, energy of macromolecular structure and binding, structure/function of proteins, enzymes and nucleic acids, kinetics, enzyme catalysis and biochemical network analysis, generation of chemical and electrical potential in membranes, carbohydrate/lipid/protein metabolism and energy production, DNA synthesis, transcription,  and the technologies used to monitor/detect biochemical processes.","Prerequisites, CHEM 261 and BMME 150 or BMME 209.",,,"Letter grade.
+"
+BMME 335,"  Biomaterials",3,"
+ Focus on the mechanical, chemical, and biocompatibility considerations of any material (e.g., metal, ceramic, or polymer) designed to interface with the body. Various applications of biomaterials are presented and analyzed, including femoral implants and vascular grafts, in order to guide students in a semester-long design project. Previously offered as BMME 510. Majors only.","Prerequisites, BIOL 101 and BMME 209 or BMME 150.",,,"Letter grade.
+"
+BMME 345,"  Biomedical Solid Mechanics",3,"
+ This course covers topics ranging from multi-body systems to stress superposition to failure criteria to prepare students for the more advanced subjects of biomechanics and rehabilitation engineering. Topics include free-body diagrams, multibody statics and dynamics, linkage kinematics and kinetics, anthropometric kinematics, stress/strain/torsion, beam bending, stress superposition, constitutive relationship, strain gauges, finite-element analysis, failure analysis, and failure mechanisms.","Prerequisites, BMME 205, 215L, 150, 160, 209 or 219L, and BMME 201 or COMP 116.",,,"Letter grade.
+"
+BMME 355,"  Biocontrols",3,"
+ Quantitative analysis of dynamic and feedback control systems, including modeling of physiological systems and physiological control systems, system time and frequency responses, control characteristics, and stability analysis. Design techniques for feedback systems in biomedical applications.","Prerequisites, BMME 350 and MATH 383; Pre- or corequisite, BMME 410.",,,"Letter grade.
+"
+BMME 365,"  Systems and Signals",3,"
+ Analysis of linear systems by transform methods to networks, including Fourier transforms, Laplace transforms, and convolution. Survey of linear systems applications to biomedical problems. Previously offered as BMME 410. Majors only.","Pre- or corequisite, MATH 383.",,,"Letter grade.
+"
+BMME 375,"  Biomedical Microcontroller Applications",3,"
+ Introduction to digital computers for real-time processing and control of signals and systems. Programming input and output devices using C and assembly language is stressed. Case studies are used to present software design strategies for real-time laboratory systems. Previously offered as BMME 580. Majors only.","Pre- or corequisites, BMME 301 and 385.",,,"Letter grade.
+"
+BMME 385,"  Biomedical Instrumentation",3,"
+ Fundamentals of biomedical instrument design and implementation. Topics include basic electronic circuit design, analysis of medical instrumentation circuits, analog-to-digital signal conversion, biosignal capture and storage, embedded microprocessors, system integration and prototyping. This course is a lecture course with a project component. Previously offered as BMME 465. Majors only.","Pre- or corequisite, BMME 350 or BMME 207.",,,"Letter grade.
+"
+BMME 396,"  Independent Study in Biomedical Engineering",13,"
+Permission of the director of undergraduate studies. Independent study under a member of the biomedical engineering faculty.  Approved learning contract required.",,,"May be repeated for credit. 12 total credits. 4 total completions.","Letter grade.
+"
+BMME 398,"  Biomedical Engineering Design and Manufacturing II",2,"
+ This course is a part of a three year sequence and it expands on the skills and knowledge gained in BMME 298. Students continue to learn the process of engineering design and develop technical skills to produce solutions for unmet medical needs. Previously offered as BMME 310. Honors version available","Prerequisite, BMME 298.",,,"Letter grade.
+"
+BMME 405,"  Biomechanics of Movement",3,"
+ This course provides an overview of musculoskeletal anatomy, and of the mechanical behavior of biological tissues and biological systems. Students learn to apply fundamental principles of mechanics to analyze movement in humans and other animals. Applications in rehabilitation and orthopedics are emphasized.","Prerequisites, BMME 160 and MATH 383.",,,"Letter grade.
+"
+BMME 420,"  Introduction to Synthetic Biology",3,"
+ This course provides an introduction to the ideas and methodologies in the field of synthetic biology. Lectures focus on fundamental concepts in molecular biology and engineering as applied to biological system design. The laboratory portion of the course provides hands-on application of fundamental techniques in synthetic biology research. Majors only.","Pre- or corequisites, BMME 325 or CHEM 430; and BMME 335.",,,"Letter grade.
+"
+BMME 435,"  Biological Physics",3,"
+ How diffusion, entropy, electrostatics, and hydrophobicity generate order and force in biology. Topics include DNA manipulation, intracellular transport, cell division, molecular motors, single molecule biophysics techniques, nerve impulses, neuroscience.","Prerequisites, PHYS 116 and 117, or PHYS 118 and 119.",,,"Letter gradeSame as: PHYS 405, BIOL 431.
+"
+BMME 441,"  Thermal Physics",3,"
+ Equilibrium statistical mechanics; the laws of thermodynamics, internal energy, enthalpy, entropy, thermodynamic potentials, Maxwell's equations.","Prerequisites, MATH 233, and PHYS 117 or 119; permission of the instructor for students lacking the prerequisites.",,,"Letter gradeSame as: PHYS 441.
+"
+BMME 445,"  Systems Neuroscience",3,"
+ Introduction to methodologies used to characterize a) the aggregate behavior of living neural networks and b) the changes in that behavior that occur as a function of stimulus properties, pharmacological manipulations, and other factors that dynamically modify the functional status of the network.","Prerequisite, BMME 351 or BMME 301 or BIOL 252.",,,"Letter grade.
+"
+BMME 447,"  Neural Basis of Rehabilitation Engineering",3,"
+ The course will 1) introduce basic neuroscience topics underlying sensorimotor control, and 2) introduce different types of childhood and adult neuromuscular disorders with both central and peripheral origins. The main focus of the class will be on the different techniques used for diagnosis, assessment, and rehabilitation interventions.","Prerequisites, BMME 351, and BMME 160 or BMME 345.",,,"Letter grade.
+"
+BMME 455,"  Biofluid Mechanics",3,"
+ This course introduces students to basics of fluid mechanics (steady and pulsatile flows, laminar and turbulent flows, and Newtonian and non-Newtonian flows). Students learn the fundamental relationships and governing equations describing these types of flows and the basic physiology of certain systems that are highly associated with fluid flows.","Prerequisites, BMME 315, or BMME 160 and MATH 528 and COMP 116.",,,"Letter grade.
+"
+BMME 461,"  Introduction to Medical Imaging",3,"
+ This class covers the underlying concepts and instrumentation of modern medical imaging modalities. Review of applicable linear systems theory and relevant principles of physics. Modalities covered include X-ray radiography (conventional film-screen imaging and modern electronic imaging), computerized tomography (including the theory of reconstruction), magnetic resonance imaging, SPECT/PET, and ultrasound imaging.","Prerequisite, BMME 410.",,,"Letter grade.
+"
+BMME 470,"  Analysis of Tissue Engineering Technologies",3,"
+ Lectures in this course address how to quantitatively evaluate functional engineered tissues. The course provides an overview of the field, with emphasis on detailed evaluation of scientific and commercial progress over time, and design principles that must be met to develop a process or fabricate a functional tissue-engineered part.","Prerequisites, BMME 335 or BMME 351, and BMME 302 or BIOL 252.",,,"Letter grade.
+"
+BMME 485,"  Biotechnology",3,"
+ This course is designed to prepare a biomedical engineering student with the survey tools to understand key components in modern biotechnologies. Fundamental concepts, theory, design, operation, and analysis of the most common biotechnologies in bioengineering will be presented.","Prerequisite, BMME 210.",,,"Letter grade.
+"
+BMME 490,"  Special Topics in Biomedical Engineering",39,"
+A study  in the special fields under the direction of the faculty. Offered as needed for presenting material not normally available in regular BMME courses.",,,"May be repeated for credit; may be repeated in the same term for different topics; 12 total credits. 4 total completions.","Letter grade.
+"
+BMME 495,"  Undergraduate Research in Biomedical Engineering as a Technical Elective",3,"
+Opportunity for hands-on faculty mentored research project in biomedical engineering. Approved plan of work required with significant independent research culminating in a final paper and presentation at an appropriate venue. Departmental approval required. Course may not be repeated.",,,,"Letter grade.
+"
+BMME 505,"  Skeletal Biomechanics",3,"
+ A firm understanding of the principles of mechanics is an important foundation to biomechanics. In this course, students will study the mechanics of materials with applications to the strength of bone, implant analysis, and testing of biological materials. A goal of this course is for students to understand how the interface of biology, mechanics, and therapies affect skeletal pathological conditions.","Prerequisites, BMME 160 and MATH 383.",,,"Letter grade.
+"
+BMME 550,"  Medical Imaging I: Ultrasonic, Optical, and Magnetic Resonance Systems",3,"
+ Physical and mathematical foundations of ultrasonic, optical, and magnetic resonance imaging systems in application to medical diagnostics. Each imaging modality is examined, highlighting critical system characteristics: underlying physics of the imaging system, including mechanisms of data generation and acquisition; image creation; and relevant image processing methods, such as noise reduction.","Prerequisites, BIOS 550 and PHYS 128.",,,"Letter grade.
+"
+BMME 551,"  Medical Device Design I",3,"
+Student multidisciplinary teams work with local medical professionals to define specific medical device concepts for implementation.",,,,"Letter grade.
+"
+BMME 552,"  Medical Device Design II",3,"
+Device prototypes designed in the first course in series.  Good manufacturing practices; process validation; FDA quality system regulations; design verification and validation; regulatory approval planning; and intellectual property protection.",,,,"Letter grade.
+"
+BMME 560,"  Medical Imaging II: X-Ray, CT, and Nuclear Medicine Systems",3,"
+ Overview of medical imaging systems using ionizing radiation. Interaction of radiation with matter. Radiation production and detection. Radiography systems and applications. Tomography. PET and SPECT systems and applications.","Prerequisites, BIOS 550, BMME 410, and PHYS 128.",,,"Letter grade.
+"
+BMME 565,"  Biomedical Instrumentation I",4,"
+Graduate students or permission of the instructor. Topics include basic electronic circuit design, analysis of medical instrumentation circuits, physiologic transducers (pressure, flow, bioelectric, temperate, and displacement). This course includes a laboratory where the student builds biomedical devices.",,,,"Letter grade.
+"
+BMME 576,"  Mathematics for Image Computing",3,"
+ Mathematics relevant to image processing and analysis using real image computing objectives and provided by computer implementations.","Prerequisites, COMP 116 or 210 or 401, and MATH 233; a grade of C or better is required in all prerequisites.",,,"Letter gradeSame as: COMP 576.
+"
+BMME 581,"  Microcontroller Applications II",3,"
+ Advanced topics in microcontroller systems used for biomedical instruments.  Problems of interfacing computers with biomedical systems are studied. Students collaborate to develop a new biomedical instrument. Platforms could include the use of digital signal processing (DSP) microcontrollers or field programmable gate arrays (FPGAs), and topics could include applications such as digital signal processing and high speed data acquisition to computers.","Prerequisites, BMME 465 and 580.",,,"Letter grade.
+"
+BMME 681,"  Human Factors Engineering and Quality Management Systems for Engineers",3,"
+This course teaches human factors engineering, risk assessment, and quality management systems. At the end of the course, students will be able to apply their knowledge to their senior design project and test for a six sigma green belt certification.",,,,"Letter grade.
+"
+BMME 691H,"  Honors Thesis",3,"
+Research honors course. Prior approval needed from the chair or associate chair of the program for topic selection and faculty research mentor. Minimum GPA requirement, written report, and abstract requirements as set forth by the honors program.",,"EE- Mentored Research.",,"Letter grade.
+"
+BMME 692H,"  Honors Thesis",3,"
+Research honors thesis continuation with required GPA, research topic selection with approved faculty mentor.  Written abstract and report per honors program guidelines submitted by specific deadlines.",,"EE- Mentored Research.",,"Letter grade.
+"
+BMME 697,"  BME Senior Design I",3,"
+ This course is part of a three year sequence and it expands on the skills and knowledge gained in BM(M)E 398. Students continue to learn the process of engineering design and learn new skills to produce solutions for unmet medical needs. Majors only.","Prerequisites, BMME 398 or 310, BMME 301 or 351; and two BME elective courses 300 level or higher.",,,"Letter grade.
+"
+BMME 698,"  Biomedical Engineering Senior Design II",3,"
+ This course is part of a three-year sequence and it expands on the skills and knowledge gained in BME Senior Design I.  Students continue to learn the process of engineering design and learn new skills to produce solutions for unmet medical needs. Implementation phase of the senior design experience.","Prerequisite, BMME 697.",,,"Letter grade.
+"
+BMME 740,"  Advanced Biomaterials",3,"
+ Medical or dental implants or explants are highlighted from textbooks, scientific literature, and personal accounts.","Prerequisite, BMME 510; Permission of the instructor for students lacking the prerequisite.",,,"Letter gradeSame as: MTSC 740.
+"
+BMME 770,"  Physiology and Methods in Genomics",4,"
+Lectures in physiology systems and lab techniques covering various functional genomic methods including DNA sequencing, gene arrays, proteomics, confocal microscopy, and imaging modalities.",,,,"Letter grade.
+"
+BMME 775,"  Image Processing and Analysis",3,"
+ Approaches to analysis of digital images. Scale geometry, statistical pattern recognition, optimization. Segmentation, registration, shape analysis. Applications, software tools.","Prerequisites, COMP 665, MATH 547, and STOR 435.",,,"Letter gradeSame as: COMP 775.
+"
+BMME 780,"  Advanced Materials Science",3,"
+This course covers the physical fundamentals of material science with an in-depth discussion of structure formation in soft and hard materials and how structure determines material mechanical, electrical, thermal, and optical properties. Topics include amorphous and crystal structures, defects, dislocation theory, thermodynamics and phase diagrams, diffusion, interfaces and microstructures, solidification, and theory of phase transformation. Special emphasis will be on the structure-property relationships of (bio)polymers, (nano)composites, and their structure property relationships.",,,,"Letter gradeSame as: MTSC 780, CHEM 780, PHYS 780.
+"
+BMME 790,"  Graduate Systems Physiology",3,"
+ This is the second semester of the two-semester series intended to provide graduate students with an introduction to systems and organ physiology.","Prerequisite, BMME 589.",,,"Letter grade.
+"
+BMME 795,"  Information Processing in the Central Nervous System",3,"
+ Introduction to methodologies used to characterize a) the aggregate behavior of living neural networks and b) the changes in that behavior that occurs as a function of stimulus properties, pharmacological manipulations, and other factors that dynamically modify the functional status of the network.","Prerequisite, BMME 589.",,,"Letter grade.
+"
+BMME 796,"  Seminar in Biomedical Imaging Science",3,"
+This course serves as a gateway course to the Graduate Certificate in Biomedical Imaging Science.  This course offers an introduction to the most common imaging modalities, including MR, CT, PET, SPECT, ultrasound, and optical imaging. Lectures include discussions of hardware, physics, as well as pre-clinical and clinical applications.",,,,"Letter gradeSame as: PSYC 796.
+"
+BMME 810,"  Digital Nuclear Imaging",3,"
+ Advanced topics of physics and instrumentation in nuclear imaging and magnetic resonance techniques.","Prerequisites, BMME 550 and 560.",,,"Letter grade.
+"
+BMME 840,"  Rehabilitation Engineering Design",4,"
+ Students will design an assistive technology device to help individuals with disabilities to become more independent. The project will be used in the community when it is completed.","Prerequisite, BMME 465; Permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+BMME 890,"  Special Topics",121,"
+Permission of the instructor. Special library and/or laboratory work on an individual basis on specific problems in biomedical engineering and biomedical mathematics. Direction of students is on a tutorial basis and subject matter is selected on the basis of individual needs and interests.",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+BMME 900,"  Research in Biomedical Engineering and Biomathematics",121,"
+Permission of the instructor.",,,,"Letter grade.
+"
+BMME 993,"  Master's Research and Thesis",3,"
+",,,,
+BMME 994,"  Doctoral Research and Dissertation",3,"
+",,,,

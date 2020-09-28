@@ -1,0 +1,455 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+BUSI 89,"  First-Year Seminar: Special Topics",3,"
+Special topics course.  Content will vary each semester.",,,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 2 total completions.","Letter grade.
+"
+BUSI 102,"  Introduction to Financial Accounting",1,"
+Provides an introduction to financial accounting reports and processes. Students learn skills to read, analyze, and understand a variety of  financial reports. The course focuses on the fundamental accounting concepts and the transactions and economic events that form the basis for construction of the balance sheet, income statement, statement of stockholders' equity, and statement of cash flow. Students may not receive credit for both BUSI 102 and BUSI 106 or BUSI 102 and BUSI 107.",,,,"Letter grade.
+"
+BUSI 106,"  Financial Accounting CS",3,"
+ UNC-Chapel Hill business majors/minors may not take BUSI 106. Offered online by Continuing Studies. Role of accounting, basic concepts and methodology, mass data processing, valuation, and income determination principles, management, internal control problems, and basic financial statement components. Students may not receive credit for both BUSI 106 and BUSI 102.","Pre- or corequisite, ECON 101.",,,"Letter grade.
+"
+BUSI 107,"  Management Accounting SS",3,"
+Offered in summer school only. Elements of accounting for management planning, budgeting, and control. Emphasis is on management uses of accounting information. Students may not receive credit for both BUSI 107 and 108.",,,,"Letter grade.
+"
+BUSI 108,"  Management Accounting CS",3,"
+Offered online by Continuing Studies. UNC-Chapel Hill business majors/minors may not take BUSI 108. May be taken before, after, or concurrently with BUSI 106. Elements of accounting for management planning, budgeting, and control. Emphasis is on management uses of accounting information. Students may not receive credit for both BUSI 108 and BUSI 101 or 107.",,,,"Letter grade.
+"
+BUSI 188,"  Foundations of Leadership: Discovering Your Strengths",1,"
+This course introduces the concepts of strengths-based leadership development to help uncover strengths and maximize potential for overall success. Students will learn how to connect these strengths to all areas of life, including, but not limited to, their academic journey as well as their future career path.",,,,"Letter grade.
+"
+BUSI 189,"  Introduction to Careers in Business",1,"
+This course gives students an overview of the career options in business. This overview provides an understanding of the foundations of business and allows students to reflect on what specific business areas they might want to pursue.",,,,"Letter grade.
+"
+BUSI 190,"  Business Topics",13,"
+Varied topics in business administration.",,,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 9 total completions.","Pass/Fail.
+"
+BUSI 201,"  Business in Europe",0,"
+Expand your global business knowledge and gain project-based experience through an immersion in Europe. Coursework begins in Chapel Hill. The European portion will be highly experiential, where possible, working to connect students with local young people. Application and permission of department required. Additional fees apply.",,,"May be repeated for credit. 15 total credits. 1 total completions.","Letter grade.
+"
+BUSI 202,"  Business in East Asia",0,"
+Business in East Asia",,,"May be repeated for credit. 15 total credits. 4 total completions.","Letter grade.
+"
+BUSI 203,"  Business in South East Asia",0,"
+Permission of the School required. This faculty-led immersion to South East Asia examines developed and developing parts of the region. Coursework in Chapel Hill focuses on economy, political life, and culture. In South East Asia, thru company visits you develop an understanding of the different pathways to economic growth and critically analyze why there is variation in the speed of development. Application and department permission required. Additional fees apply.",,,"May be repeated for credit. 15 total credits. 4 total completions.","Letter grade.
+"
+BUSI 204,"  Business in Latin America",0,"
+Business in Latin America",,,"May be repeated for credit. 15 total credits. 4 total completions.","Letter grade.
+"
+BUSI 205,"  Business in the Middle East",0,"
+Business in the Middle East",,,"May be repeated for credit. 15 total credits. 4 total completions.","Letter grade.
+"
+BUSI 206,"  Business in Africa",0,"
+Permission of the School required. The South Africa immersion focuses on: Inclusive business and leadership. Chapel Hill classes cover the economy, political life, and regional culture. The focus on inclusive business explores topics like inclusive business models, social entrepreneurship, grassroots business, social innovation, and mobile technology. Within these topics, leadership is a recurring theme. Additionally, students visit multi-nationals, local companies, small business entrepreneurs and non-profit organizations. Application and permission required. Additional fees apply.",,,"May be repeated for credit. 15 total credits. 4 total completions.","Letter grade.
+"
+BUSI 207,"  Business in Oceania",0,"
+Business in Oceania",,,"May be repeated for credit. 15 total credits. 4 total completions.","Letter grade.
+"
+BUSI 401,"  Management and Corporate Communication",3,"
+Open to business majors.  Writing- and speaking-intensive course that emphasizes professional communication. Provides opportunities to learn and apply the conventions and expectations for standard business documents and presentations. Features strategies for addressing informative, persuasive, and bad-news messages using a variety of media (print documents, electronic messages, and oral presentations).",,"CI.",,"Letter grade.
+"
+BUSI 402,"  Applied Microeconomics for Business",2,"
+ The course emphasizes the application of economic analysis to solve a range of practical business problems that fall into one of these broad categories. The course makes regular use of mathematics (elements of algebra, geometry, and calculus), and includes a solution of optimization problems using Excel. Students may not receive credit for both BUSI 402 and ECON 410.","Prerequisite, ECON 101.",,,"Letter grade.
+"
+BUSI 403,"  Operations Management",3,"
+Analysis of the operations functions in both manufacturing and service organizations. Formulating operational policies that improve efficiency and support high-level business strategy. Developing remedies that mitigate uncertainty and variability in operational processes.",,,,"Letter grade.
+"
+BUSI 404,"  Business Ethics",1,"
+An examination of ethical issues that affect business.",,,,"Letter grade.
+"
+BUSI 405,"  Leading and Managing: An Introduction to Organizational Behavior",3,"
+An introduction to leading and managing in organizations. Examines the impact of individual, group, and organizational factors on organizational performance and employee attitudes. Topics include leadership, perceptions, attitudes, motivation, group development, norms and cohesiveness, empowerment, conflict, negotiations, culture, structure, stress, innovation, and change.",,,,"Letter grade.
+"
+BUSI 406,"  Marketing",3,"
+Introduction to marketing with emphasis on the social and economic aspects of distribution, consumer problems, marketing functions and institutions, marketing methods and policies.",,,,"Letter grade.
+"
+BUSI 407,"  Financial Accounting",3,"
+ Students will acquire the tools to understand and analyze information presented in corporate financial statements.  Financial accounting results and projected results are utilized in virtually every segment of the business world.  Knowledge of financial accounting and analysis is necessary for managers, investors, bankers, financial analysts, and professional accountants.","Pre- or corequisite, BUSI 102.",,,"Letter grade.
+"
+BUSI 408,"  Corporate Finance",3,"
+ Theoretical foundations of optimal financial policy. Problems and cases provide application of theory to financial decisions involving cash flow, capital structure, capital budgeting.","Prerequisites, ECON 101, and one of BUSI 101, 102, or 107.",,,"Letter grade.
+"
+BUSI 409,"  Advanced Corporate Finance",1,"
+ A follow-up course to BUSI 408 that goes more deeply into the theory and application of financial management. Emphasis is placed on investment, financing, and dividend decisions. Honors version available","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 410,"  Business Analytics",3,"
+ While witnessing an explosion of data, most organizations tend to be awash with data but short on information. This course exposes students to techniques that will help them impact on an organization's strategy, planning, and operations, working on applications spanning a number of fields, including operations management, finance, and marketing.","Prerequisite, STOR 155.",,,"Letter grade.
+"
+BUSI 411,"  Strategic Management at the Business Level",1,"
+Students analyze sources of competitive success in business organizations using case analysis and written reports to develop analytical reasoning skills for assessing forward looking opportunities for the company. The emphasis is on industry analysis and organizational analysis and the development and management of firm specific competencies for successful growth.",,,,"Letter grade.
+"
+BUSI 412,"  Strategic Management in the Modern Corporation",1,"
+ Students study the development of alternate forms of corporate-level diversification, with an emphasis on understanding the varied paths of corporate development. There is a focus on the challenges of integrating activities across diversified corporations and the tools to manage firms through the transitions that signal a change in strategy.","Prerequisite, BUSI 411.",,,"Letter grade.
+"
+BUSI 463,"  Business and the Environment",3,"
+This course explores the intersection of business/economic growth and the major sustainability issues affecting the environment and societal well-being and raises questions about business ethics and the moral responsibility of business leaders, consumers, and citizens. Previously offered as ENEC 306. Honors version available",,"PH, CI.",,"Letter gradeSame as: ENEC 463.
+"
+BUSI 488,"  Data Science in the Business World",3,"
+Students will acquire hands-on data science skills enabling them to solve real-world business problems. Since data science is an interdisciplinary field, business and computer science students learn and work together in this course. Leveraging each other's skills and knowledge, students create data-driven business insights using modern analytics.",,,,"Letter gradeSame as: COMP 488.
+"
+BUSI 490,"  Business Topics",1,"
+Varied topics in business administration. Honors version available",,,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 6 total completions.","Letter grade.
+"
+BUSI 493,"  Business Internship Project I",1,"
+Permission of the department. With prior approval, a student may propose and complete an academic research project (paper and presentation) derived from an internship experience.",,"EE- Academic Internship.",,"Letter grade.
+"
+BUSI 496,"  Independent Study in Business",1,"
+Permission of the department. Supervised individual study and research in the student's special field of interest.",,,"May be repeated for credit; may be repeated in the same term for different topics; 3 total credits. 2 total completions.","Letter grade.
+"
+BUSI 500,"  Entrepreneurship and Business Planning",3,"
+Students gain an understanding of entrepreneurship and the tools and skills necessary to conceive, plan, execute, and scale a successful new venture. Students develop business ventures in teams through an experiential pedagogy. Honors version available",,,,"Letter grade.
+"
+BUSI 501,"  Professional Selling Strategies and Skills",3,"
+ Critical concepts and skills for selling products and services, and influencing others in business. Applicable to people considering sales or consulting as a career; to those thinking of starting an entrepreneurial company; or for those who want to understand how to influence peers, subordinates, and management.","Prerequisite, BUSI 406.",,,"Letter grade.
+"
+BUSI 502,"  Entrepreneurial Finance",1,"
+ In this course students use financial tools and concepts in a real-world entrepreneurial setting. Working in assigned teams, students prepare a pitch book with financial projections for a company they wish to start or buy.","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 503,"  Family Business I: Introduction to Family Enterprise",1,"
+Helps the student understand the evolutionary stages in the life of a family business and the challenges and opportunities that must be managed at each stage",,,,"Letter grade.
+"
+BUSI 504,"  Launching the Venture",1,"
+ This is a cross-campus course for exceptional students, staff, and faculty, designed to help launch UNC-Chapel Hill start-ups. Only for students serious about launching in the next nine to 12 months. Admission by online application. More information at www.launch.unc.edu.","Prerequisite, BUSI 500.",,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 4 total completions.","Letter grade.
+"
+BUSI 505,"  Consulting to Entrepreneurial Firms",3,"
+Student teams engage in consulting projects to help a wide range of small business owners, early stage start-ups, and not-for-profit ventures tackle typical entrepreneurial challenges. Data is gathered through extensive fieldwork, such as client meetings, customer surveys, interviews with thought leaders, site visits, and product tests. Due to the heavy workload, students should not enroll in BUSI 505 and BUSI 554 concurrently.",,"EE- Field Work.",,"Letter grade.
+"
+BUSI 506,"  Entrepreneurial Strategy: How to Think Like a Venture Capitalist",3,"
+ An entrepreneurial strategy class teaching students the tools and skills necessary to recognize startup opportunities. Local entrepreneurs come to class to pitch to students, who analyze the start-ups from the perspective of venture capitalists.","Prerequisite, BUSI 411.",,,"Letter grade.
+"
+BUSI 507,"  Sustainable Business and Social Enterprise",3,"
+This course concentrates on sustainability in existing businesses of all sizes, rather than starting new entrepreneurial ventures. Students will learn what full triple bottom line sustainability means when applied to business and will explore how business fits into the sustainability landscape. Honors version available",,,,"Letter grade.
+"
+BUSI 509,"  Entrepreneurs Lab: Advanced Entrepreneurial Insight and Leadership",3,"
+This course explores the key issues associated with the entrepreneurial career and the lessons of success and failure with a goal to reinforce a high-performance entrepreneurial mindset. The course is designed for students who are committed and currently engaged actively in pursuing an entrepreneurial career path, either during their program, immediately after graduation, or over the course of their early career. Application required. This is a required course for Adams Apprentices.",,,,"Letter grade.
+"
+BUSI 511,"  Regional Venture Capital Immersion",1,"
+ Application-based course. This course gives a selected group of undergraduate students the opportunity to study venture capital by traveling to two different entrepreneurial regions of the United States, Europe, and/or Asia, with the goal of understanding how this subclass of private equity plays an integral role in the commercialization of disruptive technologies.","Prerequisite, BUSI 506.",,,"Letter grade.
+"
+BUSI 512,"  Family Business II: Governance and Ownership",1,"
+ This course is a continuation of BUSI 503 and will delve more deeply into specific governance and ownership considerations for family-owned firms.  The purpose of this course is to prepare students to be more effective in their own family enterprise as a non-family executive in a family business, or as an advisor to a family business. This course outlines the specific ownership, stewardship, tax, and transition issues that affect family enterprises.","Prerequisite, BUSI 503.",,,"Letter grade.
+"
+BUSI 514,"  STAR",4,"
+ Student Teams Achieving Results (STAR) is a live management consulting project that leverages and integrates UNC Kenan-Flagler course curricula. Teams of five to seven M.B.A. and undergraduate students and one faculty member work with major corporations or not-for-profit entities to solve a major strategic issue. Honors version available","Pre- or corequisite, BUSI 554.","EE- Field Work.","May be repeated for credit. 9 total credits. 2 total completions.","Letter grade.
+"
+BUSI 517,"  Private Equity and Debt Markets",1,"
+ The objective of this course is to examine the changing world of private equity investments today. This is a survey course and will help prepare you to work for private equity and venture capital funds or to work for investment banks.","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 518,"  Applied Private Equity",3,"
+  Permission of the instructor.  Explores, at a very advanced level, all stages of the management of a venture capital and private equity fund, from capital formation, deal sourcing, due diligence, monitoring and adding value, and exiting of a portfolio company. Honors version available","Prerequisites, BUSI 502 and 517.",,"May be repeated for credit. 9 total credits. 3 total completions.","Letter grade.
+"
+BUSI 520,"  Advanced Spreadsheet Modeling for Business",3,"
+Primarily online class. Use advanced features of Microsoft Excel to create efficient, flexible spreadsheet models of common and complex business problems. Designed to be an extremely practical class in which skills learned can be put to immediate use in other classes, the workplace, and elsewhere.        Topics include flexible design, problem solving, statistical analysis, charting, logic, reference functions, financial analysis, organizing data for complex analysis, what-if analysis, enhanced decision-making tools, and VBA.",,,,"Letter grade.
+"
+BUSI 521,"  Design Thinking: The Innovation Process for Complex Problems",3,"
+The class teaches real world innovation -- creativity, improvisation, and design thinking -- through experiential learning and iterative project-based learning. Students will develop fluency in 21st century skills. These include storytelling, logo development, website design, video editing, audio and podcast editing, budgeting, postcard and flyer design, etc. In addition, students will discuss key innovations that will likely change their careers and lives: artificial intelligence, gene editing, autonomous vehicles, etc.",,,,"Letter grade.
+"
+BUSI 523,"  Diversity and Inclusion at Work",1,"
+Diversity and inclusion (D&I) is one of the most important topics of our time. Yet, increasing workplace diversity (and, most important, creating inclusion, belonging, and equity) is incredibly complex and challenging. In this class, you'll learn to: know what D&I programs work and don't; build inclusion, belonging, and equity (and not just diversity); implement D&I initiatives that make a difference; handle difficult conversations and conflict about and across difference; and generate open and honest dialogue.",,,,"Letter grade.
+"
+BUSI 524,"  Applied Improvisation for Business Communication",3,"
+Focuses on improving students' soft skills, such as presenting, expressiveness, and interviewing, by applying the principles and techniques of improvisational theater. Participants explore creativity, adaptation, awareness, self-confidence, risk taking, physicality, intuition, and teamwork. Students can stretch their abilities and discover things about themselves and others that are crucial to success.",,,,"Letter grade.
+"
+BUSI 525,"  Advanced Business Presentations",1,"
+ This course is grounded in argument, persuasion, and visual rhetoric to give students skills needed to develop winning presentations. Students learn strategies to help their messages "stick" with their audiences and to develop slide decks for the boardroom and advanced media devices. The course emphasizes efficiency in presentation preparation.","Prerequisite, BUSI 401.",,,"Letter grade.
+"
+BUSI 526,"  Leadership in Action",3,"
+Permission of the department. Provides student leaders with practical leadership frameworks and tools; creates opportunities to apply these on the job as leaders; and provides individualized coaching, feedback, and mentoring.  This is an applied learning course taught by a seasoned practitioner designed to accelerate each student's development and growth.",,,,"Letter grade.
+"
+BUSI 527,"  Gender at Work",1,"
+Taylor Swift's sexual assault lawsuit, the infamous Google memo, workplace harassment, paid paternity leave (Mark Zuckerberg took off 4 weeks!): Our era has been marked by a #MeToo ripple effect. Gender topics impact every employee, organization, and industry. You will explore these timely and tricky topics and understand how and why they affect you, teams, and organizations. Topics include gender facts, myths, perceptions, stereotypes, recruiting, hiring, pay gaps, current topics, problems, and solutions.",,,,"Letter grade.
+"
+BUSI 528,"  Leadership Communication",1,"
+This course provides students opportunities to practice and develop communication skills that will help them make an impact on the job and further their careers. Students will work to improve interpersonal and presentation skills related to navigating difficult interpersonal challenges, resolving conflicts, tackling difficult discussion topics, giving and receiving feedback, communicating with respect in diverse environments, listening, and networking.",,,,"Letter grade.
+"
+BUSI 529,"  Intercultural Communication in the Global Workplace",1,"
+Developing patterns of respectful intercultural communication is an increasingly important goal for the growth of business across the globe. This class will examine interesting and problematic issues surrounding cross-cultural communication, help students understand the complexity and variety of cultures, and teach communication strategies for success in conducting business across diverse cultures.",,,,"Letter grade.
+"
+BUSI 532,"  Service Operations",3,"
+ Studies key challenges in effective service delivery through the analysis of  staffing and scheduling, customer waiting, and revenue management. Case studies illustrate examples of effective service design and delivery in various service industries including professional services, banking, health care, hospitality, and entertainment. A simulation project is used. Honors version available","Prerequisite, BUSI 403.",,,"Letter grade.
+"
+BUSI 533,"  Supply Chain Management",3,"
+ Analyzes the key drivers of supply chain performance including inventories, transportation, information technology, and sourcing. Studies strategies for supply chain coordination, and challenges and opportunities in global supply chains. A supply chain simulation is used. Honors version available","Prerequisite, BUSI 403.",,,"Letter grade.
+"
+BUSI 534,"  Business Modeling with Excel",3,"
+Provides a broad scope of analytic experience across corporate functions that is beneficial in consulting environments. A student may not receive credit for this course after receiving credit for STOR 305.",,,,"Letter grade.
+"
+BUSI 536,"  Project Management",1,"
+ Permission of the department. This course prepares students to take part in and lead projects effectively. The goal is to equip individuals across any career concentration rather than extend the expertise of project-management specialists. Students may not receive credit for both BUSI 536 and MBA 710.","Prerequisite, BUSI 403.",,,"Letter grade.
+"
+BUSI 537,"  Retail Operations",1,"
+ Permission of the department.  Examines developments in retailing and operations management principles applicable to these developments. Topics: consumer behavior, demand forecasting, logistics and distribution, store execution, international retailing, internet-based retailing, performance assessment, and impact on financial performance.  Students may not receive credit for both BUSI 537 and MBA 708.","Prerequisite, BUSI 403.",,,"Letter grade.
+"
+BUSI 538,"  Sustainable Operations",1,"
+ This course explores the link between sustainability and the operations function of a firm. The course focuses on the following activities: product and process design; manufacturing; transportation; logistics and distribution; closed-loop/after-sales operations such as recycling, remanufacturing, and reuse; supply chain management.","Prerequisite, BUSI 403.",,,"Letter grade.
+"
+BUSI 539,"  Health Care Operations",1,"
+ Permission of the department. Students apply principles and tools of operations management to explore improvement opportunities in the design, delivery, and management of the health care value chain. The course examines the health care operation from the perspective of operations metrics such as cost, quality, time (access), and variety/customization.","Prerequisite, BUSI 403.",,,"Letter grade.
+"
+BUSI 545,"  Negotiations",1,"
+ This course enables students to develop their expertise in managing negotiations. It integrates existing theory and research with personal experiences and ideas. Using hands-on exercises, readings, and lively discussions, students build and hone their ability to understand, adapt to, and evaluate the personal, social, and situational dynamics of negotiations.","Prerequisite, BUSI 405.",,,"Letter grade.
+"
+BUSI 546,"  Sport Marketing and Media",1,"
+This course provides an in-depth analysis of the effect of marketing and media on the sport industry. Key issues include the increasing growth of television and technological advances, changing consumer demographics and behaviors, and sponsorship relations. The course will be divided into three key areas: rights holders, media, and corporate sponsorship (brands).",,,,"Letter grade.
+"
+BUSI 547,"  Managerial Decision Making",1,"
+ Behavioral economics provides an understanding of how people's decisions deviate from "optimal" choices and consequences of such deviations. This course will not only discuss when individuals make decisions that deviate from the predictions of economics, but also focus on the implications of these systematic decision biases for managers and policy makers.","Prerequisite, BUSI 405.",,,"Letter grade.
+"
+BUSI 552,"  Strategic Innovation",1,"
+This course is designed for undergraduate business students interested in innovation and entrepreneurship inside established firms. It focuses on the art of bringing novel ideas and products to market while working inside a company. This course will help you understand the barriers to innovation inside existing firms, learn the tools and techniques for overcoming these, and develop an entrepreneurial mindset.",,,,"Letter grade.
+"
+BUSI 554,"  Consulting Skills and Frameworks",3,"
+ Permission of the instructor. The course is dedicated to teaching the core skills for success in consulting and business in general: teamwork, analysis, and presentations. Honors version available","Pre- or corequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 555,"  Groups and Teams in Organizations",1,"
+ Examines the design, management, and leadership of teams in organizational settings. Focus is on the interpersonal processes and structural characteristics that influence the effectiveness of teams, individual behavior in face-to-face interactions, and the dynamics of interpersonal relationships.","Prerequisite, BUSI 405.",,,"Letter grade.
+"
+BUSI 558,"  Digital Marketing",3,"
+ The main concepts of marketing are identifying market opportunity (3C analysis), setting the target strategy (STP analysis) and implementation via 4P strategies. This course will discuss online consumer behavior; internet marketing strategy; online and digital advertising; social media. It will focus on strategic perspective, rather than on technical details.","Prerequisite, BUSI 406.",,,"Letter grade.
+"
+BUSI 562,"  Consumer Behavior",3,"
+ Review of conceptual models and empirical research in consumer behavior. Topics include decision processes, social and cultural influences, information processing, and ethical issues.","Prerequisite, BUSI 406.",,,"Letter grade.
+"
+BUSI 563,"  Retail & E-tail Marketing",1,"
+E-commerce puts severe pressure on both brand manufacturers and retailers. Brick and mortar players are expanding online operations, while online retailers are going physical. In the face of this complexity, it is important to take stock of current knowledge, based on insights and experience from leading practitioners and researchers in the field. This course sheds light on  the strategic  and tactical issues that comprise the state of the art in retailing.",,,,"Letter grade.
+"
+BUSI 564,"  Design Thinking and Product Development",3,"
+ Successful product and service innovation puts the consumer at the center of the development process. To do this, traditional marketing research (focus groups, surveys) is being complemented by design thinking and Web 2.0 approaches. Concentrating on the "fuzzy front-end" of the development process, this course will introduce several tools and techniques emphasizing ways to uncover consumer insights (needs). Topics explored in this course include creativity, design thinking, intellectual property basics, open innovation, and crowdsourcing/crowdfunding.","Prerequisite, BUSI 406.",,,"Letter grade.
+"
+BUSI 566,"  Marketing Strategy",3,"
+ The objective of this course is to understand and practice the strategic decision-making process in a dynamic competitive environment. The course builds on the foundations of marketing, and is based on lectures, cases, and computer simulations.","Prerequisite, BUSI 406.",,,"Letter grade.
+"
+BUSI 568,"  Customer Insights and Analytics",1,"
+ Over the last 20-30 years, the way information and data have been collected and analyzed has undergone a substantial transformation. Firms have adopted marketing methods that are grounded in economic theory and utilize detailed data on customer transactions to generate insights into how customers behave. This course will provide students with a basic understanding of how to use data to understand customer behavior, and how these insights can be used to make managerially relevant decisions.","Prerequisite, MATH 152, STOR 113, or STOR 155.",,,"Letter grade.
+"
+BUSI 572,"  Business Taxation",1,"
+ Permission of the department. Required in spring semester for senior B.S.B.A.s who are admitted to the Kenan-Flagler Master of Accounting Program. Provides students with an initial understanding of the basic framework of the United States income tax system as it applies to businesses.","Prerequisite, BUSI 570.",,,"Letter grade.
+"
+BUSI 574,"  Taxes and Business Strategy",3,"
+ This course covers high-level topics related to tax planning that are relevant to future CEOs, CFOs, investment bankers, equity analysts, and marketing consultants. In this course, students will understand how taxes interact with other fields such as finance, accounting, law, marketing, human resources and compensation, operation management, risk management, etc.","Prerequisite, BUSI 407.",,,"Letter grade.
+"
+BUSI 580,"  Investments",3,"
+ A survey of investment principles and practices. Emphasis is given to the problems of security analysis and portfolio management with special attention to the investment problems of the individual investor. Honors version available","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 582,"  Mergers and Acquisitions",3,"
+ Through lectures, case studies, and guest speakers, this course will cover all aspects of mergers and acquisitions from strategy to post-merger integration with an emphasis on valuation. Related activities such as hostile takeovers, private equity deals, and international acquisitions will also be discussed. Honors version available","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 583,"  Applied Investment Management",3,"
+ Permission of the department. Year-long course. A live, student-managed investment fund with real dollars and fiduciary responsibility to the UNC Foundation. Emphasis is on the decisions that must be made by and/or for the ultimate investor and the analytic tools and empirical evidence that can help inform such decisions. Honors version available","Prerequisites, BUSI 407 and 408.",,"May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+BUSI 584,"  Financial Modeling",3,"
+ Skill development in constructing financial models for analyzing problems with decisions faced by financial professionals. Analyzing historical performance, forecasting free cash flows, estimating discount rates, determining terminal value, identifying other sources of value, and interpreting results in a dynamic setting.","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 585,"  Introduction to Real Estate",3,"
+An overview of residential and commercial real estate. This survey course examines 1) buying a house and constructing a portfolio of single-family rental houses, 2) commercial real estate product types, 3) amortization, cash flows, capital expenditures, cap rates, debt and equity, hurdle rates and taxes, 4) investment analysis, 5) acquisition, development, operation, and disposition, 6) real estate and contract law, and 7) the partnership negotiation process.",,,,"Letter grade.
+"
+BUSI 586,"  Personal Finance",1,"
+ Introduces and broadens the concept of personal finance and increases understanding of the process of accumulating and protecting personal wealth. Students learn to identify and analyze risk and return relationships, understand investment alternatives and how strategies develop as life situations mature, and gain understanding of retirement planning and effectively transferring wealth.","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 587,"  Investment Banking",1,"
+ This course prepares students for investment banking positions and internships. The focus of the class is on financial modeling, general knowledge of banking, and what it takes to succeed in the industry. Permission of the instructor and confirmed offer of investment banking analyst internship or full-time job. Honors version available","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 588,"  Introduction to Derivative Securities and Risk Management",1,"
+ Introduction to derivative securities instruments (options and futures) and applications in investments and corporate finance. Honors version available","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 589,"  Fixed Income",1,"
+ The course covers traditional bonds and term structure concepts as well as fixed income derivatives and interest rate modeling. Honors version available","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 590,"  Business Seminar",3,"
+Selected topics in business administration presented in seminar format with students engaged in individual and team study under the supervision of a member of the faculty. Honors version available",,,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 3 total completions.","Letter grade.
+"
+BUSI 591,"  Behavioral Finance",1,"
+ Completion of BUSI 409 recommended. An abundance of evidence suggests that the standard economic paradigm, "rational agents in an efficient market," does not adequately describe behavior in financial markets. This course will survey the evidence and use psychology to guide alternative theories of financial markets. Honors version available","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 592,"  Applied Private Equity: Real Estate",3,"
+ Permission of the instructor. This course explores, at a very advanced level, all stages of the management of a real estate private equity fund: from capital formation, deal sourcing, due diligence, monitoring and adding value, and exiting of the fund's real estate holdings.","Prerequisites, BUSI 408, BUSI 601 and 603.",,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 3 total completions.","Letter grade.
+"
+BUSI 593,"  Business Internship Project II",1,"
+Permission of the department. This course provides students with a format for reflection while performing a professional internship that enhances their ability to achieve career objectives.",,"EE- Academic Internship.","May be repeated for credit. 6 total credits. 4 total completions.","Letter grade.
+"
+BUSI 598,"  Alternative Investments",1,"
+ Permission of the instructor. Open to seniors only. Exposes students to the benefits, opportunities, and risks of incorporating alternative investments into managed institutional investment portfolios, including pension funds, endowments, and foundations.","Prerequisites, BUSI 408, and 580 or 588.",,,"Letter grade.
+"
+BUSI 600,"  Risk Management",1,"
+ Develops methods for applied analysis of financial and operational risk. The course covers statistical methods of risk measurement such as value-at-risk. In addition, the course covers methods for designing and evaluating risk management procedures at both financial and non-financial companies. The course includes several guest lectures from senior managers.","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 601,"  Real Estate Finance",1,"
+ This course will focus on the different ways to finance real property, and how different financing techniques impact the feasibility and investment benefits for equity investors. Honors version available","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 602,"  Strategic Economics",1,"
+This course focuses on decision making in the presence of strategic interaction. Students will apply game theory to yield insights into business decisions. Topics covered include pricing, entry, product market competition, first-mover advantage, capital budgeting, antitrust law, corporate governance, auctions, and mergers.",,,,"Letter grade.
+"
+BUSI 603,"  Real Estate Development",1,"
+ This course is designed to introduce undergraduate students to the financial and economic analysis of real estate development. The course will focus on both the physical and financial dimensions of the real estate development process. The course considers multiple asset classes, and students learn to complete financial analysis of real estate development projects.","Prerequisite, BUSI 408;Corequisite, BUSI 585.",,,"Letter grade.
+"
+BUSI 604,"  Real Estate and Capital Markets",1,"
+ Introduces students to the capital markets for financing real estate assets. Topics include an overview of real estate as an asset class in the US economy, risk and return in real estate markets, the economics of discount and capitalization rates, the market for mortgage-backed securities (with a peek into the role that these instruments played in the recent financial crisis), and the valuation/analysis of Real Estate Investment Trusts (REITs). Honors version available","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 606,"  Buyout Structures and Deals",1,"
+ It improves students understanding of how private equity firms evaluate risk/reward, create value in LBO transactions, and explores the role of private equity in the financial markets and corporate boardroom. Students will develop a better understanding of the decisions private equity firms face; covering challenges in going-private and private-to-private transactions, use of leveraged finance for LBOs and dividend recapitalizations.","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 607,"  Capital Markets: Institutions, Players, and Regulators",1,"
+ This course provides a broad overview of the U.S. and global capital markets. It explores how the markets work, market participants (e.g. mutual funds, hedge funds, investment banks, and venture capital funds), and the infrastructure that supports the industry. Students will follow a "day in the life" of a trade and gain an understanding of the various systems and investment roles and responsibilities. The course will also provide an overview of investing in foreign markets","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 610,"  Global Environment of Business",3,"
+Issues in operating overseas, including analyses of differences in country settings, legal and economic systems, and governmental policies affecting foreign operations. Studies trade theory, country groupings, and financial issues; managing operations in foreign lands; exporting.",,"GL.",,"Letter grade.
+"
+BUSI 611,"  International Development",3,"
+Poverty is part of life for most of the world's population, with half living on less than two dollars a day. Course focuses on understanding this from a business school perspective. Looks at institutional failures that contribute to persistent poverty and the multiple roles managers can play in reducing poverty.",,"GL.",,"Letter grade.
+"
+BUSI 617,"  Global Marketing",3,"
+ Examination of the problems involved in marketing products and services across national boundaries. Problem issues include culture, ideology, economics, technical standards, and currency movements.","Prerequisite, BUSI 406.","GL.",,"Letter grade.
+"
+BUSI 618,"  Global Financial Markets",1,"
+ Develops the foundation for financial decisions in a global economic environment. Extends the analytical concepts and tools learned in introductory investment and corporate finance courses to multicountry/multicurrency settings. Covers three major areas: the economics of exchange rates, international money and capital markets, and international corporate finance.","Prerequisite, BUSI 408.",,,"Letter grade.
+"
+BUSI 623,"  Global Entrepreneurship I",1,"
+The course ranges from developing the creative mindset, ideation, development/manufacturing, marketing, selling, and managing. The course places heavy emphasis on doing and collaborating rather than listening passively: 1) dream: design process, 2) think: feasibility, 3) create: product development and manufacturing, and 4) tell: marketing. Restricted to GLOBE students.",,,,"Letter grade.
+"
+BUSI 624,"  GLOBE Entrepreneurship Immersion",1,"
+The immersion exposes students to the process of founding and funding new entrepreneurial ventures through direct experience with leaders in the field. It is divided between leaders who support the development of early stage entrepreneurial firms and those who capitalize these ventures in seed, venture capital, and private equity. We will be supplementing these visits with a number of events derived from Chicago Ideas Week.",,,,"Letter grade.
+"
+BUSI 625,"  Global Healthcare Management",1,"
+This course will provide students with an overview of numerous global healthcare topics. Students will learn about macro global healthcare issues, country-specific healthcare systems, healthcare interdependencies between regions and countries, global healthcare business strategies and solutions. The course will examine innovative global business models focused on analyzing the cost, access, and quality of healthcare around the globe.",,,,"Letter grade.
+"
+BUSI 626,"  Introduction to Healthcare Management",1,"
+An overview of the dynamics of leading/managing a modern-day hospital/health system and of the US healthcare system including its characteristics/dynamics, structure and operation, how it has evolved over time, and how it may further evolve. It engages students in examining the major economic, political, technological, and social trends driving the US healthcare system, and the implications of those trends in the strategic leadership and operational management of hospitals/health systems.",,,,"Letter grade.
+"
+BUSI 650,"  Symposium Core Committee",1,"
+Permission of the instructor. Service on the B.S.B.A. Symposium Core Committee to plan, execute, and evaluate the annual event.",,"EE- Field Work.","May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 3 total completions.","Letter grade.
+"
+BUSI 653,"  Applied Learning: Symposium Core Committee",1,"
+Permission of the department. This course is by invitation only to students who previously served on the Undergraduate Business Symposium core committee. As senior advisors, students practice the leadership, organization, delegation, communication, and teamwork skills that they learn about in their other courses.",,,"May be repeated for credit. 3 total credits. 2 total completions.","Letter grade.
+"
+BUSI 688,"  Applied Trading Strategies",1,"
+ This seminar style course develops a set of financial tools useful for trading primary and derivative securities with the goal of obtaining specific exposures in equity, fixed income, and commodity markets. The course examines methods for managing financial price risk of  positions and how hedge funds use derivatives in practice. Honors version available","Prerequisites, BUSI 408 and 588.",,,"Letter grade.
+"
+BUSI 691H,"  Honors Research Proposal",3,"
+Permission of the department. Open to senior business administration majors with a minimum 3.5 grade point average in business courses. Students learn business research techniques and develop individual proposals for business research. Successful proposals may advance to honors thesis research and writing (BUSI 692H).",,,,"Letter grade.
+"
+BUSI 692H,"  Honors Thesis",3,"
+ Permission of the department. Open to senior business majors with a minimum 3.5 grade point average in business courses. Original investigation of a topic in business and preparation of a substantive research project under the direction of a faculty advisor. Written essay and oral presentation are required.","Prerequisite, BUSI 691H.","EE- Mentored Research.",,"Letter grade.
+"
+BUSI 701,"  Artistic Entrepreneurship",3,"
+This course is a study in entrepreneurship and the specific challenges faced by artistic entrepreneurs.",,,,"Letter grade.
+"
+BUSI 702,"  Introduction to Social Entrepreneurship",13,"
+An overview of how entrepreneurship is transforming students' fields and disciplines and how the application of principles of entrepreneurship may be used to advance their professional objectives",,,,"Letter grade.
+"
+BUSI 703,"  Introduction to Commercial Entrepreneurship",13,"
+A cross-disciplinary curriculum that brings together the core field with the wide-ranging literature in entrepreneurship to seek new approaches to traditional problems.",,,,"Letter grade.
+"
+BUSI 704,"  Entrepreneurship Capstone",13,"
+ Capstone project, business plan, or paper that links the work done in the certificate to the field it is intended to complement.","Prerequisites, BUSI 701, 702, and 703.",,,"Letter grade.
+"
+BUSI 705,"  Entrepreneurship Capstone Project",1,"
+This Graduate Certificate in Entrepreneurship capstone project is self-paced, and overseen by the faculty director of each track (life sciences, public health, and artistic).",,,,"Letter grade.
+"
+BUSI 801,"  Independent Study",19,"
+Independent study intends to extend a student's learning beyond the classroom or allows a student the opportunity to explore a topic not offered in a traditional format.",,,"May be repeated for credit. ","Letter grade.
+"
+BUSI 808,"  Applied Research Methods I",3,"
+Addresses fundamentals of empirical social science research. Topics include framing a research question, comparing research designs, instrumentation, reliability, validity, and exploratory and confirmatory factor analysis. Emphasizes application and analysis.",,,,"Letter grade.
+"
+BUSI 809,"  Applied Research Methods II",3,"
+Continuation of BUSI 808. Topics include statistical control, categorical variables, interaction, curvilinear and similarity effects, longitudinal analysis, path analysis, structural equation modeling, and publication. Emphasizes application and analysis.",,,,"Letter grade.
+"
+BUSI 810,"  Empirical Operations",3,"
+Required preparation, working knowledge of probability, statistics, and regression. The course prepares students to perform academic research, and it will be conducted in a manner that simulates an academic research conference. The course will focus on empirical research approaches used in solving many classical problems in operations management.",,,,"Letter grade.
+"
+BUSI 830,"  Theory of Operations Management I",3,"
+Permission of the instructor. Rigorous study of traditional and modern issues, problems, and approaches in operations management.",,,,"Letter grade.
+"
+BUSI 831,"  Theory of Operations Management II",3,"
+ A continuation of BUSI 830.","Prerequisite, BUSI 830.",,,"Letter grade.
+"
+BUSI 832,"  Theory of Operations Management III",3,"
+ A continuation of BUSI 830.","Prerequisite, BUSI 830.",,,"Letter grade.
+"
+BUSI 837,"  Advanced Topics in Operations Management",3,"
+Permission of the instructor. Intensive study of a specific area in operations management.",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+BUSI 838,"  Seminar in Operations Management",3,"
+Permission of the instructor. Intensive study of a specific area in operations management.",,,,"Letter grade.
+"
+BUSI 851,"  Individual Behavior in Organizations",3,"
+Analysis of individual behavior, adjustment, and effectiveness. Examination of attitudes, stress, problem solving, decision making, motivation, and personality. Applications to management of human resources.",,,,"Letter grade.
+"
+BUSI 852,"  Interpersonal and Intergroup Behavior in Business Organizations",13,"
+Intensive critical examination of interpersonal and intergroup behavior, including decision processes, communication, conflict, and conflict resolution in large organizations.",,,,"Letter grade.
+"
+BUSI 853,"  Macro Organizational Behavior",3,"
+Graduate standing in business administration required. Intensive study of theory and research in organizational structure, coordinating and control mechanisms, design parameters, and environments.",,,,"Letter grade.
+"
+BUSI 854,"  Organizational Design and Development",3,"
+The development of understanding and skills in changing and evolving organizational design, interpersonal relationships, and people to achieve organizational goals.",,,,"Letter grade.
+"
+BUSI 856,"  Seminar in Organizational Behavior",3,"
+Permission of the instructor. Intensive study of important current theory and research in organizational behavior.",,,,"Letter grade.
+"
+BUSI 857,"  Seminar in Human Resource Management",3,"
+Review the research literature on how firms are made more effective through their people. Coverage includes topics like recruitment, hiring, compensation, socialization, culture, and performance management.",,,,"Letter grade.
+"
+BUSI 858,"  Special Topics in Organizational Behavior",3,"
+BUSI 858 is a second doctoral course in organizational behavior, meant to be taken after completing BUSI 851: Individual Behavior in Organizations. While BUSI 851 gave an overview of many important topics in organizational behavior, the field is too broad to be covered, in depth, with a single class. The goal of this course is to introduce developing scholars to the history and current status of important topics in organizational behavior. This course is intended for developing scholars who intend to pursue academic careers.",,,"May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+BUSI 860,"  Seminar in Marketing I",3,"
+Permission of the instructor. Overview of current paradigms and research in marketing. Topics include philosophy of science, differing views of what marketing is, strengths and weaknesses of various research approaches, and career socialization issues.",,,,"Letter grade.
+"
+BUSI 861,"  Seminar in Marketing II",3,"
+ Intensive study of the empirical and analytical literature involving problems in pricing, product development and management, advertising and promotion, distribution, and strategy.","Prerequisite, BUSI 860.",,,"Letter grade.
+"
+BUSI 862,"  Marketing Models",3,"
+This class covers a range of econometric principles and models of relevance to marketing. The emphasis will be on model formulation and estimation.",,,,"Letter grade.
+"
+BUSI 865,"  Seminar in Current Marketing Topics",1,"
+Permission of the instructor. Advanced research in marketing. A seminar to discuss current research of doctoral candidates, faculty, and invited guests.",,,,"Letter grade.
+"
+BUSI 867,"  Issues in the Design and Analysis of Research in Marketing",3,"
+Graduate standing in business administration required. A review of major issues in marketing, including philosophy of science, measurement, and experimental and quasi-experimental design.",,,,"Letter grade.
+"
+BUSI 868,"  Seminar in Marketing Research Methodology",3,"
+Permission of the instructor. An introduction to multivariate data analysis methods including factor analysis, cluster analysis, logic, discriminant analysis and multidimensional scaling.",,,,"Letter grade.
+"
+BUSI 876,"  Seminar in Research in Accounting",1,"
+Permission of the instructor. An informal seminar to discuss current research in accounting.",,,,"Letter grade.
+"
+BUSI 880,"  Financial Economics",3,"
+Permission of the instructor. Introduction to the theories of asset pricing.",,,,"Letter grade.
+"
+BUSI 881,"  Corporate Finance",16,"
+ Introduction to corporate finance theory.","Prerequisite, BUSI 880; Permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+BUSI 882,"  Empirical Corporate Finance",3,"
+Permission of the instructor. An introduction to the empirical corporate finance literature.",,,,"Letter grade.
+"
+BUSI 885,"  Seminar in Research in Finance",1,"
+Permission of the instructor. Advanced research in business finance and investment. An informal seminar to discuss current research of doctoral candidates, faculty, and others.",,,,"Letter grade.
+"
+BUSI 886,"  Introduction to Empirical Finance",3,"
+This course provides an introduction to the quantitative methods used in empirical asset pricing. Model specification and estimation issues are discussed at length. The course emphasizes both theoretical and practical research.",,,,"Letter grade.
+"
+BUSI 887,"  Quantitative Methods in Finance",3,"
+Permission of the instructor. Review of information generating and optimizing models and their applicability to decision making in finance.",,,,"Letter grade.
+"
+BUSI 888,"  Seminar in Financial Markets",3,"
+Permission of the instructor. Advanced methods in finance.",,,,"Letter grade.
+"
+BUSI 890,"  Strategic Management Overview",3,"
+A seminar to provide a broad and current understanding of strategic management. Exposure to the entire field is emphasized.",,,,"Letter grade.
+"
+BUSI 891,"  Strategic Formulation",3,"
+ This seminar emphasizes both process and content issues to provide students with an in-depth understanding of strategy formulation topics.","Prerequisite, BUSI 890.",,,"Letter grade.
+"
+BUSI 892,"  Strategy Implementation",3,"
+ This seminar focuses on strategy implementation, with particular emphasis devoted to the process, systems, and structures required for effective implementation.","Prerequisites, BUSI 890 and 891.",,,"Letter grade.
+"
+BUSI 899,"  Seminar",16,"
+Permission of the instructor. Individual research in a special field under direction of a member of the department",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+BUSI 899C,"  Seminar",0,"
+Individual research in a special field under direction of a member of the department.",,,,"Letter grade.
+"
+BUSI 992,"  Master's (Non-Thesis)",3,"
+",,,,
+BUSI 994,"  Doctoral Research and Dissertation",3,"
+",,,,

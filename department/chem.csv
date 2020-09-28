@@ -1,0 +1,338 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+CHEM 70,"  First-Year Seminar: You Don't Have to Be a Rocket Scientist",3,"
+The goal of this seminar is to develop tools for extracting information from or finding flaws in news reports and popular science writing. Group work on such issues as biomass fuels, the hydrogen economy, and other alternative energy sources will develop an understanding of their economic and environmental impact.",,"PL.",,"Letter grade.
+"
+CHEM 71,"  First-Year Seminar: Foundations of Chemistry: A Historical and Modern Perspective",3,"
+Students will learn about ways in which scientists think. They will explore how new knowledge is generated and examine the impact of science on society. Topics to be considered include the nature of gases, atomic structure and radioactivity, and molecules and the development of new materials.",,"PL.",,"Letter grade.
+"
+CHEM 72,"  First-Year Seminar: From Imagination to Reality: Idea Entrepreneurism in Science, Business, the Arts",3,"
+Bringing ideas to fruition is a multistep process. In the present knowledge economy, high value is placed on individuals who both formulate new concepts and bring them to reality. This process requires a number of important skills that will be explored in this course.",,"PL.",,"Letter grade.
+"
+CHEM 73,"  First-Year Seminar: From Atomic Bombs to Cancer Treatments:  The Broad Scope of Nuclear Chemistry",3,"
+A course engaging the topic of nuclear chemistry on the introductory chemistry course level (e.g., CHEM 101/102). Atomic structure, nuclear fission, and nuclear fusion processes will be introduced to provide the background necessary to understand applications of the processes. Applications discussed will include power generation, medical treatments, weapons, and more.",,"PL.",,"Letter grade.
+"
+CHEM 89,"  First-Year Seminar: Special Topics",3,"
+Special topics course. Content will vary each semester.",,,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 2 total completions.","Letter grade.
+"
+CHEM 100,"  Foundations of Chemistry",3,"
+ This course is an introduction to fundamental threshold concepts in chemistry as preparation for the two-course sequence of General Descriptive Chemistry (CHEM 101 and 102). This course emphasizes developing contextualized algebra skills for solving chemistry problems including physical unit conversions, molar mass, and reaction stoichiometry. Permission of instructor required.","Prerequisite, MATH 110.",,,"Letter grade.
+"
+CHEM 101,"  General Descriptive Chemistry I",3,"
+ The first course in a two-semester sequence. See also CHEM 102. Atomic and molecular structure, stoichiometry and conservation of mass, thermochemical changes and conservation of energy.","Prerequisite, MATH 110.","PX.",,"Letter grade.
+"
+CHEM 101L,"  Quantitative Chemistry Laboratory I",1,"
+ Computerized data collection, scientific measurement, sensors, thermochemistry, spectroscopy, and conductometric titration. Laptop computer required. One four-hour laboratory a week.","Pre- or corequisite, CHEM 101.",,,"Letter grade.
+"
+CHEM 102,"  General Descriptive Chemistry II",3,"
+ The course is the second in a two-semester sequence. See also CHEM 101. Gases, intermolecular forces, solutions, reaction rates, chemical equilibria including acid-base chemistry, thermochemistry, electrochemistry. Honors version available","Prerequisites, CHEM 101 and 101L; C- or better required in CHEM 101.","PX.",,"Letter grade.
+"
+CHEM 102L,"  Quantitative Chemistry Laboratory II",1,"
+ Computerized data collection, gas laws, intermolecular forces, redox reactions, chemical kinetics, and acid-base titrations. Laptop computer required. One four-hour laboratory a week.","Prerequisite, CHEM 101L; pre- or corequisite, CHEM 102 or 102H.",,,"Letter grade.
+"
+CHEM 105L,"  Advanced Quantitative Chemistry Laboratory",1,"
+",,,,
+CHEM 190,"  Special Topics in Chemistry",3,"
+An undergraduate seminar course that is designated to be a participatory intellectual adventure on an advanced, emergent, and stimulating topic within a selected discipline in chemistry. This course does not count as credit towards the chemistry major.",,,,"Letter grade.
+"
+CHEM 200,"  Extraordinary Chemistry of Ordinary Things",3,"
+ Coregistration in CHEM 200 and 101L fulfills the physical and life science with a laboratory requirement (PX). This course helps students understand the chemistry behind important societal issues and the consequences of actions aimed at addressing the issues. Students who have taken CHEM 200 cannot take CHEM 101 for credit.","Prerequisite, MATH 110.","PX.",,"Letter grade.
+"
+CHEM 210,"  Service Learning in Chemistry",1,"
+ This is an APPLES service-learning course that collaborates with a community partner. Students will develop research questions and test their hypotheses using chemistry lab techniques and instrumentation. Students will keep a reflection journal on their service work and a lab notebook for recording all experimentation. At the end of the semester, students will write a paper and present research posters. Findings will be shared with the community partner. Students must send applications to the instructor.","Prerequisite, Permission of the instructor.","EE- Service Learning, EE- Mentored Research.",,"Letter grade.
+"
+CHEM 241,"  Modern Analytical Methods for Separation and Characterization",2,"
+ Analytical separations, chromatographic methods, spectrophotometry, acid-base equilibria and titrations, fundamentals of electrochemistry. Honors version available","Prerequisite, CHEM 102 or 102H; C- or better required.",,,"Letter grade.
+"
+CHEM 241L,"  Laboratory in Separations and Analytical Characterization of Organic and Biological Compounds",1,"
+ Applications of separation and spectrophotometric techniques to organic compounds, including some of biological interest. One three-hour laboratory a week. Students may not receive credit for both CHEM 241L and CHEM 245L.","Prerequisite, CHEM 102L; pre- or corequisite, CHEM 241 or 241H.",,,"Letter grade.
+"
+CHEM 245L,"  Honors Laboratory in Separations and Analytical Characterization of Organic and Biological Compound",1,"
+ Applications of separation and spectrophotometric techniques to samples from the real world, including some of biological interest. Final portion of course consists of group research projects presented to the Department of Chemistry in poster session format. Honors equivalent of CHEM 241L. Students may not receive credit for both CHEM 241L and CHEM 245L. One three-hour laboratory each week.","Prerequisite, CHEM 102L; pre- or corequisite, CHEM 241H.","EE- Mentored Research.",,"Letter grade.
+"
+CHEM 251,"  Introduction to Inorganic Chemistry",2,"
+ Chemical periodicity, introductory atomic theory and molecular orbital theory, structure and bonding in solids, descriptive nonmetal chemistry, structures and reactions of transition metal complexes, applications of inorganic complexes and materials.","Prerequisite, CHEM 102 or 102H; C- or better required.",,,"Letter grade.
+"
+CHEM 261,"  Introduction to Organic Chemistry I",3,"
+ Molecular structure and its determination by modern physical methods, correlation between structure and reactivity and the theoretical basis for these relationships, classification of reaction types exhibited by organic molecules using as examples molecules of biological importance. Honors version available","Prerequisite, CHEM 102 or 102H; C- or better required.",,,"Letter grade.
+"
+CHEM 262,"  Introduction to Organic Chemistry II",3,"
+ Continuation of CHEM 261, with particular emphasis on the chemical properties of organic molecules of biological importance. Honors version available","Prerequisite, CHEM 261 or 261H; C- or better required.",,,"Letter grade.
+"
+CHEM 262L,"  Laboratory in Organic Chemistry",1,"
+ Continuation of CHEM 241L or 245L with particular emphasis on organic chemistry synthesis protocols, separation techniques, and compound characterization using modern spectroscopic instrumentation. This course serves as an organic chemistry laboratory for premedical and predental students. Students may not receive credit for both CHEM 262L and CHEM 263L. One three-hour laboratory each week.","Prerequisites, CHEM 102L, and CHEM 241L or 245L; pre- or corequisite, CHEM 262 or 262H.","EE- Mentored Research.",,"Letter grade.
+"
+CHEM 263L,"  Honors Laboratory in Organic Chemistry",1,"
+ Continuation of CHEM 245L with particular emphasis on organic chemistry synthesis protocols, separation techniques, and compound characterization using modern spectroscopic instrumentation. An organic chemistry laboratory for premedical and predental students. Honors equivalent of CHEM 262L. Students may not receive credit for both CHEM 262L and CHEM 263L. One three-hour laboratory each week.","Prerequisites, CHEM 102L, and CHEM 241L or 245L; pre- or corequisite, CHEM 262H; permission of the instructor for students lacking CHEM 262H.",,,"Letter grade.
+"
+CHEM 290,"  Special Topics in Chemistry",13,"
+Elective topics in the field of chemistry. This course has variable content and may be taken multiple times for credit.",,,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 2 total completions.","Letter grade.
+"
+CHEM 291,"  Seminar on Academic Mentoring",13,"
+ Experience includes academic mentoring for small groups, preparing review sessions, and facilitating lecture hall activity. Students will explore concepts in pedagogy, leadership, communication, and group dynamics. Does not fulfill chemistry major requirements. GPA above 3.0 required.","Prerequisites, CHEM 102 or 102H, and MATH 231; permission of the instructor for students lacking the prerequisites.",,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 6 total completions.","Pass/Fail.
+"
+CHEM 293,"  Undergraduate Internship in Chemistry",3,"
+The sponsored, off-campus work must involve at least 135 hours. Does not fulfill any requirement in the chemistry major or minor. Chemistry majors only. Permission of the department and supervision of chemistry faculty member required.",,"EE- Service Learning, EE- Field Work.",,"Pass/Fail.
+"
+CHEM 395,"  Research in Chemistry for Undergraduates",3,"
+Required preparation, one CHEM course 420 or higher, or permission of the instructor. For advanced chemistry and applied sciences majors conducting on-campus research. Students prepare a report for their faculty supervisor and present their work at a poster session. May count only once as a chemistry elective. Honors version available",,"EE- Mentored Research.","May be repeated for credit. 9 total credits. 3 total completions.","Letter grade.
+"
+CHEM 396,"  Special Problems in Chemistry",13,"
+Permission of the director of undergraduate studies. Literature or laboratory work equivalent of one to three hours each week. Honors version available",,,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 3 total completions.","Letter grade.
+"
+CHEM 397H,"  Honors Colloquium in Chemistry",1,"
+ Weekly meetings complement research carried out under CHEM 395H. Expands students' exposure to specialized areas of research through guided readings and seminars with invited speakers. Aids students in preparing their research for evaluation. CHEM 395H and 397H together can contribute no more than nine total hours toward graduation.","Corequisite, CHEM 395H.","EE- Mentored Research.","May be repeated for credit. 2 total credits. 2 total completions.","Letter grade.
+"
+CHEM 400,"  GEN REGISTRATION",21,"
+GEN REGISTRATION",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+CHEM 410,"  Instructional Methods in the Chemistry Classroom",4,"
+ Permission of the instructor. This course explores secondary school chemical education through current chemical education theory and classroom teaching. Students will develop a comprehensive approach to teaching chemistry content through student-centered activities.","Prerequisites, CHEM 241, 251, 262, and 262L.","EE- Field Work.",,"Letter grade.
+"
+CHEM 420,"  Introduction to Polymers",3,"
+ Chemical structure and nomenclature of macromolecules, synthesis of polymers, characteristic polymer properties.","Prerequisite, CHEM 261 or 261H; pre- or corequisites, CHEM 262 or 262H, and 262L or 263L.",,,"Letter gradeSame as: APPL 420.
+"
+CHEM 421,"  Synthesis of Polymers",3,"
+ Synthesis and reactions of polymers; various polymerization techniques.","Prerequisites, CHEM 251 and 262 or 262H.",,,"Letter gradeSame as: APPL 421.
+"
+CHEM 422,"  Physical Chemistry of Polymers",3,"
+ Polymerization and characterization of macromolecules in solution.","Prerequisites, CHEM 420 and 481.",,,"Letter gradeSame as: APPL 422.
+"
+CHEM 423,"  Intermediate Polymer Chemistry",3,"
+ Polymer dynamics, networks and gels.","Prerequisite, CHEM 422.",,,"Letter gradeSame as: APPL 423.
+"
+CHEM 425,"  Polymer Materials",3,"
+ Solid-state properties of polymers; polymer melts, glasses and crystals.","Prerequisite, CHEM 421 or 422.",,,"Letter grade.
+"
+CHEM 430,"  Introduction to Biological Chemistry",3,"
+ The study of cellular processes including catalysts, metabolism, bioenergetics, and biochemical genetics. The structure and function of biological macromolecules involved in these processes is emphasized. Honors version available","Prerequisites, BIOL 101, and CHEM 262 or 262H.",,,"Letter gradeSame as: BIOL 430.
+"
+CHEM 431,"  Macromolecular Structure and Metabolism",3,"
+ Structure of DNA and methods in biotechnology; DNA replication and repair; RNA structure, synthesis, localization and transcriptional reputation; protein structure/function, biosynthesis, modification, localization, and degradation.","Prerequisites, BIOL 202 and CHEM 430.",,,"Letter grade.
+"
+CHEM 432,"  Metabolic Chemistry and Cellular Regulatory Networks",3,"
+ Biological membranes, membrane protein structure, transport phenomena; metabolic pathways, reaction themes, regulatory networks; metabolic transformations with carbohydrates, lipids, amino acids, and nucleotides; regulatory networks, signal transduction.","Prerequisite, CHEM 430.",,,"Letter grade.
+"
+CHEM 433,"  Transport in Biological Systems",1,"
+ Permission of the instructor for undergraduates. Diffusion, sedimentation, electrophoresis, flow. Basic principles, theoretical methods, experimental techniques, role in biological function, current topics.","Prerequisites, CHEM 430 and MATH 383.",,,"Letter grade.
+"
+CHEM 441,"  Intermediate Analytical Chemistry",2,"
+ Spectroscopy, electroanalytical chemistry, chromatography, thermal methods of analysis, signal processing.","Prerequisites, CHEM 241, 241L, 262, and 480 or 481.",,,"Letter grade.
+"
+CHEM 441L,"  Intermediate Analytical Chemistry Laboratory",2,"
+ Experiments in spectroscopy, electroanalytical chemistry, chromatography, thermal methods of analysis, and signal processing. One four-hour laboratory a week and one one-hour lecture.","Corequisite, CHEM 441.",,,"Letter grade.
+"
+CHEM 443,"  Surface Analysis",3,"
+ This class will focus on analytical techniques capable of probing the physical and chemical properties of surfaces and interfaces. These analyses are extremely challenging, as the sample sizes are small (e.g., 1E14 molecules/cm2 of a material). The course will focus on complementary techniques to assess surface structure and topography, atomic and molecular composition, organization or disorder, and reactivity.","Prerequisite, CHEM 441 or CHEM 481; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+CHEM 444,"  Separations",3,"
+ Theory and applications of equilibrium and nonequilibrium separation techniques. Extraction, countercurrent distribution, gas chromatography, column and plane chromatographic techniques, electrophoresis, ultra-centrifugation, and other separation methods.","Prerequisites, CHEM 441 and CHEM 480 or 481.",,,"Letter grade.
+"
+CHEM 445,"  Electroanalytical Chemistry",3,"
+ Basic principles of electrochemical reactions, electroanalytical voltammetry as applied to analysis, the chemistry of heterogeneous electron transfers, and electrochemical instrumentation.","Prerequisites, CHEM 480 or 481, and CHEM 441.","EE- Mentored Research.",,"Letter grade.
+"
+CHEM 446,"  Analytical Spectroscopy",3,"
+ Optical spectroscopic techniques for chemical analysis including conventional and laser-based methods. Absorption, fluorescence, scattering and nonlinear spectroscopies, instrumentation and signal processing.","Prerequisites, CHEM 441 and 482.",,,"Letter grade.
+"
+CHEM 447,"  Bioanalytical Chemistry",3,"
+ Principles and applications of biospecific binding as a tool for performing selective chemical analysis.","Prerequisite, CHEM 441.",,,"Letter grade.
+"
+CHEM 448,"  Mass Spectrometry",3,"
+ Fundamental theory of gaseous ion chemistry, instrumentation, combination with separation techniques, spectral interpretation for organic compounds, applications to biological and environmental chemistry.","Prerequisites, CHEM 480 or 481, and CHEM 441.",,,"Letter grade.
+"
+CHEM 449,"  Microfabricated Chemical Measurement Systems",3,"
+ Introduction to micro and nanofabrication techniques, fluid and molecular transport at the micrometer to nanometer length scales, applications of microtechnology to chemical and biochemical measurements.","Prerequisite, CHEM 441.",,,"Letter grade.
+"
+CHEM 450,"  Intermediate Inorganic Chemistry",3,"
+ Introduction to symmetry and group theory; bonding, electronic spectra, and reaction mechanisms of coordination complexes; organometallic complexes, reactions, and catalysis; bioinorganic chemistry.","Prerequisite, CHEM 251.",,,"Letter grade.
+"
+CHEM 451,"  Theoretical Inorganic Chemistry",3,"
+ Chemical applications of symmetry and group theory, crystal field theory, molecular orbital theory. The first third of the course, corresponding to one credit hour, covers point symmetry, group theoretical foundations and character tables.","Prerequisites, CHEM 262 or 262H and 450.",,,"Letter grade.
+"
+CHEM 452,"  Electronic Structure of Transition Metal Complexes",3,"
+ A detailed discussion of ligand field theory and the techniques that rely on the theoretical development of ligand field theory, including electronic spectroscopy, electron paramagnetic resonance spectroscopy, and magnetism.","Prerequisite, CHEM 451.",,,"Letter grade.
+"
+CHEM 453,"  Organotransition Metal Chemistry",2,"
+ Exploring the synthesis, bonding, and reactivity of of organotransition metal complexes. Topics typically include organometallic ligand classification, the elementary steps of organometallic reactions, and applications in catalysis.","Prerequisite, CHEM 465.",,,"Letter grade.
+"
+CHEM 460,"  Intermediate Organic Chemistry",3,"
+ Modern topics in organic chemistry. Honors version available","Prerequisite, CHEM 262 or 262H.",,,"Letter grade.
+"
+CHEM 463,"  Bioorganic Chemistry",3,"
+ Bioorganic chemistry integrates topics from synthetic chemistry, biochemistry, and biophysics to study biomacromolecules and develop tools and materials that utilize them.","Prerequisites, CHEM 262 and CHEM 430.",,,"Letter grade.
+"
+CHEM 465,"  Mechanisms of Organic and Inorganic Reactions",4,"
+ Kinetics and thermodynamics, free energy relationships, isotope effects, acidity and basicity, kinetics and mechanisms of substitution reactions, one- and two-electron transfer processes, principles and applications of photochemistry, organometallic reaction mechanisms.","Prerequisite, CHEM 450.",,,"Letter grade.
+"
+CHEM 466,"  Advanced Organic Chemistry I",3,"
+ A survey of fundamental organic reactions including substitutions, additions, elimination, and rearrangements; static and dynamic stereochemistry; conformational analysis; molecular orbital concepts and orbital symmetry.","Prerequisite, CHEM 460.",,,"Letter grade.
+"
+CHEM 467,"  Advanced Organic Chemistry II",2,"
+ Spectroscopic methods of analysis with emphasis on elucidation of the structure of organic molecules: 1H and 13C NMR, infrared, ultraviolet, ORD-CD, mass, and photoelectron spectroscopy.","Prerequisite, CHEM 466.",,,"Letter grade.
+"
+CHEM 468,"  Synthetic Aspects of Organic Chemistry",3,"
+ Modern synthetic methods and their application to the synthesis of complicated molecules.","Prerequisite, CHEM 466.",,,"Letter grade.
+"
+CHEM 469,"  Organometallics and Catalysis",3,"
+ Structure and reactivity of organometallic complexes and their role in modern catalytic reactions","Prerequisites, CHEM 450 and 466.",,,"Letter grade.
+"
+CHEM 470,"  Fundamentals of Materials Science",3,"
+  Crystal geometry, diffusion in solids, mechanical properties of solids, electrical conduction in solids, thermal properties of materials, phase equilibria.","Prerequisite, CHEM 482 or PHYS 128. Pre- or corequisite, PHYS 441.",,,"Letter gradeSame as: APPL 470.
+"
+CHEM 471,"  Mathematical Techniques for Chemists",3,"
+ Knowledge of differential and integral calculus. Chemical applications of higher mathematics.","Prerequisite, MATH 383; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+CHEM 472,"  Chemistry and Physics of Electronic Materials Processing",3,"
+ Permission of the instructor. A survey of materials processing and characterization used in fabricating microelectronic devices. Crystal growth, thin film deposition and etching, and microlithography.","Prerequisite, CHEM 482 or PHYS 117 or 119.",,,"Letter gradeSame as: PHYS 472, APPL 472.
+"
+CHEM 473,"  Chemistry and Physics of Surfaces",3,"
+ The structural and energetic nature of surface states and sites, experimental surface measurements, reactions on surfaces including bonding to surfaces and adsorption, interfaces.","Prerequisite, CHEM 470.",,,"Letter gradeSame as: APPL 473.
+"
+CHEM 480,"  Introduction to Biophysical Chemistry",3,"
+ Does not carry credit toward graduate work in chemistry or credit toward any track of the B.S. degree with a major in chemistry. Application of thermodynamics to biochemical processes, enzyme kinetics, properties of biopolymers in solution.","Prerequisites, CHEM 261 or 261H, MATH 232, and PHYS 105.",,,"Letter grade.
+"
+CHEM 481,"  Physical Chemistry I",3,"
+ Thermodynamics, kinetic theory, chemical kinetics.","Prerequisites, CHEM 102 or 102H, PHYS 118 or 116; pre- or corequisites, MATH 383 and PHYS 119 or 117; C- or better required in chemistry course prerequisites.",,,"Letter grade.
+"
+CHEM 481L,"  Physical Chemistry Laboratory I",2,"
+ Experiments in physical chemistry. One four-hour laboratory each week.","Pre- or corequisite, CHEM 482.",,,"Letter grade.
+"
+CHEM 482,"  Physical Chemistry II",3,"
+ Introduction to quantum mechanics, atomic and molecular structure, spectroscopy, statistical mechanics.","Prerequisite, CHEM 481.",,,"Letter grade.
+"
+CHEM 482L,"  Physical Chemistry Laboratory II",2,"
+ Experiments in physical chemistry. Solving thermodynamic and quantum mechanical problems using computer simulations. One three-hour laboratory and a single one-hour lecture each week.","Prerequisite, CHEM 482.",,,"Letter grade.
+"
+CHEM 484,"  Thermodynamics and Introduction to Statistical Thermodynamics",121,"
+ Thermodynamics, followed by an introduction to the classical and quantum statistical mechanics and their application to simple systems. The section on thermodynamics can be taken separately for one hour credit.","Prerequisite, CHEM 482.",,,"Letter grade.
+"
+CHEM 485,"  Chemical Dynamics",3,"
+ Experimental and theoretical aspects of atomic and molecular reaction dynamics.","Prerequisites, CHEM 481 and 482.",,,"Letter grade.
+"
+CHEM 486,"  Introduction to Quantum Chemistry",3,"
+ Introduction to the principles of quantum mechanics. Approximation methods, angular momentum, simple atoms and molecules.","Prerequisites, CHEM 481 and 482.",,,"Letter grade.
+"
+CHEM 487,"  Introduction to Molecular Spectroscopy",3,"
+ Interaction of radiation with matter; selection rules; rotational, vibrational, and electronic spectra of molecules; laser based spectroscopy and nonlinear optical effects.","Prerequisite, CHEM 486.",,,"Letter grade.
+"
+CHEM 488,"  Quantum Chemistry",3,"
+ Applications of quantum mechanics to chemistry. Molecular structure, time-dependent perturbation theory, interaction of radiation with matter.","Prerequisite, CHEM 486.",,,"Letter grade.
+"
+CHEM 489,"  Statistical Mechanics",3,"
+ Applications of statistical mechanics to chemistry. Ensemble formalism, condensed phases, nonequilibrium processes.","Prerequisite, CHEM 484.",,,"Letter grade.
+"
+CHEM 520L,"  Polymer Chemistry Laboratory",2,"
+ Various polymerization techniques and characterization methods. One four-hour laboratory each week.","Pre- or corequisite, CHEM 420 or 421 or 425.","EE- Mentored Research.",,"Letter gradeSame as: APPL 520L.
+"
+CHEM 530L,"  Laboratory Techniques for Biochemistry",3,"
+ An introduction to chemical techniques and research procedures of use in the fields of protein and nucleic acid chemistry. Two four-hour laboratories and one one-hour lecture a week.","Prerequisites, BIOL 202; pre- or co-requisite, CHEM 430.","EE- Mentored Research.",,"Letter grade.
+"
+CHEM 541,"  Analytical Microscopy",3,"
+Introduction to microscopy techniques utilized in the analysis of chemical and biological samples with a focus on light, electron, and atomic force microscopy. Permission of instructor required for those missing prerequisites.",,,,"Letter grade.
+"
+CHEM 550L,"  Synthetic Chemistry Laboratory I",2,"
+ A laboratory devoted to synthesis and characterization of inorganic complexes and materials. A four-hour synthesis laboratory, a characterization laboratory outside of the regular laboratory period, and a one-hour recitation each week.","Prerequisites, CHEM 241L or 245L, 251, and 262L or 263L.","CI.",,"Letter grade.
+"
+CHEM 551L,"  Honors Synthetic Chemistry Lab",2,"
+ This is an honors laboratory course designed to lead you from challenging introductory experiments to five weeks of laboratory work on an independent research project. In addition to exposing you to advanced synthetic techniques, this course will allow you to use multiple modern techniques to characterize the inorganic and organometallic complexes you prepare. Students may not receive credit in both CHEM 551L and CHEM 550L.","Prerequisites, CHEM 262L and 251.",,,"Letter grade.
+"
+CHEM 560L,"  Synthetic Organic Laboratory",2,"
+ An advanced synthesis laboratory focused on topics in organic chemistry. A four-hour synthesis laboratory, a characterization laboratory outside of the regular laboratory period, and a one-hour recitation each week.","Prerequisites, CHEM 241L, 245L, 262L, 263L.",,,"Letter grade.
+"
+CHEM 692H,"  Senior Honors Thesis",3,"
+CHEM 395 must have been in the same laboratory as 692H. Senior majors only. Required of all candidates for honors or highest honors.","Prerequisite, six credit hours of CHEM 395.",,,"Letter grade.
+"
+CHEM 701,"  Introduction to Laboratory Safety",1,"
+Permission of the instructor for undergraduates. This introductory course in laboratory chemical safety is required for all entering chemistry graduate students. Topics include laboratory emergencies, chemical hazards, laboratory inspections and compliance, working with chemicals, waste handling, case studies of university accidents, laboratory equipment, biosafety, radiation, animals, and microfabrication and nanomaterials.",,,,"Letter grade.
+"
+CHEM 721,"  Seminar in Materials Chemistry",2,"
+Graduate standing required.",,,"May be repeated for credit. ","Letter grade.
+"
+CHEM 730,"  Chemical Biology",24,"
+ Application of chemical principles and tools to study and manipulate biological systems; in-depth exploration of examples from the contemporary literature. Topics include new designs for the genetic code, drug design, chemical arrays, single molecule experiments, laboratory-based evolution, chemical sensors, and synthetic biology.","Prerequisite, CHEM 430.",,,"Letter grade.
+"
+CHEM 731,"  Seminar in Biological Chemistry",2,"
+Graduate standing required. Literature survey dealing with topics in protein chemistry and nucleic acid chemistry.",,,,"Letter grade.
+"
+CHEM 732,"  Advances in Macromolecular Structure and Function",3,"
+In-depth analysis of the structure-function relationships governing protein-protein and protein-nucleic acid interactions. Topics include replication, DNA repair, transcription, translation, RNA processing, protein complex assembly, and enzyme regulation. Course includes both the current and classic literature that highlight the techniques used to study these processes.",,,,"Letter grade.
+"
+CHEM 733,"  Special Topics in Biological Chemistry",0,"
+Modern topics in biological chemistry.",,,,"Letter grade.
+"
+CHEM 741,"  Literature Seminar in Analytical Chemistry",2,"
+Graduate standing required. Colloquium of modern analytical chemistry topics presented by graduate students and select invited speakers.",,,,"Letter grade.
+"
+CHEM 742,"  Analytical Research Techniques",2,"
+Introduction to chemical instrumentation including digital and analog electronics, computers, interfacing, and chemometric techniques. Two one-hour lectures a week.",,,,"Letter grade.
+"
+CHEM 742L,"  Laboratory in Analytical Research Techniques",2,"
+ Experiments in digital and analog instrumentation, computers, interfacing and chemometrics, with applications to chemical instrumentation.","Co-requisite, CHEM 742.",,,"Letter grade.
+"
+CHEM 744,"  Special Topics in Analytical Chemistry",0,"
+Modern topics in analytical chemistry, including advanced electroanalytical chemistry, advanced mass spectrometry, chemical instrumentation, and other subjects of recent significance. Two lecture hours a week.",,,,"Letter grade.
+"
+CHEM 745,"  Analytical Technical Writing Workshop",1,"
+Students will participate in 12 workshop sessions co-presented by the instructor and TA covering the basics of technical writing. Each workshop is designed to help students prepare successful proposals for external graduate fellowships, but skills practiced are readily extended to the 2nd-year prospectus, manuscript preparation, the thesis, and beyond.",,,"May be repeated for credit. 3 total credits. 1 total completions.","Letter grade.
+"
+CHEM 752,"  Special Topics in Inorganic Chemistry",0,"
+Permission of the instructor. Research-level survey of topics in inorganic chemistry and related areas.",,,,"Letter grade.
+"
+CHEM 754,"  Literature Seminar in Inorganic Chemistry",2,"
+Graduate standing required.",,,,"Letter grade.
+"
+CHEM 755,"  Inorganic Technical Writing Workshop",1,"
+Students will participate in 11 workshop sessions co-presented by the instructor and TA covering the basics of technical writing. They are designed to help students prepare successful proposals for external graduate fellowships, but skills practiced are readily extended to the 2nd-year prospectus, 3rd-year proposal, manuscript preparation, the thesis, and beyond.",,,,"Letter grade.
+"
+CHEM 758,"  Introduction to Chemical Crystallography",3,"
+ The course "Introduction to Chemical Crystallography" is intended for graduate students who wish to acquire a basic understanding of crystallography, the mathematical foundations of diffraction principles, the hands-on experience in the operation of X-ray diffractometers, computer software for crystal structure determination and visualization, as well as crystallographic databases. The goal of the course is to prepare students to independently operate diffractometers and carry out X-ray structure determinations for their Ph.D. or M.S. theses.","Prerequisites, Knowledge of elementary and differential calculus is assumed; this course is designed to introduce students to the techniques used in solving and refining crystal structures by the use of X-ray diffraction; no prior knowledge of crystallography is required, but students are required to pass the radiation safety exam in the first week of the course.",,,"Letter grade.
+"
+CHEM 761,"  Seminar in Organic Chemistry",2,"
+Graduate standing required. One afternoon meeting a week and individual consultation with the instructor.",,,,"Letter grade.
+"
+CHEM 764,"  Special Topics in Organic Chemistry",0,"
+Two lecture hours a week.",,,,"Letter grade.
+"
+CHEM 767,"  Organic Chemistry",0,"
+Permission of the instructor. Three to six hours a week.",,,,"Letter grade.
+"
+CHEM 780,"  Advanced Materials Science",3,"
+This course covers the physical fundamentals of material science with an in-depth discussion of structure formation in soft and hard materials and how structure determines material mechanical, electrical, thermal, and optical properties. Topics include amorphous and crystal structures, defects, dislocation theory, thermodynamics and phase diagrams, diffusion, interfaces and microstructures, solidification, and theory of phase transformation. Special emphasis will be on the structure-property relationships of (bio)polymers, (nano)composites, and their structure property relationships.",,,,"Letter gradeSame as: MTSC 780, BMME 780, PHYS 780.
+"
+CHEM 781,"  Seminar in Physical Chemistry",2,"
+Graduate standing required. Two hours a week.",,,,"Letter grade.
+"
+CHEM 783,"  Special Topics in Physical Chemistry",0,"
+Permission of the instructor. Modern topics in physical chemistry, chemical physics, or biophysical chemistry. One to three lecture hours a week.",,,,"Letter grade.
+"
+CHEM 786,"  Special Topics in Physical Chemistry",0,"
+Permission of the instructor. Modern topics in physical chemistry, chemical physics, or biophysical chemistry. One to three lecture hours a week.",,,,"Letter grade.
+"
+CHEM 791,"  Special Topics in Chemistry",14,"
+Selected research-level, cross-disciplinary topics in modern chemistry.",,,,"Letter grade.
+"
+CHEM 921,"  Research Methodology and Seminar in Polymer/Materials Chemistry",121,"
+Seminar and directed study on research methods of polymer/materials chemistry. This course provides a foundation for master's thesis or doctoral dissertation research.",,,"May be repeated for credit. ","Letter grade.
+"
+CHEM 931,"  Research Methodology and Seminar in Biological Chemistry",121,"
+Seminar and directed study on research methods of biological chemistry. This course provides a foundation for master's thesis or doctoral dissertation research.",,,,"Letter grade.
+"
+CHEM 941,"  Research Methodology and Seminar in Analytical Chemistry",121,"
+Seminar and directed study on research methods of analytical chemistry. The course provides a foundation for master's thesis or doctoral dissertation research.",,,,"Letter grade.
+"
+CHEM 951,"  Research Methodology and Seminar in Inorganic Chemistry",121,"
+Seminar and directed study on research methods of inorganic chemistry. The course provides a foundation for master's thesis or doctoral dissertation research.",,,,"Letter grade.
+"
+CHEM 961,"  Research Methodology and Seminar in Organic Chemistry",121,"
+Seminar and directed study on research methods of organic chemistry. The course provides a foundation for master's thesis or doctoral dissertation research.",,,,"Letter grade.
+"
+CHEM 981,"  Research Methodology and Seminar in Physical Chemistry",121,"
+Seminar and directed study on research methods of physical chemistry. The course provides a foundation for master's thesis or doctoral dissertation research.",,,,"Letter grade.
+"
+CHEM 992,"  Master's (Non-Thesis)",3,"
+",,,,
+CHEM 993,"  Master's Research and Thesis",3,"
+Prerequisite, CHEM 921, 931, 941, 951, 961, or 981.",,,"May be repeated for credit. 
+",
+CHEM 994,"  Doctoral Research and Dissertation",3,"
+Prerequisite, CHEM 921, 931, 941, 951, 961, or 981.",,,"May be repeated for credit. 
+",

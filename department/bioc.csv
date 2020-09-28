@@ -1,0 +1,182 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+BIOC 107,"  Introduction to Biochemistry",4,"
+Recommended preparation, one year of high school chemistry. Designed for students who desire a background in biochemistry as it relates to the human body, such as premed, prenursing, predental hygiene, and allied health. Brief review of inorganic and organic chemistry, followed by a survey of biochemistry (survey continues in BIOC 108).",,"PX.",,"Letter grade.
+"
+BIOC 108,"  Introduction to Biochemistry",4,"
+Designed for premed, prenursing, predental hygiene, allied health, and other students who desire a background in biochemistry as it relates to the human body. Continuation of BIOC 107; covers basic and clinically relevant aspects of biochemistry. Three lecture hours and one two-hour laboratory a week.",,"PX.",,"Letter grade.
+"
+BIOC 442,"  Biochemical Toxicology",3,"
+ Required preparation, one course in biochemistry. Biochemical actions of toxicants and assessment of cellular damage by biochemical measurements. Three lecture hours per week.","Prerequisite, CHEM 430; permission of the instructor for students lacking the prerequisites.",,,"Letter gradeSame as: ENVR 442, TOXC 442.
+"
+BIOC 601,"  Enzyme Properties, Mechanisms, and Regulation",3,"
+ Focuses on enzyme architecture to illustrate how the shapes of enzymes are designed to optimize the catalytic step and become allosterically modified to regulate the rate of catalysis.","Prerequisite, CHEM 430; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+BIOC 631,"  Advanced Molecular Biology I",3,"
+Required preparation for undergraduates, at least one undergraduate course in both biochemistry and genetics. DNA structure, function, and interactions in prokaryotic and eukaryotic systems, including chromosome structure, replication, recombination, repair, and genome fluidity. Three lecture hours a week.",,,,"Letter gradeSame as: GNET 631, BIOL 631, MCRO 631.
+"
+BIOC 632,"  Advanced Molecular Biology II",3,"
+Required preparation for undergraduates, at least one undergraduate course in both biochemistry and genetics. The purpose of this course is to provide historical, basic, and current information about the flow and regulation of genetic information from DNA to RNA in a variety of biological systems. Three lecture hours a week.",,,,"Letter gradeSame as: GNET 632, BIOL 632, MCRO 632.
+"
+BIOC 643,"  Cell Structure, Function, and Growth Control I",3,"
+ Comprehensive introduction to cell structure, function, and transformation.","Prerequisite, undergraduate cell biology or biochemistry or permission of the instructor.",,,"Letter gradeSame as: CBIO 643, PHCO 643, PHYI 643.
+"
+BIOC 649,"  Mathematics and Macromolecules",1,"
+This course focuses on the application of mathematics to topics important in biophysics, such as thermodynamics and electrostatics. The unit is designed to help students perform more efficiently in  BIOC 650, 651, and 652.",,,,"Letter grade.
+"
+BIOC 650,"  Basic Principles: From Basic Models to Collections of Macromolecules",1,"
+ Required preparation, two semesters of physical chemistry or permission of the instructor. Basic molecular models and their use in developing statistical descriptions of macromolecular function. Course intended primarily for graduate students.","Prerequisite, CHEM 430.",,,"Letter grade.
+"
+BIOC 651,"  Macromolecular Equilibria: Conformation Change and Binding",1,"
+ Required preparation, two semesters of physical chemistry or permission of the instructor. Macromolecules as viewed with modern computational methods. Course intended primarily for graduate students.","Prerequisite, CHEM 430.",,,"Letter grade.
+"
+BIOC 652,"  Macromolecular Equilibria",1,"
+ Required preparation, two semesters of physical chemistry or permission of the instructor. Stability of macromolecules and their complexes with other molecules. Course intended primarily for graduate students.","Prerequisite, CHEM 430.",,,"Letter grade.
+"
+BIOC 655,"  Case Studies in Structural Molecular Biology",3,"
+ Principles of macromolecular structure and function with emphasis on proteins, molecular assemblies, enzyme mechanisms, and ATP enzymology.","Prerequisite, CHEM 430; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+BIOC 660,"  Introduction to Light Microscopy",1,"
+ Fundamentals of optics and light microscope design for the novice student.","Prerequisites, BIOC 650, 651, and 652 or permission of the course director.",,,"Letter grade.
+"
+BIOC 662,"  Macromolecular Interactions",1,"
+ Theory and practice of biophysical methods used in the study of interactions between macromolecules and their ligands, including surface plasmon resonance, analytical ultracentrifugation, and calorimetry.","Prerequisites, BIOC 650, 651, and 652; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+BIOC 663A,"  Macromolecular NMR",1,"
+ Principles and practice of nuclear magnetic resonance spectroscopy: applications to biological macromolecule structure and dynamics in solution. Course intended primarily for graduate students.","Prerequisites, BIOC 650, 651, and 652; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+BIOC 663B,"  Macromolecular NMR Practice",1,"
+ Lab section for BIOC 663A. Course intended primarily for graduate students.","Prerequisite, BIOC 664; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+BIOC 664,"  Macromolecular Spectroscopy",1,"
+ Required preparation, two semesters of physical chemistry or permission of the instructor. Principles of UV, IR, Raman, fluorescence, and spin resonance spectroscopies; applications to the study of macromolecules and membranes. Course intended primarily for graduate students.","Prerequisite, CHEM 430.",,,"Letter grade.
+"
+BIOC 665,"  Advanced NMR Spectroscopy Course",1,"
+Advanced NMR Spectroscopy",,,,"Pass/Fail.
+"
+BIOC 666,"  X Ray Crystallography of Macromolecules",1,"
+ Principles of protein crystallography, characterization of crystals, theory of diffraction, phasing of macromolecular crystals and structure refinement. Course intended primarily for graduate students.","Prerequisites, BIOC 650, 651, and 652; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+BIOC 667,"  Macromolecular Crystallographic Methods",2,"
+ A combined lecture/laboratory workshop for serious students of protein crystallography. Course intended primarily for graduate students.","Prerequisite, BIOC 666; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+BIOC 668,"  Principles of and Simulation of Macromolecular Dynamics",1,"
+ A combined lecture/computer lab treatment of the principles of macromolecular dynamics and structure as approached using the tools of molecular dynamics simulations. Course intended primarily for graduate students.","Prerequisites, BIOC 650, 651, and 652; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+BIOC 670,"  Biomolecular Informatics",1,"
+ A combined lecture/computer lab course introducing the methods and principles of biological data management as this relates to macromolecular sequence analysis. Course intended primarily for graduate students.","Prerequisites, BIOC 650, 651, and 652; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+BIOC 671,"  Summer Research in Biophysics",3,"
+This class is a 10-week summer course in biophysics.",,,,"Letter grade.
+"
+BIOC 673,"  Proteomics, Protein Identification and Characterization by Mass Spectrometry",1,"
+ A lecture module that introduces students to mass spectrometry-based proteomics in new biology discovery and precision medicine. Course intended primarily for graduate students.","Prerequisites, BIOC 650, 651, and 652, or one semester of physical chemistry; permission of the instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+BIOC 674,"  Ion Channels Transporters",1,"
+Ion Channels Transporters",,,,"Pass/Fail.
+"
+BIOC 678,"  Electrical Signals from Macromolecular Assemblages",2,"
+ An intensive, six-hour per week introduction to the fundamentals of ion channel biophysics, including laboratory sessions to demonstrate principles and methods. Course intended primarily for graduate students.","Prerequisites, BIOC 650, 651, and 652; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+BIOC 690,"  Special Topics in Biochemistry",13,"
+Special topics course. Content and topics will vary each semester.",,,,"Letter grade.
+"
+BIOC 700,"  Origins and Early Evolution of Life",2,"
+Critical reading and discussion in the origins of, metabolism, inheritance, and natural selection, and biological complexity",,,,"Letter grade.
+"
+BIOC 701,"  Critical Analysis in Biochemistry",2,"
+Permission of the instructor. Critical analysis of research papers from departmental seminar series, student presentations, meet seminar speakers, learn about departmental research and current techniques.",,,,"Letter grade.
+"
+BIOC 702,"  Advanced Topics in Chromatin and Epigenetics",1,"
+Each class covers a unique topic in epigenetics and provide a historical view of the major discoveries that shaped the field with discussions and examinations of current literature.",,,,"Letter grade.
+"
+BIOC 703,"  Seminars in Chromatin and Epigenetics",1,"
+Designed to expose students to the broad epigenetic research interests of our large epigenetics focused faculty and expose students to a broad range of epigenetics research techniques.",,,,"Letter grade.
+"
+BIOC 704,"  Seminars in Biophysics",2,"
+Permission of the instructor. Students present seminars coordinated with the visiting lecturer series of the Program in Molecular and Cellular Biophysics.",,,,"Letter gradeSame as: BIOL 704.
+"
+BIOC 705,"  Advanced Biophysics Laboratory",24,"
+Permission of the program director. Designed to introduce students in the Molecular and Cellular Biophysics Program to research methods. Minor investigative projects are conducted with advice and guidance of the staff. May be repeated for credit.",,,,"Letter grade.
+"
+BIOC 706,"  Biochemistry of Human Disease",3,"
+Required preparation, biochemistry. Permission of the instructor. Graduate level, involves lectures, critical readings, and discussions of biochemical aspects of human diseases. Core biochemical principles and cutting edge approaches are considered in the following: amyotrophic lateral sclerosis, Alzheimer's, cancer, cystic fibrosis, HIV, thrombosis and heart disease, schizophrenia, V(D)J recombination, and neglected diseases.",,,,"Letter grade.
+"
+BIOC 707,"  Cellular Metabolism and Human Disease",2,"
+Open to 1st year BBSP or advanced graduate students with background in basic cellular biochemistry. Permission of the instructor. Addresses the role of cellular metabolism in human disease, including the roles and regulation of biochemical pathways. Recent advances will be emphasized. Diseases addressed will include cancer and diabetes.",,,,"Letter grade.
+"
+BIOC 711,"  Research Concepts in Biochemistry",2,"
+Master's candidates in biochemistry and biophysics only. A series of lectures and exercises on formulating a research plan to attack a specific scientific problem, and on presenting the research plan in the form of a grant proposal.",,,,"Letter grade.
+"
+BIOC 712,"  Scientific Writing",3,"
+Doctoral candidates in biochemistry and biophysics only. A course of lectures and workshops on the principles of clear scientific exposition with emphasis on the design and preparation of research grants.",,,,"Letter grade.
+"
+BIOC 715,"  Scientific Presentation",1,"
+Senior graduate students present original research results as a formal seminar. Feedback on presentation effectiveness and style will be provided by faculty instructors and classmates.",,,,"Letter grade.
+"
+BIOC 720,"  The Biochemistry of HIV Replication, Inhibitors, and Drug Resistance",2,"
+Seminar/discussion/literature course on structure-function of HIV proteins.  Discussion of polymerases, proteases, protein-protein interactions, protein degradation pathways, protein-nucleic acid recognition, transcriptional control, RNA splicing and transport, and mechanisms of drug resistance.",,,,"Letter grade.
+"
+BIOC 721,"  Cell Regulation by Ubiquitination",2,"
+Required preparation, two semesters of biochemistry. Lecture and literature-based discussion course on ubiquitin-mediated regulation of hormone receptor signaling, trafficking, and degradation.",,,,"Letter grade.
+"
+BIOC 722A,"  Cellular and Molecular Neurobiology: Introduction and Electrical Signaling",2,"
+Permission of the department. This course explores the experimental and theoretical function of the nervous system. Typically, the first hour is fundamental material presentation and the second hour may be a presentation led by the students. Topics covered include: cellular diversity in the CNS, gross brain anatomy, human and rodent brain imaging, neuromolecular genetics, behavioral methods, membrane potentials/resistance/capacitance, ion channel structure, electrophysiology and propagation of electrical signals in neurons. Basic undergraduate biology, chemistry, physics and intro calculus is assumed.",,,,"Letter gradeSame as: NBIO 722A, PHCO 722A.
+"
+BIOC 722B,"  Cellular and Molecular Neurobiology: Postsynaptic Mechanisms-Receptors",2,"
+Permission of the department. Consideration of membrane receptor molecules activated by neurotransmitters in the nervous system with emphasis on ligand binding behavior and molecular and functional properties of different classes of receptors. Course meets for four weeks with six lecture hours per week.",,,,"Letter gradeSame as: NBIO 722B, PHCO 722B.
+"
+BIOC 725,"  Signal Transduction",2,"
+Seminar/discussion course on molecular aspects of the receptors, G-proteins, effector proteins, kinases, and phosphatases that mediate hormone, neurotransmitter, growth factor, and sensory signaling.",,,,"Letter gradeSame as: PHCO 725.
+"
+BIOC 738,"  Nanomedicine",3,"
+This course offers an introduction to the interdisciplinary field of nanomedicine for students with a physical, chemical, or biological sciences background.  This course will emphasize emerging nanotechnologies and biomedical applications including nanomaterials, nanoengineering, nanotechnology-based drug delivery systems, nano-based imaging and diagnostic systems, nanotoxicology, and translating nanomedicines into clinical investigation.",,,,"Letter grade.
+"
+BIOC 740,"  Contemporary Topics in Cell Signaling: Phosphorylation Control",1,"
+Required preparation, coursework in biochemistry, pharmacology, and/or cell & molecular biology. Permission of the instructor. This graduate-level course is an in-depth analysis of how protein kinases and protein phosphorylation regulates key aspects of cell signaling. This class is one of the "Contemporary Topics in Cell Signaling" modules.",,,,"Letter grade.
+"
+BIOC 741,"  Contemporary Topics in Cell Signaling: GTPases",1,"
+Required preparation, coursework in biochemistry, pharmacology, and/or cell & molecular biology. Permission of the instructor. This graduate-level course conveys principles of signal transduction controlled by GTPases and emphasizes in-depth discussion of current literature and unanswered questions. This class is one of the "Contemporary Topics in Cell Signaling" modules.",,,,"Letter grade.
+"
+BIOC 742,"  Contemporary Topics in Cell Signaling: Cell Cycle Control",1,"
+Permission of the instructor. Required preparation, coursework in biochemistry and/or cell & molecular biology. This graduate-level course conveys principles of eukaryotic cell proliferation control emphasizing in-depth discussion of current literature and unanswered questions. This class is one of the Contemporary Topics in Cell Signaling modules.",,,,"Letter grade.
+"
+BIOC 743,"  Contemporary Topics in Cell Signaling: Signaling Networks",1,"
+Acquire the scientific vocabulary of the signaling network field. Master key concepts from mathematical characterization of signaling circuits. Develop and apply critical analysis skills.",,,,"Letter gradeSame as: PHCO 743.
+"
+BIOC 744,"  Topics on Stem Cells and Development",2,"
+Required preparation, coursework in genetics, cell biology, and molecular biology. Permission of the instructor. Course addresses key issues in developmental biology focused on the role of stem cells and emphasizes in-depth discussion of current literature and unanswered questions. One of the Contemporary Topics in Cell Signaling modules.",,,,"Letter gradeSame as: PHCO 744.
+"
+BIOC 802,"  Seminar in the Phase Problem in X-Ray Crystallography",2,"
+Permission of the instructor. Image formation is treated from a quite general point of view, drawing from Fourier transform methods used in X-ray crystallography. Isomorphous replacement, multiple wavelength anomalous scattering, and Bayesian direct methods are covered. One two-hour seminar a week.",,,,"Letter grade.
+"
+BIOC 803,"  Seminar on Cell Signaling",2,"
+Required preparation, two semesters of biochemistry. Signal transduction in embryonic development.",,,,"Letter grade.
+"
+BIOC 804,"  Seminar in DNA-Protein Interactions",2,"
+Required preparation, two semesters of biochemistry. Review of current literature on structural, thermodynamic, and kinetic aspects of binding to DNA of proteins involved in replication, regulation, recombination, and repair.",,,,"Letter grade.
+"
+BIOC 805,"  Molecular Modeling",3,"
+ Introduction to computer-assisted molecular design, techniques, and theory with an emphasis on the practical use of molecular mechanics and quantum mechanics programs.","Prerequisites, MATH 231, 232, and CHEM 481.",,,"Letter gradeSame as: CBMC 805.
+"
+BIOC 806,"  Macromolecular Modeling",3,"
+ Introduction to modeling and simulation techniques for biological macromolecules. Two lecture and three to four laboratory hours per week.","Prerequisites, MATH 231, 232, and CHEM 430.",,,"Letter gradeSame as: MEDC 806.
+"
+BIOC 807,"  Seminar in Cellular Responses to DNA Damage",2,"
+Required preparation, graduate-level courses (one each) in molecular biology and biochemistry. A seminar course on the enzymology of DNA repair and damage tolerance and the regulation of genes involved in these processes. Both classic and recent literature are discussed.",,,,"Letter grade.
+"
+BIOC 808,"  From Force to Phenotype: How Biological Structures Respond to Physical Force",2,"
+Literature/discussion course on integrating physics with biology, and the challenge of merging structural dynamics with living cell phenotypes.  Forces and biological outcomes will be considered through specific examples.",,,,"Letter grade.
+"
+BIOC 888,"  Responsible Conduct of Research",1,"
+Classroom-based graduate level course covering critical topics for ethical and responsible conduct of experimental research. There are both classroom lecture, workshop-type discussion components, in addition to assigned outside of class readings. Case studies and hypothetical situations involving the most likely scenarios confronting graduate students will be covered, these topics include: mentor and mentee relationships, publication authorship, collaboration, peer review, conflicts of interest, intellectual property, plagiarism, data acquisition and data processing. Restricted to students in good standing as a graduate student at UNC; In the unlikely event that classroom space is limited, preference will be given to graduate students who have previously received external federal funding sources and may require a refresher course in RCR.",,,"May be repeated for credit. 2 total credits. 1 total completions.","Letter gradeSame as: BCB 888.
+"
+BIOC 901,"  Research in Biochemistry",39,"
+Permission of the department.",,,,"Letter grade.
+"
+BIOC 902,"  Research in Biochemistry",121,"
+Permission of the department. Six or more hours a week throughout both semesters.",,,,"Letter grade.
+"
+BIOC 992,"  Master's (Non-Thesis)",3,"
+",,,,
+BIOC 994,"  Doctoral Research and Dissertation",3,"
+",,,,

@@ -1,0 +1,73 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+BCB 555,"  Bioalgorithms",3,"
+ Bioinformatics algorithms. Topics include DNA restriction mapping, finding regulatory motifs, genome rearrangements, sequence alignments, gene prediction, graph algorithms, DNA sequencing, protein sequencing, combinatorial pattern matching, approximate pattern matching, clustering and evolution, tree construction, Hidden Markov Models, randomized algorithms.","Prerequisites, COMP 401, 410, and MATH 231 or 241; or BIOL 452; or MATH 553; or BIOL 525; a grade of C or better is required in all prerequisite courses.",,,"Letter gradeSame as: COMP 555.
+"
+BCB 645,"  Quantitative Genetics of Complex Traits",1,"
+Students will learn about various topics that form the basis for understanding quantitative genetics of complex traits with biomedical and agricultural relevance. The ultimate goal of quantitative genetics in this postgenomic era is prediction of phenotype from genotype, namely deducing the molecular basis for genetic trait variation.",,,,"Letter gradeSame as: GNET 645.
+"
+BCB 701,"  Genome Sciences Seminar Series",1,"
+Open to bioinformatics students only. Diverse but current topics in all aspects of bioinformatics. Relates new techniques and current research of notables in the field of bioinformatics and computational biology.",,,"May be repeated for credit. ","Letter grade.
+"
+BCB 702,"  Genome Sciences Seminar Series",1,"
+Open to bioinformatics students only. Diverse but current topics in all aspects of bioinformatics. Relates new techniques and current research of notables in the field of bioinformatics.",,,"May be repeated for credit. ","Letter grade.
+"
+BCB 710,"  Bioinformatics Colloquium",1,"
+The goal of this course is to expose students to the research interests of BCB faculty and to provide an opportunity for students to present their own work and receive input from their peers and faculty.",,,,"Letter grade.
+"
+BCB 712,"  Databases, Metadata, Ontologies, and Digital Libraries for Biological Sciences",1,"
+Course introduces the basic information-science methods for storage and retrieval of biological information.",,,,"Letter grade.
+"
+BCB 715,"  Mathematical and Computational Approaches to Modeling Signaling and Regulatory Pathways",1,"
+The course provides an introduction to the basic mathematical techniques used to develop and analyze models of biochemical networks. Both deterministic and stochastic models are discussed.",,,,"Letter grade.
+"
+BCB 716,"  Sequence Analysis",1,"
+This module is designed to introduce students to concepts and methods in the comparative analysis of nucleic acid sequences using state of the art sequencing platforms. Course topics will include sequence alignment, genome assembly, and computational details of contemporary protocols for DNA and RNA sequencing.",,,,"Letter grade.
+"
+BCB 717,"  Structural Bioinformatics",1,"
+Course introduces methods and techniques for protein modeling.",,,,"Letter grade.
+"
+BCB 718,"  Computational Modeling Laboratory",1,"
+This course provides a practical introduction to computational modeling of cellular systems. We will focus on how to choose and implement different modeling techniques-deterministic, stochastic, and inferred-to describe the same biological phenomenon. Although no formal mathematical or computational background is required, the course will involve a fair amount of programming in MATLAB.",,,,"Letter grade.
+"
+BCB 720,"  Introduction to Statistical Modeling",3,"
+This course introduces foundational statistical concepts and models that motivate a wide range of analytic methods in bioinformatics, statistical genetics, statistical genomics, and related fields. Students are expected to know single-variable calculus, be familiar with matrix algebra, and have some programming experience.",,,,"Letter grade.
+"
+BCB 722,"  Population Genetics",1,"
+This short course will cover methods of inferring/estimating natural selection, including the Dn/Ds ratio, the McDonald-Kreitman test, and the Poisson Random Field model. The course will feature discussions of high-profile publications that describe the application of these methods to yield insights into the forces that have shaped organismal evolution.",,,,"Letter gradeSame as: GNET 722.
+"
+BCB 723,"  Topics in Statistical Genetics and Genomics",1,"
+This module introduces selected concepts and techniques in statistical genetics and genomics.",,,,"Letter grade.
+"
+BCB 725,"  Introduction to Statistical Genetics",3,"
+Covers statistical methods for the analysis of family and population-based genetic data. Topics include classical linkage analysis, population-based and family-based association analysis, haplotype analysis, genome-wide association studies, basic principles in population genetics, imputation-based analysis, pathway-based analysis, admixture mapping, analysis of copy number variations, and analysis of massively parallel sequencing data.",,,,"Letter grade.
+"
+BCB 730,"  Fundamentals of Quantitative Image Analysis for Light Microscopy",1,"
+This course is a practical introduction to quantitative analysis of light microscopy images. During the class students will follow tutorials that will guide them through common tasks in analysis of biological images. They will be introduced to basic concepts of image processing like image registration, filtering, object detection etc.",,,,"Letter gradeSame as: GNET 730.
+"
+BCB 784,"  Introduction to Computational Biology",3,"
+ Molecular biology, sequence alignment, sequence motifs identification by Monte Carlo Bayesian approaches, dynamic programming, hidden Markov models, computational algorithms, statistical software, high-throughput sequencing data and its application in computational biology.","Prerequisites, BIOS 661 and 663; Permission of the instructor for students lacking the prerequisites.",,,"Letter gradeSame as: BIOS 784.
+"
+BCB 785,"  Statistical Methods for Gene Expression Analysis",3,"
+ Clustering algorithms, classification techniques, statistical techniques for analyzing multivariate data, analysis of high dimensional data, parametric and semiparametric models for DNA microarray data, measurement error models, Bayesian methods, statistical software, sample size determination in microarray studies, applications to cancer.","Prerequisites, BIOS 661 or 673, and 663; Permission of the instructor for students lacking the prerequisites.",,,"Letter gradeSame as: BIOS 785.
+"
+BCB 850,"  Training in Bioinformatics and Computational Biology Teaching",3,"
+Principles of bioinformatic and computational biology pedagogy. Students are responsible for assistance in teaching BCB and work under the supervision of the faculty, with whom they have regular discussion of methods, content, and evaluation of performance.",,,"May be repeated for credit. ","Letter grade.
+"
+BCB 888,"  Responsible Conduct of Research",1,"
+Classroom-based graduate level course covering critical topics for ethical and responsible conduct of experimental research. There are both classroom lecture, workshop-type discussion components, in addition to assigned outside of class readings. Case studies and hypothetical situations involving the most likely scenarios confronting graduate students will be covered, these topics include: mentor and mentee relationships, publication authorship, collaboration, peer review, conflicts of interest, intellectual property, plagiarism, data acquisition and data processing. Restricted to students in good standing as a graduate student at UNC; In the unlikely event that classroom space is limited, preference will be given to graduate students who have previously received external federal funding sources and may require a refresher course in RCR.",,,"May be repeated for credit. 2 total credits. 1 total completions.","Letter gradeSame as: BIOC 888.
+"
+BCB 891,"  Special Topics",13,"
+Advance topics in current research in statistics and operations research.",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter gradeSame as: MATH 891, GNET 891.
+"
+BCB 899,"  Special Topics in Bioinformatics and Computational Biology",16,"
+Special topics course in the Bioinformatics and Computational Biology Curriculum. Topics will vary.",,,"May be repeated for credit. 9 total credits. 9 total completions.","Letter grade.
+"
+BCB 905,"  Research in Bioinformatics and Computational Biology",18,"
+Credit awarded to students for research in bioinformatics and computational biology.",,,"May be repeated for credit. ","Letter grade.
+"
+BCB 993,"  Master's Research and Thesis",3,"
+Students are not accepted for master's program.",,,"May be repeated for credit. 
+",
+BCB 994,"  Doctoral Research and Dissertation",3,"
+Credit for work done towards doctorate.",,,"May be repeated for credit. 
+",

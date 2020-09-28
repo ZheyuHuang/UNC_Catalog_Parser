@@ -1,0 +1,438 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+INLS 73,"  First-Year Seminar: Smart Cities",3,"
+Topics and trends in sustainable and smart cities. Role of information in the design of network resources and impact on urban design, development, and urban living will be explored.",,,,"Letter grade.
+"
+INLS 89,"  First-Year Seminar: Special Topics",3,"
+Special topics course; content will vary each semester.",,,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 2 total completions.","Letter grade.
+"
+INLS 151,"  Retrieving and Analyzing Information",3,"
+Introduction to and application of the processes that can be used in seeking information, evaluating the quality of the information retrieved, and synthesizing the information into a useful form.",,"SS.",,"Letter grade.
+"
+INLS 161,"  Tools for Information Literacy",3,"
+Tools and concepts for information literacy. Includes software use and maintenance, computer applications, and networked information systems.",,,,"Letter grade.
+"
+INLS 201,"  Foundations of Information Science",3,"
+Examines the evolution of information science; information representation, organization and management; search and retrieval; human information seeking and interaction; organizational behavior and communication; policy, ethics and scholarly communication.",,"SS.",,"Letter grade.
+"
+INLS 202,"  Retrieval and Organizing Systems",3,"
+ Introduction to foundational core concepts and core techniques in information organization, information retrieval, and data mining.","Prerequisite, INLS 201.",,,"Letter grade.
+"
+INLS 203,"  Human Information Behavior",3,"
+ Introduces key areas and concepts in information science, to include task modeling, information-seeking behavior, search behavior, human-computer interaction, usability, user interfaces, social media, and social media analysis.","Prerequisite, INLS 201.",,,"Letter grade.
+"
+INLS 318,"  Human Computer Interaction",3,"
+ Design, implementation, and evaluation of interfaces for computer systems. User-based techniques, usability issues, and human factors.","Prerequisite, INLS 382.",,,"Letter grade.
+"
+INLS 382,"  Information Systems Analysis and Design",3,"
+ Analysis of organizational problems and how information systems can be designed to solve those problems. Application of database and interface design principles to the implementation of information systems.","Pre- or corequisite, INLS 161.",,,"Letter grade.
+"
+INLS 384,"  Information and Computer Ethics",3,"
+ Overview of ethical reasoning, followed by examination of ethical issues relevant to information science, including access to information and technology, societal impacts of technology, information privacy, surveillance and security, intellectual property, and professional ethics.","Prerequisite, INLS 201.","PH, CI.",,"Letter grade.
+"
+INLS 385,"  Information Use for Organizational Effectiveness",3,"
+Basic concepts in the way that information, people, and technology interact to influence organizational effectiveness. Principles of problem solving, teamwork, leadership, and organizational change/innovation.",,,,"Letter grade.
+"
+INLS 393,"  Information Science Internship",3,"
+Permission of the school. Supervised observation and practice in information science. The internship typically takes place in an information agency or an information technology company. Faculty-led seminars and a paper enhance the experience. Pass/Fail only.",,"EE- Academic Internship.",,"Pass/Fail.
+"
+INLS 396,"  Independent Study in Information Systems",13,"
+Study by an individual student on a special topic under the direction of a specific faculty member. A prospectus/plan for the work is required in advance of registration.",,,"May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+INLS 418,"  Human Factors in System Design",3,"
+ Design, implementation, and evaluation of interfaces for computer systems. User-based techniques, usability issues, and human factors.","Prerequisite, INLS 382.",,,"Letter grade.
+"
+INLS 465,"  Understanding Information Technology for Managing Digital Collections",3,"
+Prepares students to be conversant with information technologies that underlie digital collections in order to evaluate the work of developers, delegate tasks, write requests for proposals, and establish policies and procedures. Teaches students how to think about information technology systems and recognize and manage interdependencies between parts of the systems.",,,,"Letter grade.
+"
+INLS 467,"  Introduction to Information Security",3,"
+ Students will learn about many of the current issues facing businesses as well as how to prevent and discuss these issues and controls in depth. Focus will be placed upon preventing loss of information and protecting networks. Students should be able to understand any security control, describe its usage and rationale, as well as test and verify these controls are working as expected.","Prerequisite, INLS 161.",,,"Letter grade.
+"
+INLS 490,"  Selected Topics",13,"
+Exploration of an introductory-level special topic not otherwise covered in the curriculum. Previous offerings of these courses do not predict their future availability; new courses may replace these.",,,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 3 total completions.","Letter grade.
+"
+INLS 493,"  Professional Field Experience",1,"
+ Second field experience course to be offered to coincide with the student's information science project in a local organization. Enrollment restricted to IS majors and minors; Instructor permission required.","Prerequisite, INLS 393.",,,"Pass/Fail.
+"
+INLS 500,"  Human Information Interactions",3,"
+ The behavioral and cognitive activities of those who interact with information, with emphasis on the role of information mediators. How information needs are recognized and resolved; use and dissemination of information.","Prerequisite, INLS 203 or graduate standing.",,,"Letter grade.
+"
+INLS 501,"  Information Resources and Services",3,"
+Analysis, use, and evaluation of information and reference systems, services, and tools for both  printed and electronic delivery. Provides a foundation in electronic information search techniques, question negotiation, interviewing, and instruction.",,,,"Letter grade.
+"
+INLS 509,"  Information Retrieval",3,"
+Study of information retrieval and question answering techniques, including document classification, retrieval and evaluation techniques, handling of large data collections, and the use of feedback.",,,,"Letter gradeSame as: COMP 487.
+"
+INLS 512,"  Applications of Natural Language Processing",3,"
+ Students with graduate standing in SILS may take the course without the prerequisite. Explores current and future uses of natural language technologies. Topics vary and may include translation, generation, deception, health informatics, ethics and evaluation, and student-selected areas of interest.","Prerequisite, COMP 110, 116, or 410.",,,"Letter gradeSame as: COMP 486.
+"
+INLS 513,"  Resource Selection and Evaluation",3,"
+Identification, provision, and evaluation of resources to meet primary needs of clientele in different institutional environments.",,,,"Letter grade.
+"
+INLS 515,"  Consumer Health Information",3,"
+Examines concepts of health, health conditions, policy, and information collections and services from social and cultural perspectives. Analysis and design for provision and access to consumer health information services.",,,,"Letter grade.
+"
+INLS 520,"  Organization of Information",3,"
+Introduction to the problems and methods of organizing information, including information structures, knowledge schemata, data structures, terminological control, index language functions, and implications for searching.",,,,"Letter grade.
+"
+INLS 523,"  Introduction to Database Concepts and Applications",3,"
+ Design and implementation of basic database systems. Semantic modeling, relational database theory, including normalization, indexing, and query construction, SQL.","Prerequisite, INLS 161; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+INLS 525,"  Electronic Records Management",3,"
+Explores relationships between new information and communication technologies and organizational efforts to define, identify, control, manage, and preserve records. Considers the importance of organizational, institutional and technological factors in determining appropriate recordkeeping strategies.",,,,"Letter grade.
+"
+INLS 530,"  Young Adult Literature and Related Materials",3,"
+A survey of print and nonprint library materials particularly suited to the needs of adolescents.",,,,"Letter grade.
+"
+INLS 534,"  Youth and Technology in Libraries",3,"
+This course encourages students to explore the array of technologies available to children and adolescents, the issues surrounding the use of technology, the role of care givers, and potential impacts on development.",,,,"Letter grade.
+"
+INLS 539,"  Going the Last Mile: Information Access for Underserved Populations",3,"
+In this course we investigate the special challenges of providing information services to marginalized populations in an increasingly digital world.",,,,"Letter grade.
+"
+INLS 540,"  Building a Personal Digital Library",3,"
+Students will implement a personal digital LifeTime Library. Topics include creation of a personal digital library, organization of the material, creation of descriptive metadata, management, and sharing of the collection.",,,,"Letter grade.
+"
+INLS 541,"  Information Visualization",3,"
+An introduction to information visualization through reading current literature and studying exemplars. The course reviews information visualization techniques, provides a framework for identifying the need for information visualization, and emphasizes interactive electronic visualizations that use freely available tools. Students will construct several visualizations. No programming skills are required.",,,,"Letter grade.
+"
+INLS 550,"  History of the Book and Other Information Formats",3,"
+The history of the origin and development of the book in all its formats: clay tablets to electronic. Coverage includes scientific and other scholarly publications, religious works, popular literature, periodicals, and newspapers.",,,,"Letter grade.
+"
+INLS 551,"  History of Libraries and Other Information-Related Cultural Institutions",3,"
+The history of cultural institutions related to information from earliest times to the present day. Includes specific institutions, trends in service and facilities, and individuals important in the development of these institutions.",,,,"Letter grade.
+"
+INLS 554,"  Cultural Institutions",3,"
+This course will explore cultural institutions--libraries, museums, parks, zoological and botanical gardens, reconstructions and other settings--as lifelong educational environments.",,,,"Letter grade.
+"
+INLS 556,"  Introduction to Archives and Records Management",3,"
+Survey of the principles, techniques, and issues in the acquisition, management, and administration of records, manuscripts, archives, and other cultural and documentary resources in paper, electronic, and other media formats.",,,,"Letter grade.
+"
+INLS 558,"  Principles and Techniques of Storytelling",3,"
+An overview of storytelling, its historical development, and the presentation and administration of storytelling programs. The class focuses on performance skills merged with theoretical issues.",,,,"Letter grade.
+"
+INLS 560,"  Programming for Information Science",3,"
+Introduction to programming and computational concepts. Students will learn to write programs using constructs such as iteration, flow control, variables, functions, and error handling. No programming experience required.",,,,"Letter grade.
+"
+INLS 561,"  Digital Forensics for Curation of Digital Collections",3,"
+Students will learn about hardware, software, principles, and methods for capturing and curating digital data that have been stored on removable media (i.e., hard drives, floppy disks, USB memory sticks).",,,,"Letter grade.
+"
+INLS 570,"  Intermediate Programming and Data Analysis",3,"
+ Intermediate programming concepts in information processing and data analysis. Students will learn object-oriented programming, data structures, data analysis methods, and information processing techniques in the context of information science topics.","Prerequisite, COMP 110, COMP 116, or INLS 560, or equivalent course.",,,"Letter grade.
+"
+INLS 572,"  Web Development I",1,"
+ Introduction to Internet history, architecture, and applications. Introduces design principles for creating usable and accessible Web sites. Develops technical skills and understanding of standards.","Prerequisite, INLS 161.",,,"Letter grade.
+"
+INLS 573,"  Mobile Web Development",1,"
+ An introduction to techniques and technologies for the development of mobile Web sites and their applications.","Prerequisite, INLS 161.",,,"Letter grade.
+"
+INLS 576,"  Distributed Systems and Administration",3,"
+ Distributed and client/server-based computing. Includes operating system basics, security concerns, and issues and trends in network administration.","Prerequisite, INLS 161 or 461.",,,"Letter grade.
+"
+INLS 578,"  Protocols and Network Management",3,"
+ Network protocols and protocol stacks. Included are discussions of protocol classes, packet filtering, address filtering, network management, and hardware such as protocol analyzers, repeaters, routers, and bridges.","Prerequisite, INLS 161 or 461.",,,"Letter grade.
+"
+INLS 581,"  Research Methods Overview",3,"
+An introduction to research methods used in information and library science, exploring the design, interpretation, analysis, and application of published research.",,,,"Letter grade.
+"
+INLS 582,"  Systems Analysis",3,"
+ Introduction to the systems approach to the design and development of information systems. Methods and tools for the analysis and modeling of system functionality (e.g., structured analysis) and data represented in the system (e.g., object-oriented analysis) are studied.","Prerequisite, INLS 382 or graduate standing.",,,"Letter grade.
+"
+INLS 584,"  Information Ethics",3,"
+An overview of ethical reasoning, followed by discussion of issues most salient to information professionals, e.g., intellectual property, privacy, access/censorship, effects of computerization, and ethical codes of conduct.",,,,"Letter grade.
+"
+INLS 585,"  Management for Information Professionals",3,"
+Introduction to management principles and practices for information professionals working in all types of organizations. Topics include planning, budgeting, organizational theory, staffing, leadership, organizational change and evaluation, and decision making.",,,,"Letter grade.
+"
+INLS 586,"  Project Management",1,"
+Strategies and skills needed to effectively manage projects, integrating project management theory with best practices in different organizational perspectives. Individual and team assignments include readings and case studies.",,,,"Letter grade.
+"
+INLS 609,"  Experimental Information Retrieval",3,"
+ This course takes an in-depth look at experimental information retrieval systems that focus on different search tasks and are evaluated in community-wide evaluation forums such as TREC and INEX.","Prerequisite, INLS 509.",,,"Letter grade.
+"
+INLS 613,"  Text Mining",3,"
+This course will allow the student to develop a general understanding of knowledge discovery and gain a specific understanding of text mining. Students will become familiar with both the theoretical and practical aspects of text mining and develop a proficiency with data modeling text.",,,,"Letter grade.
+"
+INLS 620,"  Web Information Organization",3,"
+ Similar programming background needed. Understand the Web as a platform for information organizing systems. Learn how the Web has been designed to be a service platform, data publishing platform, and application platform.","Prerequisites, INLS 520 or 560.",,,"Letter grade.
+"
+INLS 621,"  Personal Information Management",3,"
+This course focuses on issues in personal information management research and practice, including information organization, human cognition and memory, task continuity across devices, preservation, and the role of technology in personal information management.",,,,"Letter grade.
+"
+INLS 623,"  Database Systems II: Intermediate Databases",3,"
+ Intermediate-level design and implementation of database systems, building on topics studied in INLS 523. Additional topics include MySQL, indexing, XML, and nontext databases.","Prerequisites, INLS 382 or 582, and 523.",,,"Letter grade.
+"
+INLS 624,"  Policy-Based Data Management",3,"
+ Students will develop policies for managing digital repositories and persistent archives. The rules will be implemented in the integrated Rule-Oriented Data System (iRODS), which organizes and distributes data into shareable collections.","Prerequisite, INLS 461 or COMP 110 or 116.",,,"Letter grade.
+"
+INLS 625,"  Information Analytics",3,"
+ This course introduces analytical techniques to deal with very large data sets. Students will become familiar with predictive modeling, clustering, data mining, and paradigms such as map resource.","Prerequisite, INLS 560; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+INLS 626,"  Introduction to Big Data and NoSQL",1,"
+ Information is being generated at an exponential scale in many areas, from astronomy to social networking and e-marketing. Processes for handling these data are data intensive, require heavy read/write workloads, and do not need the stringent ACID properties of relational databases. Several specific systems will be studied as examples.","Prerequisite, INLS 523.",,,"Letter grade.
+"
+INLS 641,"  Visual Analytics",3,"
+This project-based course provides an overview of visual analytics. Material includes foundational concepts and theories, seminal and recent research in the field, and hands-on experience with commonly used technologies. Programming experience strongly recommended.",,,,"Letter grade.
+"
+INLS 651,"  Audio-Visual Archives Management",1,"
+An introduction to the management of audio, film, and video archives with an emphasis on the history of recording, best practices for preservation and access, and copyright. Through selected readings, lecture, class discussion, assignment, and hands-on demonstration, students will gain an understanding of the history of recording, format identification, storage and handling, philosophy of media preservation, and copyright.",,,,"Letter grade.
+"
+INLS 660,"  Social Media and Society: A Theoretical and Empirical Overview",3,"
+Explores the evolution, implications, and complications of social media in multiple spheres of life including sociality, community, politics, power and inequality, education, and information from theoretical and empirical perspectives.",,,,"Letter grade.
+"
+INLS 672,"  Web Development II",3,"
+ Study of design and implementation of applications using both client and server side configuration and programming. Example topics include PHP, ruby on Rails, and Javascript.","Prerequisite, INLS 572.",,,"Letter grade.
+"
+INLS 685,"  Project Management: Strategy and Applications",3,"
+This course is a broad introduction to project management principles, tools, and strategies intended for use in a variety of applications. Key topics include project planning tools, project process groups, risk assessment, budgeting/cost estimation, and team management. Through the use of readings, videos, assignments, and forum discussions, students will have the opportunity to demonstrate knowledge and understanding of the strategy behind successful project management and problem resolution.",,,,"Letter grade.
+"
+INLS 690,"  Intermediate Selected Topics",13,"
+Exploration of a special topic not otherwise covered in the curriculum, at an intermediate level. Previous offering of this course does not predict future availability; new courses may replace these. Topic varies by instructor.",,,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 3 total completions.","Letter grade.
+"
+INLS 691H,"  Research Methods in Information Science",3,"
+Senior standing and permission of the instructor. Restricted to information science majors. An introduction to research methods used in information science. Includes the writing of a research proposal.",,"CI, EE- Mentored Research.",,"Letter grade.
+"
+INLS 692H,"  Honors Thesis in Information Science",3,"
+Senior standing and permission of the instructor. Restricted to information science majors Students in the SILS undergraduate honors program engage in independent research and write an honors thesis reporting the research under the supervision of a faculty member.",,"EE- Mentored Research.",,"Letter grade.
+"
+INLS 696,"  Study in Information and Library Science",13,"
+ Study by an individual student on a special topic under the direction of a specific faculty member. Six credit maximum for master's students. Graduate faculty.","Prerequisite, permission of the instructor.",,"May be repeated for credit; may be repeated in the same term for different topics; 6 total credits. 2 total completions.","Letter grade.
+"
+INLS 697,"  Information Science Capstone",3,"
+Senior standing required. Information science major or minor. Contemporary topics of information science, information systems, information technology, information design, and information management. Assessment of future impact of new developments.",,,,"Letter grade.
+"
+INLS 700,"  Scholarly Communication",1,"
+ Addresses how scholars approach academic work; social relationships within academia; external stakeholders in the scholarly communication system; and emerging technologies' impact upon work practices. Intended for students interested in academic libraries or digital collections of scholarly materials, and/or conducting research on scholarly communication.","Prerequisite, INLS 500 or permission of instructor.",,,"Letter grade.
+"
+INLS 701,"  Information Retrieval Search Strategies",3,"
+ Investigates information retrieval techniques and strategies from the world of electronic information sources, including commercial and Internet databases and search engines. Data analysis, marketing, and end-user products and services are explored.","Prerequisite, INLS 501 or INLS 509.",,,"Letter grade.
+"
+INLS 702,"  Social Science Information",1,"
+ Survey of information and its needs in the social sciences, with an emphasis on information use and search strategies and on information resources.","Prerequisite, INLS 501.",,,"Letter grade.
+"
+INLS 703,"  Science Information",3,"
+ Survey of the communication of scientific information and the information sources in the physical and biological sciences; emphasis on major bibliographic and fact sources, including online reference services.","Prerequisite, INLS 501.",,,"Letter grade.
+"
+INLS 704,"  Humanities Information",1,"
+ Survey of information and its needs in the humanities, with an emphasis on information use and search strategies and on reference and other information resources.","Prerequisite, INLS 501.",,,"Letter grade.
+"
+INLS 705,"  Health Sciences Information",3,"
+ A survey of information used in the health sciences disciplines and professions. The organization of sources, current techniques, and tools for its control, including online databases.","Prerequisite, INLS 501.",,,"Letter grade.
+"
+INLS 706,"  Biomedical Informatics Research Review",1,"
+Develops understanding of information/library science research issues related to biomedical and health informatics through the review of journal articles, invited talks, and critical group discussions.",,,"May be repeated for credit. ","Letter grade.
+"
+INLS 707,"  Government Information",3,"
+A survey of information and data sources from all levels of U.S. government, and international bodies. Primary focus on strategies for finding information; secondary, collection management, role of librarians, etc.",,,,"Letter grade.
+"
+INLS 708,"  Law Libraries and Legal Information",3,"
+ An introduction to the legal system and the development of law libraries, their unique objectives, characteristics, and functions. The literature of Anglo-American jurisprudence and computerized legal research are emphasized, as well as research techniques.","Prerequisite, INLS 501.",,,"Letter grade.
+"
+INLS 709,"  Business Information",3,"
+ Combines an introduction to basic business concepts and vocabulary with consideration of current issues in business librarianship and of key print and electronic information sources.","Prerequisite, INLS 501.",,,"Letter grade.
+"
+INLS 710,"  Evidence-Based Medicine",3,"
+An introduction to the process of evidence-based medicine (EBM) including question building, searching, and critical appraisal of studies and to the supporting roles and opportunities for medical librarians.",,,,"Letter grade.
+"
+INLS 711,"  Disaster Planning for Libraries",1,"
+Disasters can come in a variety of forms (e.g. hurricanes, floods, fires, tornadoes, etc.) and strike at any time. Preparedness, prevention, and planning are all critical components of effective disaster responsiveness. In this course, students will learn about disaster prevention, recovery, training, and outreach as they apply to the library setting.",,,,"Letter grade.
+"
+INLS 712,"  Introduction to Text Mining",1,"
+Changes in technology and publishing practices have eased the task of recording and sharing textual information electronically. This increased quantity of information has spurred the development of a new field called text mining. The overarching goal of this new field is to use computers to automatically learn new things from textual data. Throughout the course, a strong emphasis will be placed on evaluation. Students will develop a deep understanding of one particular method through a course project.",,,,"Letter grade.
+"
+INLS 714,"  Introduction to Information Analytics",1,"
+The data explosion experienced by computerization of every aspect of our lives from social media to internet of things requires a deeper look at information analytics. The course introduces proven and emerging analytical techniques that can be used to deal with mountains of mostly unstructured data. We will look at several analytical paradigms from Predictive Modeling to Data Mining, Text Analytics to Web Analytics, Statistical Analysis to novel paradigms in Map Reduce and Storm.",,,,"Letter grade.
+"
+INLS 718,"  User Interface Design",3,"
+ Basic principles for designing the human interface to information systems, emphasizing computer-assisted systems. Major topics: users' conceptual models of systems, human information processing capabilities, styles of interfaces, evaluation methods.","Prerequisite, INLS 582.",,,"Letter grade.
+"
+INLS 719,"  Usability Testing and Evaluation",3,"
+ This course will introduce central concepts in usability engineering, testing and evaluation including: UX lifecycle, contextual inquiry, formal and informal evaluation techniques, measures, metrics, qualitative and qualitative analysis, evaluation reporting.","Prerequisites, INLS 382 or INLS 582.",,,"Letter grade.
+"
+INLS 720,"  Metadata Architectures and Applications",3,"
+ Examines metadata in digital environment. Emphasizes the development and implementation of metadata schemas in distinct information communities and the standards and technological applications used to create machine understandable metadata.","Prerequisite, INLS 509 or 520.",,,"Letter grade.
+"
+INLS 721,"  Cataloging Theory and Practice",3,"
+ Covers principles, practices, and future trends for cataloging library resources. Topics include RDA/AACR2, MARC, authority control, subject analysis, classification, and cataloging of print, nonprint, and digital resources.","Pre- or corequisite, INLS 520.",,,"Letter grade.
+"
+INLS 722,"  Introduction to Metadata Architectures and Applications",1,"
+Examines fundamental concepts central to structured metadata implementations and surveys the many types of standards that attempt to harmonize description and enable interoperable systems. The course situates the challenge of implementing standards for interoperable data within the messy reality of persistent interpretive diversity. Students cannot receive credit for both INLS 722 and INLS 720.",,,,"Letter grade.
+"
+INLS 723,"  Database Systems III: Advanced Databases",3,"
+ Advanced study of database systems. Topics include database design, administration, current issues in development and use, optimization, indexing, transactions, and database programming.","Prerequisite, INLS 623.",,,"Letter grade.
+"
+INLS 724,"  Introduction to Electronic Records Management",1,"
+We explore the management and preservation of electronic records for maintaining institutional accountability; protecting rights of citizens, employees and customers; supporting efficient operations; perpetuating social memory; and helping individuals to integrate the past into their sense of identity.  We begin by considering the messy recordkeeping environment that surrounds us and then build up a set of concepts, tools and strategies that information professionals can use to help shape more appropriate, valuable and sustainable recordkeeping systems.",,,,"Letter grade.
+"
+INLS 725,"  Electronic Health Records",3,"
+Focuses on EHR data standards with emphasis on data management requirements, applications, and services. Course includes HL7, CCHIT, and CDISC standards. For data management specialists, administrators, and health data analysts.",,,,"Letter grade.
+"
+INLS 728,"  Seminar in Knowledge Organization",3,"
+ Explores theoretical foundations, historical approaches, and current practices for organizing knowledge. Covers general terminological and classificatory systems, domain semantic systems, and research.","Prerequisite, INLS 509 or 520; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+INLS 732,"  Children's Literature and Related Materials",3,"
+Survey of literature and related materials for children with emphasis on 20th-century authors and illustrators.",,,,"Letter grade.
+"
+INLS 733,"  Administration of Public Library Work with Children and Young Adults",3,"
+Objectives and organization of public library services for children and young adults; designed for those who may work directly with young people or who intend to work in public libraries.",,,,"Letter grade.
+"
+INLS 735,"  Youth Services in a Diverse Society",3,"
+The purpose of this course is to prepare students to work as youth services librarians in today's increasingly diverse society. The course includes a 30-hour service learning component.",,,,"Letter grade.
+"
+INLS 737,"  Inclusive Information Services for Diverse Populations",3,"
+This course will prepare students to work as ILS professionals in today's increasingly diverse society. Students will develop a theoretical base in critical race theory (CRT) and other cross-disciplinary theories.",,,,"Letter grade.
+"
+INLS 739,"  Information Services and Specific Populations",3,"
+Service, professional, and administrative issues related to information access by nontraditional information service users. The course examines trends, public policy, ethical issues, programming, and evaluation of services.",,,,"Letter grade.
+"
+INLS 740,"  Digital Libraries: Principles and Applications",3,"
+Research and development issues in digital libraries including: collection development and digitization, mixed mode holdings; access strategies and interfaces, metadata and interoperability, economic and social policies, and management and evaluation.",,,,"Letter grade.
+"
+INLS 746,"  Music Librarianship",3,"
+Survey of the history and practice of music librarianship, with an emphasis on administration, collection development, and public service in academic and large public libraries.",,,,"Letter grade.
+"
+INLS 747,"  Special Libraries and Knowledge Management",3,"
+ Professional competencies required to work as a special librarian or knowledge manager in a corporate or nonprofit setting. Strategic planning. Organizational dynamics. Tailoring services. Intranet design. Value-added measures. Intellectual capital.","Prerequisite, INLS 585.",,,"Letter grade.
+"
+INLS 748,"  Health Sciences Environment",3,"
+ Trends in health care delivery, biomedical research and health sciences education, with emphasis on the impact and use of information. Includes observation of clinical and research settings.","Prerequisite, INLS 501 or 585; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+INLS 749,"  Art and Visual Information Management",3,"
+ A survey of the history and practice of art and visual resources librarianship/curatorship, with an emphasis on administration, collection development, copyright practices, digital resource management, and public service.","Prerequisite, INLS 520.",,,"Letter grade.
+"
+INLS 750,"  Introduction to Digital Curation",3,"
+Introduces students to digital curation; focusing best practices for the creation, selection, storage, provision, and long-term preservation of digital entities. Discusses the digital/data curation life cycles and identifies the activities associated with each stage and their social, legal, ethical, and policy implications.",,,,"Letter grade.
+"
+INLS 751,"  Advanced Digital Curation",3,"
+ Continuing from "Introduction to Digital Curation," this course further explores emerging best practices, standards, and new tools and workflows for the full range of life cycle activities including but are not limited to: digitization technologies; ingest; standards and quality control; storage; preservation workflows; digital asset management; and metadata.  It engages students with research data management, data management plans, data curation profiles, policy issues, content sharing, and grant writing.","Prerequisite, INLS 750.",,,"Letter grade.
+"
+INLS 752,"  Digital Preservation and Access",3,"
+Focuses on best practices for the creation, provision, and long-term preservation of digital entities. Topics include digitization technologies; standards and quality control; digital asset management; grant writing; and metadata.",,,,"Letter grade.
+"
+INLS 753,"  Preservation of Library and Archive Materials",3,"
+An introduction to current practices, issues, and trends in the preservation of materials for libraries and archives, with an emphasis on integrating preservation throughout an institution's operations.",,,,"Letter grade.
+"
+INLS 754,"  Access",,"
+ Explores user needs, information seeking behaviors, and provision of access to primary source materials in archives, manuscript repositories, and museums. User education and outreach are major foci.","Prerequisite, INLS 501.",,,"Letter grade.
+"
+INLS 755,"  Archival Appraisal",3,"
+ Explores history, theories, techniques, and methods that archivists use to identify documents andother materials of enduring value for lone-term preservation.","Prerequisite, INLS 556.",,,"Letter grade.
+"
+INLS 756,"  Data Curation and Management",3,"
+Explores data curation lifecycle activities from design of good data, through content creator management, metadata creation, ingest into a repository, repository management, access policies and implementation, and data reuse.",,,,"Letter grade.
+"
+INLS 757,"  Principles and Practices in Archival Description",3,"
+ Recommended preparation, INLS 520. Explores the history, principles, development, and use of archival description with a focus on EAD and MARC structures. Presents authority and subject analysis work and description for special formats.","Prerequisite, INLS 556.",,,"Letter grade.
+"
+INLS 758,"  International and Cross-Cultural Perspectives for Information Management",3,"
+Examines information in society for selected nations/cultures. Compares institutions, processes, and trends in the globalization of information management in the face of barriers of language and culture.",,,,"Letter grade.
+"
+INLS 760,"  Web Databases",3,"
+ Programming experience required. Explores concepts and practice surrounding the implementation and delivery of Web-enabled databases. Students will gain experience with and evaluate PC and Unix Web database platforms.","Prerequisites, INLS 572 and 623.",,,"Letter grade.
+"
+INLS 762,"  Internet Issues and Future Initiatives",3,"
+ Members of this seminar discuss emerging Internet policy issues such as copyright, intellectual property, privacy, and security. Participants will also explore emerging Internet tools and applications.","Prerequisite, INLS 572.",,,"Letter grade.
+"
+INLS 765,"  Information Technology Foundations for Managing Digital Collections",1,"
+Prepares students to be conversant with information technologies that underlie digital collections in order to evaluate the work of developers, delegate tasks, write requests for proposals, and establish policies and procedures.",,,,"Letter grade.
+"
+INLS 766,"  Audit and Certification of Trustworthy Digital Repositories",1,"
+This course will address international standards for repository design and audit; risk assessment and mitigation; repository audit and certification tools and processes; criteria for trustworthiness; and the development of specific workflows to support trustworthy digital curation functions. It is also the first step in preparing for repository self-audits and the Trustworthy Digital Repository Auditor's credential to become an auditor of trustworthy digital repositories (ISO 16363).",,,,"Letter grade.
+"
+INLS 767,"  Information Assurance",3,"
+Information assurance is a broader concept than (computerized) information security. It deals with aspects of data integrity, privacy, paper and human security issues, and security from several perspectives: legal issues, technical tools and methods, social and ethical concerns, and organization's policies and procedures, and standards. Previously offered as INLS 566.",,,,"Letter grade.
+"
+INLS 770,"  Health Informatics Seminar",1,"
+This series explores key areas in Health Informatics and includes research results, overview of programs of research, and evaluative projects. Speakers with extensive informatics experiences and knowledge from both academia and industry are invited to present.",,,"May be repeated for credit. 6 total credits. 6 total completions.","Letter grade.
+"
+INLS 781,"  Proposal Development",1,"
+ Development of a proposal for the master's paper/project/portfolio.","Prerequisite, INLS 581.",,,"Letter grade.
+"
+INLS 782,"  Library Assessment",3,"
+ Addresses evaluation and assessment activities in libraries. Existing tools for evaluation library operations will be considered. Students will design and conduct their own evaluation of one or more library operations.","Prerequisite, INLS 581.",,,"Letter grade.
+"
+INLS 783,"  Library Instruction & Pedagogy",3,"
+Examines the role of school, public, and academic librarians in providing instruction. Pedagogy, learning theories, information literacy standards and curricula, and assessment methods are addressed.",,,,"Letter grade.
+"
+INLS 785,"  Human Resources Management",3,"
+ An in-depth look at the management of human resources in libraries and other information agencies. Includes topics such as recruitment, hiring, job analysis, performance appraisal, training, and compensation.","Prerequisite, INLS 585.",,,"Letter grade.
+"
+INLS 786,"  Marketing of Information Services",3,"
+Application of marketing theory to libraries and other information settings. Includes consumer behavior, market research, segmentation, targeting and positioning, public relations, product design, and sales promotion.",,,,"Letter grade.
+"
+INLS 787,"  Legal Issues for Librarians",3,"
+Students will learn to read/analyze legal materials, identify major legal issues and legal regulations governing librarians, and use legal information to create policies and guide best practice in particular institutions.",,,,"Letter grade.
+"
+INLS 789,"  Big Data, Algorithms and Society",3,"
+This course examines the effect of big data on politics and the public sphere, how social media affects social movements, and the privacy and security vulnerabilities exposed by the coming Internet of Things. There can be potential negative societal consequences of social media and big data; this course studies the realities of the intersection of big data, algorithmic manipulation of data, and societal understanding of them.",,,,"Letter grade.
+"
+INLS 793,"  Health Informatics Practicum",3,"
+Expand classroom learning to include hands-on experience in Health IT, in the context of a particular industry sector.",,,,"Letter grade.
+"
+INLS 794,"  Digital Curation Internship",4,"
+Permission of Instructor. PSM Internship in Digital Curation is a planned, individualized, mentored, evaluated, experiential learning opportunity that serves as a bridge between academic training and non-academic practice.",,,,"Letter grade.
+"
+INLS 795,"  Supervised Field Experience",3,"
+Required preparation, completion of 18 semester hours. Permission of the instructor. Supervised observation and practice in an information service agency or library. The student will work a required amount of time under the supervision of an information/library professional and participate in faculty-led discussions for ongoing evaluation of the practical experience.",,,"May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+INLS 796,"  Field Experience in School Library Media",3,"
+Required preparation, completion of at least 21 semester hours, including INLS 744 and INLS 754. Permission of the instructor. Supervised observation and practice in a school library media center. Faculty-led seminars, reflection journals, and on-site faculty observations enhance the experience.",,,"May be repeated for credit. 6 total credits. 2 total completions.","Letter grade.
+"
+INLS 797,"  Second Field Experience for Graduate Students",1,"
+ Second Field Experience course to be offered to coincide with graduate students information or library science project in an organization. Department consent required.","Prerequisite, INLS 795.",,"May be repeated for credit. 3 total credits. 2 total completions.","Letter grade.
+"
+INLS 800,"  Seminar Series in Digital Curation",1,"
+This course will provide brief introductions to materials that do not otherwise fit into the 31 credit format of the PSM in Digital Curation degree. This course will cover established topics but also late-breaking developments so as to keep students up-to-date with changes in tools, practices, and standards. A lecture or interview with a digital curation expert will be posted biweekly.",,,,"Letter grade.
+"
+INLS 818,"  Seminar in Human-Computer Interaction",3,"
+ Research and development in design and evaluation of user interfaces that support information seeking. Major topics: interactivity, needs assessment, query and browser interactions, interactive design and maintenance, usability testing.","Prerequisite, INLS 718; permission of the instructor for students lacking the prerequisite.",,,"Letter grade.
+"
+INLS 841,"  Seminar in Academic Libraries",3,"
+ Study of problems in the organization and administration of college and university libraries with emphasis on current issues in personnel, finance, governance, and services.","Prerequisite, INLS 585.",,,"Letter grade.
+"
+INLS 842,"  Seminar in Popular Materials in Libraries",3,"
+Selected topics relating to the roles of various types of libraries in the provision and preservation of popular materials (light romances, science fiction, comic books, etc.) existing in various forms (print, recorded sound, etc.).",,,,"Letter grade.
+"
+INLS 843,"  Seminar in Public Libraries",3,"
+Required preparation, completion of 12 semester hours. Selected topics in public library services, systems, networks, and their management. Current issues are emphasized, along with the interests of the participants.",,,,"Letter grade.
+"
+INLS 857,"  Seminar in Rare Book Collections",3,"
+A study of the nature and importance of rare book collections; problems of acquisition, organization, and service.",,,,"Letter grade.
+"
+INLS 873,"  Research Practicum",13,"
+Doctoral students will work on faculty-sponsored or off-site research projects to gain foundational research skills. Students may be involved in research design, data collection, data analysis, or other research-related activities",,,"May be repeated for credit; may be repeated in the same term for different topics; 12 total credits. 6 total completions.","Letter grade.
+"
+INLS 881,"  Research Issues and Questions I",3,"
+Doctoral standing or permission of the instructor. Intensive and systematic investigation of the fundamental ideas in information and library science. Exploration and discussion in seminar format. Must be taken in fall semester followed by INLS 882 in spring.",,,,"Letter grade.
+"
+INLS 882,"  Research Issues and Questions II",3,"
+Doctoral standing or permission of the instructor. Intensive and systematic investigation of the fundamental ideas in information and library science. Exploration and discussion in seminar format. Must be taken in the spring semester immediately after INLS 881 (offered fall only).",,,,"Letter grade.
+"
+INLS 883,"  Research Colloquium",1,"
+Doctoral standing required. Presentation and discussion of research issues, questions, methods, analytical approaches by students, faculty, or visitors.",,,,"Letter grade.
+"
+INLS 884,"  Seminar in Research Methodology",3,"
+Required preparation, doctoral standing or INLS 780 for Master's students. Permission of the instructor for students lacking this preparation. Exploration of topics related to research design and methodology in information and library science.",,,,"Letter grade.
+"
+INLS 886,"  Graduate Teaching Practicum",13,"
+Permission of the instructor. Doctoral students will observe and work with faculty in the classroom to gain foundational teaching skills. Students may practice designing a class session or exercise, leading a class, and/or grading.",,,"May be repeated for credit. 3 total credits. 2 total completions.","Letter grade.
+"
+INLS 887,"  Seminar in Theory Development",3,"
+Doctoral or advanced master's standing required. Discussion and critique of the structural components and processes utilized in theory development. Seminar provides knowledge relating to the various stages of theory building.",,,,"Letter grade.
+"
+INLS 888,"  Seminar in Teaching and Academic Life",3,"
+Doctoral student or advanced master's standing required. Examines teaching, research, publication, and service responsibilities. Provides perspective on professional graduate education and LIS educational programs. Explores changing curricula and discusses ethics, rewards, and problems of academic life.",,,,"Letter grade.
+"
+INLS 889,"  Seminar in Teaching Practice",1,"
+ Doctoral standing required. For doctoral students currently involved in teaching activities, these regular seminar meetings are designed to discuss relevant literature and aspects of the teaching experience.","Pre- or corequisite, INLS 888.",,,"Letter grade.
+"
+INLS 890,"  Advanced Special Topics",16,"
+Exploration of an advanced special topic not otherwise covered in the curriculum. Previous offering of these courses does not predict their future availability; new courses may replace these.",,,"May be repeated for credit; may be repeated in the same term for different topics; 9 total credits. 3 total completions.","Letter grade.
+"
+INLS 988,"  Research in Information and Library Science",16,"
+Permission of the instructor. Supports individual and small group research undertaken by doctoral students in information and library science intended to produce research results of publishable quality.",,,"May be repeated for credit; may be repeated in the same term for different topics.","Letter grade.
+"
+INLS 992,"  Master's (Non-Thesis)",3,"
+Provides a culminating experience for master's degree students, who engage in independent research or project effort and develop a major paper reporting the research or project under the supervision of a faculty member.",,,"May be repeated for credit. 
+",
+INLS 994,"  Doctoral Research and Dissertation",3,"
+",,,,

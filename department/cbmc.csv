@@ -1,0 +1,16 @@
+code, name, credit, desc, Prereqs, GenEd, Repeat, Grading
+CBMC 804A,"  Biochemical Foundations of Chemical Biology",3,"
+ This course is designed to emphasize the elements of biochemistry, bioorganic chemistry, and molecular biology required for the design and synthesis of biologically-active compounds.","Prerequisites, CHEM 466, BIOC 505 or 601, and PHCO 643; Permission of instructor for students lacking the prerequisites.",,,"Letter grade.
+"
+CBMC 804B,"  Biochemical Foundations of Chemical Biology Journal Club",1,"
+ This is a seminar based course that will run in concert with 804A. Students will present journal articles and interact with seminar speakers.","Co-requisite, CBMC 804A; Permission of the instructor for students lacking the co-requisite.",,"May be repeated for credit. 2 total credits. 2 total completions.","Letter grade.
+"
+CBMC 805,"  Molecular Modeling",3,"
+ Introduction to computer-assisted molecular design, techniques, and theory with an emphasis on the practical use of molecular mechanics and quantum mechanics programs.","Prerequisites, MATH 231, 232, and CHEM 481.",,,"Letter gradeSame as: BIOC 805.
+"
+CBMC 807,"  Foundations of Chemical Biology I: Organic and Medicinal Chemistry",3,"
+ The elements of organic chemistry required for the design and synthesis of chemical probes and biologically active compounds.","Prerequisite, CHEM 262.",,,"Letter grade.
+"
+CBMC 833,"  Molecular Target-Based Drug Discovery",3,"
+ An integrated introduction to molecular target-based drug discovery including bioactive natural products, neuropharmacology, chemical biology, and recent advances and techniques in drug discovery.","Prerequisite, CBMC 804A and 804B.",,,"Letter grade.
+"
